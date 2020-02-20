@@ -1,0 +1,56 @@
+[03-Oct-2016 11:59:33 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:34 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:34 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:41 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:42 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:42 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:42 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:42 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:58 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:59 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:59 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:59 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 11:59:59 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:00:24 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:01:26 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:01:26 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:01:26 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:01:26 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:02:41 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:02:41 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:02:41 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:02:41 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 17
+[03-Oct-2016 12:06:30 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:30 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:30 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:31 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:38 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:38 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:38 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:50 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:50 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:51 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:51 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:51 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:06:55 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:16:20 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:16:20 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:16:20 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:16:38 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:16:39 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:16:39 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:16:39 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:17:21 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:17:21 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:17:21 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:17:21 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 12:17:21 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 15
+[03-Oct-2016 17:51:20 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\uploadfile.php on line 10
+[03-Oct-2016 17:51:43 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\uploadfile.php on line 10
+[03-Oct-2016 18:01:34 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\uploadfile.php on line 10
+[03-Oct-2016 18:03:16 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\uploadfile.php on line 10
+[03-Oct-2016 18:03:47 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\uploadfile.php on line 10
+[03-Oct-2016 18:04:08 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\uploadfile.php on line 10
+[03-Oct-2016 18:06:25 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\uploadfile.php on line 10
+[03-Oct-2016 18:07:07 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\uploadfile.php on line 10
+[03-Oct-2016 18:09:14 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\uploadfile.php on line 10

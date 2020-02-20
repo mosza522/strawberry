@@ -1,0 +1,4 @@
+[30-Aug-2017 11:30:56 Asia/Bangkok] PHP Warning:  unlink(../image/528-abc.html): No such file or directory in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 32
+[30-Aug-2017 13:50:52 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delpromotion.php on line 10
+[30-Aug-2017 16:26:37 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\user\adduser.php on line 32
+[30-Aug-2017 16:27:02 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\user\adduser.php on line 32

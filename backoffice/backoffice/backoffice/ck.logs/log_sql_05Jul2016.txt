@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/07/2016 09:0:46 h
+SQL ERROR : Database Select DB Fail
+MSG ERROR : Unknown database 'lawer'
+

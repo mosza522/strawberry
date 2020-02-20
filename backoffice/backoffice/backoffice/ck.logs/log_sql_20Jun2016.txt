@@ -1,0 +1,40 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 11:0:55 h
+SQL ERROR : SELECT * FROM ck_user_admin  WHERE admin_username="admin" and admin_password="81dc9bdb52d04dc20036dbd8313ed055"
+MSG ERROR : Table 'zlouis_schedule.ck_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 11:0:14 h
+SQL ERROR : SELECT * FROM db_user_admin  WHERE admin_username="admin" and admin_password="81dc9bdb52d04dc20036dbd8313ed055"
+MSG ERROR : Table 'zlouis_schedule.db_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 12:0:56 h
+SQL ERROR : SELECT * FROM ey_useradmin  WHERE admin_username="admin" and admin_password="81dc9bdb52d04dc20036dbd8313ed055"
+MSG ERROR : Table 'lawer.ey_useradmin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 12:0:20 h
+SQL ERROR : UPDATE ey_user_admin SET admin_lastlogin="20-06-2016 12:04:20"  WHERE admin_id=1
+MSG ERROR : Table 'lawer.ey_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 12:0:31 h
+SQL ERROR : UPDATE ey_user_admin SET admin_lastlogin="20-06-2016 12:05:31"  WHERE admin_id=1
+MSG ERROR : Table 'lawer.ey_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 12:0:58 h
+SQL ERROR : UPDATE ey_user_admin SET admin_lastlogin="20-06-2016 12:05:58"  WHERE admin_id=1
+MSG ERROR : Table 'lawer.ey_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 14:0:32 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM   
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 14:0:35 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM   
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 14:0:57 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM   
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/06/2016 15:0:22 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ey_user_admin  
+MSG ERROR : Table 'lawer.ey_user_admin' doesn't exist
+

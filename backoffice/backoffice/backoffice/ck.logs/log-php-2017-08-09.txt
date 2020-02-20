@@ -1,0 +1,5 @@
+[09-Aug-2017 13:20:53 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\newstraw\backoffice\branch\home.php on line 71
+[09-Aug-2017 13:21:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\newstraw\backoffice\branch\home.php on line 71
+[09-Aug-2017 13:21:39 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\newstraw\backoffice\branch\home.php on line 71
+[09-Aug-2017 13:22:02 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\newstraw\backoffice\branch\home.php on line 71
+[09-Aug-2017 15:27:32 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\editbranch.php on line 99

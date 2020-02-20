@@ -1,0 +1,6 @@
+[28-Jun-2016 14:13:25 Asia/Bangkok] PHP Warning:  explode(): Empty delimiter in D:\xampp\htdocs\new_schedule\projectlist\upproject.php on line 112
+[28-Jun-2016 14:13:25 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\new_schedule\projectlist\upproject.php on line 113
+[28-Jun-2016 14:13:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in D:\xampp\htdocs\new_schedule\projectlist\upproject.php on line 128
+[28-Jun-2016 14:13:55 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in D:\xampp\htdocs\new_schedule\projectlist\upproject.php on line 128
+[28-Jun-2016 16:17:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in D:\xampp\htdocs\new_schedule\inc_sidemenu.php on line 93
+[28-Jun-2016 16:18:05 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in D:\xampp\htdocs\new_schedule\inc_sidemenu.php on line 93

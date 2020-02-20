@@ -1,0 +1,228 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 19:0:19 h
+SQL ERROR : INSERT INTO tb_rate_point (rate_name, rate_point) VALUES ('1', NULL)
+MSG ERROR : Column 'rate_point' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 19:0:25 h
+SQL ERROR : INSERT INTO tb_rate_point (rate_name, rate_point) VALUES ('1', NULL)
+MSG ERROR : Column 'rate_point' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 19:0:57 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 19:0:12 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 19:0:14 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 19:0:15 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 19:0:16 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:41 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809401)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:47 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809407)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:53 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809413)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:58 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809418)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:16 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809436)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:02 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809482)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:54 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809534)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:56 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809536)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:05 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809545)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:20 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809860)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:21 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809861)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:22 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809922)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:23 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809923)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:24 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809924)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:24 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809924)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:25 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809925)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:25 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809925)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:25 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809925)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:25 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809925)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:25 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809925)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:25 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809925)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:26 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474809926)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:44 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474810244)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:51 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474810251)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:09 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474810269)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:15 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474810275)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:36 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474810296)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:33 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474810353)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:30 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300179398', NULL, 1474810530)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:23 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810943)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:26 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810946)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:27 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810947)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:27 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810947)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:27 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810947)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:28 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810948)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:28 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810948)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:28 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810948)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:29 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810949)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:29 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810949)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:29 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810949)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:29 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810949)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:30 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810950)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:30 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810950)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:30 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810950)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:31 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810951)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:31 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810951)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:31 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810951)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:42 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474810962)
+MSG ERROR : Column 'PropertyCode' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 20:0:39 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES ('1301300177891', NULL, 1474811079)
+MSG ERROR : Column 'point_scroll' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/09/2016 23:0:58 h
+SQL ERROR : UPDATE tb_voucher SET reserv_status = '0', reserv_update = '25/09/2016 23:18:58'  WHERE reserv_id = '1'
+MSG ERROR : Unknown column 'reserv_id' in 'where clause'
+

@@ -1,0 +1,24 @@
+[08-Sep-2016 10:28:07 Asia/Bangkok] PHP Warning:  unlink(../image/admin/): Permission denied in C:\xampp\htdocs\CRM\backoffice\admin\up.php on line 6
+[08-Sep-2016 10:34:04 Asia/Bangkok] PHP Warning:  unlink(../image/admin/): Permission denied in C:\xampp\htdocs\CRM\backoffice\admin\up.php on line 6
+[08-Sep-2016 10:35:23 Asia/Bangkok] PHP Warning:  unlink(../image/admin/08092016103403admin.jpg): No such file or directory in C:\xampp\htdocs\CRM\backoffice\admin\up.php on line 6
+[08-Sep-2016 10:42:05 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\CRM\backoffice\admin\up.php on line 6
+[08-Sep-2016 11:41:04 Asia/Bangkok] PHP Warning:  include(emp-profile/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[08-Sep-2016 11:41:04 Asia/Bangkok] PHP Warning:  include(): Failed opening 'emp-profile/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[08-Sep-2016 11:52:37 Asia/Bangkok] PHP Warning:  include(collegian-up/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[08-Sep-2016 11:52:37 Asia/Bangkok] PHP Warning:  include(): Failed opening 'collegian-up/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[08-Sep-2016 12:02:26 Asia/Bangkok] PHP Warning:  include(collegian-up/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[08-Sep-2016 12:02:26 Asia/Bangkok] PHP Warning:  include(): Failed opening 'collegian-up/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[08-Sep-2016 12:04:14 Asia/Bangkok] PHP Warning:  include(collegian-up/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[08-Sep-2016 12:04:14 Asia/Bangkok] PHP Warning:  include(): Failed opening 'collegian-up/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[08-Sep-2016 13:19:08 Asia/Bangkok] PHP Warning:  unlink(../image/08092016112439emp.jpg): No such file or directory in C:\xampp\htdocs\CRM\backoffice\emp-profile\up.php on line 7
+[08-Sep-2016 13:23:05 Asia/Bangkok] PHP Warning:  unlink(../image/08092016112439emp.jpg): No such file or directory in C:\xampp\htdocs\CRM\backoffice\emp-profile\up.php on line 7
+[08-Sep-2016 17:16:38 Asia/Bangkok] PHP Warning:  include(user-profile/upemp.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 96
+[08-Sep-2016 17:16:38 Asia/Bangkok] PHP Warning:  include(): Failed opening 'user-profile/upemp.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 96
+[08-Sep-2016 17:17:07 Asia/Bangkok] PHP Warning:  include(user-profile/upuser.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 96
+[08-Sep-2016 17:17:08 Asia/Bangkok] PHP Warning:  include(): Failed opening 'user-profile/upuser.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 96
+[08-Sep-2016 17:17:20 Asia/Bangkok] PHP Warning:  include(user-profile/upuser.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 96
+[08-Sep-2016 17:17:20 Asia/Bangkok] PHP Warning:  include(): Failed opening 'user-profile/upuser.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 96
+[08-Sep-2016 17:45:52 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\CRM\backoffice\profile-user\uploadfile.php on line 10
+[08-Sep-2016 17:46:48 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\CRM\backoffice\profile-user\up.php on line 7
+[08-Sep-2016 17:47:24 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\CRM\backoffice\profile-user\up.php on line 7
+[08-Sep-2016 17:48:15 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\CRM\backoffice\profile-user\up.php on line 7

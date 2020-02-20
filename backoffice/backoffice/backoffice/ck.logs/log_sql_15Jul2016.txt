@@ -1,0 +1,32 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/07/2016 12:0:15 h
+SQL ERROR : UPDATE tb_employee SET emp_last_login="15-07-2016 12:07:15"  WHERE emp_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/07/2016 12:0:34 h
+SQL ERROR : UPDATE tb_employee SET emp_last_login="15-07-2016 12:07:34"  WHERE emp_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/07/2016 12:0:49 h
+SQL ERROR : UPDATE tb_employee SET emp_last_login="15-07-2016 12:09:49"  WHERE emp_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/07/2016 12:0:23 h
+SQL ERROR : UPDATE tb_employee SET emp_last_login="15-07-2016 12:11:23"  WHERE emp_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/07/2016 12:0:48 h
+SQL ERROR : UPDATE tb_employee SET emp_last_login="15-07-2016 12:11:48"  WHERE emp_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/07/2016 14:0:22 h
+SQL ERROR : INSERT INTO tb_employee (emp_name, emp_tel, emp_email, emp_address, emp_pass, emp_company, admin_create, create_date) VALUES ('ทิพากร การถาง', '+66857527341', 'menunreal47@gmail.com', '111/6 บุรีรัมย์', 'nshiBy1iDa', NULL, '1', '15/07/2016 14:59:22')
+MSG ERROR : Column 'emp_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/07/2016 15:0:34 h
+SQL ERROR : INSERT INTO tb_employee (emp_name, emp_tel, emp_email, emp_address, emp_pass, emp_company, admin_create, create_date) VALUES ('ทิพากร การถาง', '+66857527341', 'menunreal47@gmail.com', '111/6 บุรีรัมย์', 'rITuRcly7Y', NULL, '1', '15/07/2016 15:00:34')
+MSG ERROR : Column 'emp_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/07/2016 17:0:35 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_member,employee  
+MSG ERROR : Table 'crm.employee' doesn't exist
+

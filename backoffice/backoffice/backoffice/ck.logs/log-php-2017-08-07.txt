@@ -1,0 +1,23 @@
+[07-Aug-2017 10:31:03 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\editproduct.php on line 56
+[07-Aug-2017 10:31:03 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\editproduct.php on line 62
+[07-Aug-2017 10:31:26 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\editproduct.php on line 56
+[07-Aug-2017 10:31:26 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\editproduct.php on line 62
+[07-Aug-2017 10:32:29 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\editproduct.php on line 64
+[07-Aug-2017 13:18:31 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 12
+[07-Aug-2017 13:18:31 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 15
+[07-Aug-2017 13:20:09 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 12
+[07-Aug-2017 13:20:09 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 14
+[07-Aug-2017 13:21:35 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 12
+[07-Aug-2017 13:21:35 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 14
+[07-Aug-2017 13:22:30 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 12
+[07-Aug-2017 13:22:30 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 17
+[07-Aug-2017 13:22:48 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 12
+[07-Aug-2017 13:22:48 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 17
+[07-Aug-2017 13:26:08 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 12
+[07-Aug-2017 13:26:08 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 14
+[07-Aug-2017 13:26:40 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 13
+[07-Aug-2017 13:26:40 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 15
+[07-Aug-2017 13:26:56 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 15
+[07-Aug-2017 13:27:55 Asia/Bangkok] PHP Warning:  unlink(image/852-461791.png): No such file or directory in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 15
+[07-Aug-2017 13:30:24 Asia/Bangkok] PHP Warning:  unlink(image/889-16.png): No such file or directory in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 15
+[07-Aug-2017 13:31:29 Asia/Bangkok] PHP Warning:  unlink(image/733-457821.png): No such file or directory in C:\xampp\htdocs\newstraw\backoffice\delproduct.php on line 15

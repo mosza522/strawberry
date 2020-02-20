@@ -1,0 +1,93 @@
+[24-Jan-2017 13:25:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2859
+[24-Jan-2017 13:25:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2886
+[24-Jan-2017 13:25:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2904
+[24-Jan-2017 13:25:52 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2859
+[24-Jan-2017 13:25:52 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2886
+[24-Jan-2017 13:25:52 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2904
+[24-Jan-2017 13:26:22 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2859
+[24-Jan-2017 13:26:22 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2886
+[24-Jan-2017 13:26:22 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2904
+[24-Jan-2017 13:32:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2859
+[24-Jan-2017 13:32:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2886
+[24-Jan-2017 13:32:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2904
+[24-Jan-2017 13:33:10 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2859
+[24-Jan-2017 13:33:10 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2886
+[24-Jan-2017 13:33:10 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2904
+[24-Jan-2017 13:44:03 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2859
+[24-Jan-2017 13:44:03 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2886
+[24-Jan-2017 13:44:03 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2904
+[24-Jan-2017 13:45:41 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2859
+[24-Jan-2017 13:45:41 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2886
+[24-Jan-2017 13:45:41 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2904
+[24-Jan-2017 13:45:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2859
+[24-Jan-2017 13:45:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2886
+[24-Jan-2017 13:45:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2904
+[24-Jan-2017 13:46:06 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2859
+[24-Jan-2017 13:46:06 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2886
+[24-Jan-2017 13:46:06 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\catagories\class.upload.php on line 2904
+[24-Jan-2017 13:46:21 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\catagories\update.php on line 38
+[24-Jan-2017 13:46:27 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\catagories\update.php on line 38
+[24-Jan-2017 13:57:58 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\labtech\backoffice\product\addproduct.php on line 54
+[24-Jan-2017 13:59:36 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\labtech\backoffice\product\addproduct.php on line 29
+[24-Jan-2017 14:02:24 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\labtech\backoffice\product\addproduct.php on line 33
+[24-Jan-2017 14:02:32 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\labtech\backoffice\product\addproduct.php on line 33
+[24-Jan-2017 14:14:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:14:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:14:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:14:57 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:14:57 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:14:57 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:15:27 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:15:27 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:15:27 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:15:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:15:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:15:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:20:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:20:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:20:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:21:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:21:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:21:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:22:16 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:22:16 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:22:16 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:22:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:22:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:22:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:23:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:23:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:23:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:25:29 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:25:29 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:25:29 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:25:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:25:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:25:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:26:02 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 14:26:02 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 14:26:02 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 14:49:20 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 14:49:22 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 14:51:25 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 14:51:26 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 14:53:27 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 14:54:14 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 14:55:54 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 14:57:48 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 14:58:46 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 15:02:27 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 15:04:53 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\product\update.php on line 39
+[24-Jan-2017 15:08:39 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 15:08:39 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 15:08:39 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 15:20:04 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 15:20:04 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 15:20:04 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 15:23:34 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2859
+[24-Jan-2017 15:23:34 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2886
+[24-Jan-2017 15:23:34 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\product\class.upload.php on line 2904
+[24-Jan-2017 18:16:24 Asia/Bangkok] PHP Warning:  copy(../../vdo/20170124181624.mp4): failed to open stream: No such file or directory in C:\xampp\htdocs\labtech\backoffice\news\add.php on line 10
+[24-Jan-2017 18:17:11 Asia/Bangkok] PHP Warning:  copy(../../news/20170124181711.mp4): failed to open stream: No such file or directory in C:\xampp\htdocs\labtech\backoffice\news\add.php on line 10
+[24-Jan-2017 18:25:26 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\news\update.php on line 26
+[24-Jan-2017 18:25:27 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\news\update.php on line 26

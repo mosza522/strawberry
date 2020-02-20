@@ -1,0 +1,9 @@
+[02-Apr-2016 14:15:03 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '=' in D:\xampp\htdocs\Vtiger\insurance\show.php on line 94
+[02-Apr-2016 14:15:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '=' in D:\xampp\htdocs\Vtiger\insurance\show.php on line 94
+[02-Apr-2016 14:17:02 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in D:\xampp\htdocs\Vtiger\backoffice\backoffice\ck.plugin\templates\inc_function.php on line 120
+[02-Apr-2016 14:17:10 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in D:\xampp\htdocs\Vtiger\backoffice\backoffice\ck.plugin\templates\inc_function.php on line 120
+[02-Apr-2016 14:18:42 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in D:\xampp\htdocs\Vtiger\backoffice\backoffice\ck.plugin\templates\inc_function.php on line 120
+[02-Apr-2016 14:48:55 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in D:\xampp\htdocs\Vtiger\backoffice\backoffice\ck.plugin\templates\inc_function.php on line 120
+[02-Apr-2016 14:49:37 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in D:\xampp\htdocs\Vtiger\backoffice\backoffice\ck.plugin\templates\inc_function.php on line 120
+[02-Apr-2016 14:51:41 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in D:\xampp\htdocs\Vtiger\backoffice\backoffice\ck.plugin\templates\inc_function.php on line 120
+[02-Apr-2016 15:23:25 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\Vtiger\insurance\show.php on line 113

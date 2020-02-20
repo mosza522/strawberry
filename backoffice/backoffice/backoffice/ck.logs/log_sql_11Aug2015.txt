@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/08/2015 15:0:50 h
+SQL ERROR : UPDATE ck_voice_actor SET actor_voice = 'test20150811150650actorJang Hyunseung (BEAST) - Ma First (Feat. Giriboy).mp3'  WHERE voice_actor_id = '1'
+MSG ERROR : Unknown column 'actor_voice' in 'field list'
+

@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 26/08/2016 19:0:10 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES (NULL, '7', 1472216170)
+MSG ERROR : Column 'point_idcard' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 26/08/2016 19:0:22 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES (NULL, '7', 1472216242)
+MSG ERROR : Column 'point_idcard' cannot be null
+

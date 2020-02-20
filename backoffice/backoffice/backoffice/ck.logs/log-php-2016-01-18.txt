@@ -1,0 +1,15 @@
+[18-Jan-2016 09:33:34 Asia/Bangkok] PHP Warning:  include(inc_head.php): failed to open stream: No such file or directory in D:\xampp\htdocs\snakemuseum\main\report1\testreport.php on line 65
+[18-Jan-2016 09:33:34 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_head.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\snakemuseum\main\report1\testreport.php on line 65
+[18-Jan-2016 09:33:34 Asia/Bangkok] PHP Warning:  include(inc_footer.php): failed to open stream: No such file or directory in D:\xampp\htdocs\snakemuseum\main\report1\testreport.php on line 186
+[18-Jan-2016 09:33:34 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_footer.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\snakemuseum\main\report1\testreport.php on line 186
+[18-Jan-2016 10:06:24 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, integer given in D:\xampp\htdocs\snakemuseum\main\testreport.php on line 142
+[18-Jan-2016 10:06:24 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, integer given in D:\xampp\htdocs\snakemuseum\main\testreport.php on line 142
+[18-Jan-2016 17:25:59 Asia/Bangkok] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 58
+[18-Jan-2016 17:25:59 Asia/Bangkok] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Invalid cell coordinate A' in D:\xampp\htdocs\snakemuseum\main\ticket\Classes\PHPExcel\Cell.php:558
+Stack trace:
+#0 D:\xampp\htdocs\snakemuseum\main\ticket\Classes\PHPExcel\Worksheet.php(1227): PHPExcel_Cell::coordinateFromString('A')
+#1 D:\xampp\htdocs\snakemuseum\main\ticket\Classes\PHPExcel\Worksheet.php(1186): PHPExcel_Worksheet->_createNewCell('A')
+#2 D:\xampp\htdocs\snakemuseum\main\ticket\Classes\PHPExcel\Worksheet.php(1095): PHPExcel_Worksheet->getCell('A')
+#3 D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php(58): PHPExcel_Worksheet->setCellValue('A', 'Hello')
+#4 {main}
+  thrown in D:\xampp\htdocs\snakemuseum\main\ticket\Classes\PHPExcel\Cell.php on line 558

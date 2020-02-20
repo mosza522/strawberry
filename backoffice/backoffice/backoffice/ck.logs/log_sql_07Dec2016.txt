@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 07/12/2016 16:0:23 h
+SQL ERROR : SELECT advertise_sort asc FROM tb_advertise 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asc FROM tb_advertise' at line 1
+
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 07/12/2016 16:0:26 h
+SQL ERROR : SELECT advertise_sort asc FROM tb_advertise 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asc FROM tb_advertise' at line 1
+
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 07/12/2016 18:0:15 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id, image_type) VALUES (NULL, '1', 'about')
+MSG ERROR : Column 'image_pic' cannot be null
+
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 07/12/2016 18:0:22 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id, image_type) VALUES (NULL, '1', 'about')
+MSG ERROR : Column 'image_pic' cannot be null
+
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 07/12/2016 18:0:19 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id, image_type) VALUES (NULL, '10', 'trans')
+MSG ERROR : Column 'image_pic' cannot be null
+

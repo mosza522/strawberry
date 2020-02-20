@@ -1,0 +1,28 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/10/2015 14:0:10 h
+SQL ERROR : INSERT INTO ck_journalclub (reason_article, title, authors, year_publication, journal, journal_volume, journal_issue, journal_pages, aims, study_design, criteria, design, analysis_type, setting, inclusion_criteria, exclusion_criteria, intervebtion, endpoint, efficacy, safety, economics, conclusion, applied_setting, apprisal) VALUES ('<p>test</p>\r\n', 'test', 'test', '2015-10-29', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+MSG ERROR : Unknown column 'reason_article' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/10/2015 14:0:13 h
+SQL ERROR : INSERT INTO ck_journalclub (reason_article, title, authors, year_publication, journal, journal_volume, journal_issue, journal_pages, aims, study_design, criteria, design, analysis_type, setting, inclusion_criteria, exclusion_criteria, intervebtion, endpoint, efficacy, safety, economics, conclusion, applied_setting, apprisal) VALUES ('<p>test</p>\r\n', 'test', 'test', '2015-10-29', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+MSG ERROR : Unknown column 'reason_article' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/10/2015 14:0:19 h
+SQL ERROR : INSERT INTO ck_journalclub (reason_article, title, authors, year_publication, journal, journal_volume, journal_issue, journal_pages, aims, study_design, criteria, design, analysis_type, setting, inclusion_criteria, exclusion_criteria, intervebtion, endpoint, efficacy, safety, economics, conclusion, applied_setting, apprisal) VALUES ('<p>test</p>\r\n', 'test', 'test', '2015-10-29', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test', 'test')
+MSG ERROR : Unknown column 'reason_article' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/10/2015 14:0:36 h
+SQL ERROR : UPDATE ck_journalclub SET nPic = 'jour_1.pdf'  WHERE nID IS NULL
+MSG ERROR : Unknown column 'nID' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/10/2015 14:0:42 h
+SQL ERROR : UPDATE ck_journalclub SET nPic = 'jour_2.pdf'  WHERE nID IS NULL
+MSG ERROR : Unknown column 'nID' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/10/2015 16:0:45 h
+SQL ERROR : UPDATE ck_journalclub SET nPic = 'jour_3.pdf'  WHERE journal_id IS NULL
+MSG ERROR : Unknown column 'nPic' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/10/2015 16:0:13 h
+SQL ERROR : UPDATE ck_journalclub SET nPic = 'jour_4.pdf'  WHERE journal_id IS NULL
+MSG ERROR : Unknown column 'nPic' in 'field list'
+

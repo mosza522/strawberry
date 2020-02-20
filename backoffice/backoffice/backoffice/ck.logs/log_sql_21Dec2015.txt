@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/12/2015 19:0:11 h
+SQL ERROR : SELECT * FROM   WHERE 1 order by grouptour_id desc
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 1 order by grouptour_id desc' at line 1
+

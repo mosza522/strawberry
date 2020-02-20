@@ -1,0 +1,108 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 01:0:01 h
+SQL ERROR : INSERT INTO ck_product (product_images, product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('2015-02-04_01-31-01_828.png', NULL, 'z', 'z', 'z', 'z', 'z', 'z', 'Y')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 01:0:03 h
+SQL ERROR : INSERT INTO ck_product (product_images, product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('2015-02-04_01-31-03_655.png', NULL, 'z', 'z', 'z', 'z', 'z', 'z', 'Y')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 01:0:03 h
+SQL ERROR : INSERT INTO ck_product (product_images, product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('2015-02-04_01-31-03_825.png', NULL, 'z', 'z', 'z', 'z', 'z', 'z', 'Y')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 01:0:04 h
+SQL ERROR : INSERT INTO ck_product (product_images, product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('2015-02-04_01-31-04_714.png', NULL, 'z', 'z', 'z', 'z', 'z', 'z', 'Y')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 01:0:11 h
+SQL ERROR : INSERT INTO ck_product (product_images, product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('2015-02-04_01-31-11_686.png', NULL, 'z', 'z', 'z', 'z', 'z', 'z', 'Y')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 01:0:12 h
+SQL ERROR : INSERT INTO ck_product (product_images, product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('2015-02-04_01-31-12_962.png', NULL, 'z', 'z', 'z', 'z', 'z', 'z', 'Y')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 01:0:12 h
+SQL ERROR : INSERT INTO ck_product (product_images, product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('2015-02-04_01-31-12_497.png', NULL, 'z', 'z', 'z', 'z', 'z', 'z', 'Y')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 10:0:50 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_ck_user_order  
+MSG ERROR : Table 'zaoft_phutawan.ck_ck_user_order' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:04 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:17 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:18 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:19 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:20 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:29 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:30 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:33 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:35 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:40 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:57 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:33 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:00 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:19 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:19 h
+SQL ERROR : SELECT * FROM ck_order_product    ORDER BY order_id desc 
+MSG ERROR : Unknown column 'order_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:58 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_order_product  WHERE op_id = $idview 
+MSG ERROR : Unknown column '$idview' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:09 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_order_product  WHERE op_id = $idview 
+MSG ERROR : Unknown column '$idview' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:32 h
+SQL ERROR : SELECT * FROM ck_user_order    ORDER BY id_order desc 
+MSG ERROR : Unknown column 'id_order' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2015 11:0:33 h
+SQL ERROR : SELECT * FROM ck_user_order    ORDER BY id_order desc 
+MSG ERROR : Unknown column 'id_order' in 'order clause'
+

@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/06/2016 17:0:39 h
+SQL ERROR : INSERT INTO ey_admin (admin_name, admin_email, admin_tel, admin_premission, admin_status, admin_username, admin_password, admin_image, admin_create) VALUES ('test test', 'test@test.com', '12345678', 'admin', 'Y', 'test', '098f6bcd4621d373cade4e832627b4f6', '', '22-06-2016 17:29:39')
+MSG ERROR : Unknown column 'admin_premission' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/06/2016 17:0:09 h
+SQL ERROR : INSERT INTO ey_admin (admin_name, admin_email, admin_tel, admin_premission, admin_status, admin_username, admin_password, admin_image, admin_create) VALUES ('test test', 'test@test.com', '12345678', 'admin', 'Y', 'test', '098f6bcd4621d373cade4e832627b4f6', '', '22-06-2016 17:34:09')
+MSG ERROR : Unknown column 'admin_premission' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/06/2016 17:0:37 h
+SQL ERROR : INSERT INTO ey_admin (admin_name, admin_email, admin_tel, admin_premission, admin_status, admin_username, admin_password, admin_image, admin_create) VALUES ('test test', 'test@test.com', '12345678', 'admin', 'Y', 'test', '098f6bcd4621d373cade4e832627b4f6', '22062016173521admin.jpg', '22-06-2016 17:35:37')
+MSG ERROR : Unknown column 'admin_premission' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/06/2016 17:0:01 h
+SQL ERROR : INSERT INTO ey_admin (admin_name, admin_email, admin_tel, admin_premission, admin_status, admin_username, admin_password, admin_image, admin_create) VALUES ('test test', 'test@test.com', '12345678', 'admin', 'Y', 'test', '098f6bcd4621d373cade4e832627b4f6', '22062016173521admin.jpg', '22-06-2016 17:36:01')
+MSG ERROR : Unknown column 'admin_premission' in 'field list'
+

@@ -1,0 +1,4 @@
+[03-Dec-2015 10:38:54 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 854
+[03-Dec-2015 10:38:54 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 873
+[03-Dec-2015 10:38:56 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 854
+[03-Dec-2015 10:38:56 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 873

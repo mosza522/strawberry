@@ -1,0 +1,12 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/01/2016 16:0:02 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_type_customer  WHERE type_sub_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/01/2016 17:0:15 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_type_customer  WHERE type_sub_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/01/2016 18:0:23 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_type_customer  WHERE type_sub_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+

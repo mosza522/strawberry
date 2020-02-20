@@ -1,0 +1,18 @@
+[12-Dec-2015 14:42:16 Asia/Bangkok] PHP Warning:  include(inc_head.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\main.php on line 12
+[12-Dec-2015 14:42:16 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_head.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\main.php on line 12
+[12-Dec-2015 14:42:16 Asia/Bangkok] PHP Warning:  include(inc_header.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\main.php on line 41
+[12-Dec-2015 14:42:16 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_header.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\main.php on line 41
+[12-Dec-2015 14:42:16 Asia/Bangkok] PHP Warning:  include(inc_sidemenu.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\main.php on line 47
+[12-Dec-2015 14:42:16 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_sidemenu.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\main.php on line 47
+[12-Dec-2015 14:42:16 Asia/Bangkok] PHP Warning:  include(inc_footer.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\main.php on line 81
+[12-Dec-2015 14:42:16 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_footer.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\main.php on line 81
+[12-Dec-2015 14:43:56 Asia/Bangkok] PHP Warning:  include(../inc_head.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 12
+[12-Dec-2015 14:43:56 Asia/Bangkok] PHP Warning:  include(): Failed opening '../inc_head.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 12
+[12-Dec-2015 14:43:56 Asia/Bangkok] PHP Warning:  include(../inc_header.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 41
+[12-Dec-2015 14:43:56 Asia/Bangkok] PHP Warning:  include(): Failed opening '../inc_header.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 41
+[12-Dec-2015 14:43:56 Asia/Bangkok] PHP Warning:  include(../inc_sidemenu.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 47
+[12-Dec-2015 14:43:56 Asia/Bangkok] PHP Warning:  include(): Failed opening '../inc_sidemenu.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 47
+[12-Dec-2015 14:43:56 Asia/Bangkok] PHP Warning:  include(../inc_footer.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 81
+[12-Dec-2015 14:43:56 Asia/Bangkok] PHP Warning:  include(): Failed opening '../inc_footer.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 81
+[12-Dec-2015 15:00:45 Asia/Bangkok] PHP Warning:  include(inc_head.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 12
+[12-Dec-2015 15:00:45 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_head.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\admin\index.php on line 12

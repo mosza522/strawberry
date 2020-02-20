@@ -1,0 +1,35 @@
+[23-Sep-2016 10:38:04 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in C:\xampp\htdocs\CRM\reserv-form.php on line 47
+[23-Sep-2016 10:39:11 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in C:\xampp\htdocs\CRM\reserv-form.php on line 47
+[23-Sep-2016 10:40:37 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in C:\xampp\htdocs\CRM\reserv-form.php on line 47
+[23-Sep-2016 10:44:42 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\reserv-form.php on line 47
+[23-Sep-2016 10:46:02 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\reserv-form.php on line 47
+[23-Sep-2016 10:46:08 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\reserv-form.php on line 47
+[23-Sep-2016 10:46:51 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\reserv-form.php on line 47
+[23-Sep-2016 10:48:18 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\reserv-form.php on line 50
+[23-Sep-2016 10:49:17 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\reserv-form.php on line 51
+[23-Sep-2016 10:49:34 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\reserv-form.php on line 51
+[23-Sep-2016 10:52:26 Asia/Bangkok] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (20/09/2016) at position 0 (2): Unexpected character' in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php:27
+Stack trace:
+#0 C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php(27): DateTime->__construct('20/09/2016')
+#1 C:\xampp\htdocs\CRM\backoffice\main.php(96): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 27
+[23-Sep-2016 10:52:59 Asia/Bangkok] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (20/09/2016) at position 0 (2): Unexpected character' in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php:27
+Stack trace:
+#0 C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php(27): DateTime->__construct('20/09/2016')
+#1 C:\xampp\htdocs\CRM\backoffice\main.php(96): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 27
+[23-Sep-2016 10:55:37 Asia/Bangkok] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (29/09/2016) at position 0 (2): Unexpected character' in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php:27
+Stack trace:
+#0 C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php(27): DateTime->__construct('29/09/2016')
+#1 C:\xampp\htdocs\CRM\backoffice\main.php(96): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 27
+[23-Sep-2016 15:12:46 Asia/Bangkok] PHP Fatal error:  Call to a member function AddEmbeddedImage() on null in C:\xampp\htdocs\CRM\reserv-form.php on line 23
+[23-Sep-2016 15:12:48 Asia/Bangkok] PHP Fatal error:  Call to a member function AddEmbeddedImage() on null in C:\xampp\htdocs\CRM\reserv-form.php on line 23
+[23-Sep-2016 15:12:53 Asia/Bangkok] PHP Fatal error:  Call to a member function AddEmbeddedImage() on null in C:\xampp\htdocs\CRM\reserv-form.php on line 23
+[23-Sep-2016 15:13:40 Asia/Bangkok] PHP Fatal error:  Call to a member function AddEmbeddedImage() on null in C:\xampp\htdocs\CRM\reserv-form.php on line 23
+[23-Sep-2016 15:14:00 Asia/Bangkok] PHP Fatal error:  Call to a member function AddEmbeddedImage() on null in C:\xampp\htdocs\CRM\reserv-form.php on line 23
+[23-Sep-2016 15:14:22 Asia/Bangkok] PHP Fatal error:  Call to a member function AddEmbeddedImage() on null in C:\xampp\htdocs\CRM\reserv-form.php on line 48
+[23-Sep-2016 15:14:36 Asia/Bangkok] PHP Fatal error:  Call to a member function AddEmbeddedImage() on null in C:\xampp\htdocs\CRM\reserv-form.php on line 48

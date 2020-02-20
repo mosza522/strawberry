@@ -1,0 +1,15 @@
+[26-Sep-2016 10:01:39 Asia/Bangkok] PHP Warning:  include(../mpdf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\report-hotel\export-pdf.php on line 3
+[26-Sep-2016 10:01:39 Asia/Bangkok] PHP Warning:  include(): Failed opening '../mpdf.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\report-hotel\export-pdf.php on line 3
+[26-Sep-2016 10:01:39 Asia/Bangkok] PHP Fatal error:  Class 'mPDF' not found in C:\xampp\htdocs\CRM\backoffice\report-hotel\export-pdf.php on line 33
+[26-Sep-2016 10:02:03 Asia/Bangkok] PHP Warning:  include(../../mpdf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\report-hotel\export-pdf.php on line 3
+[26-Sep-2016 10:02:03 Asia/Bangkok] PHP Warning:  include(): Failed opening '../../mpdf.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\report-hotel\export-pdf.php on line 3
+[26-Sep-2016 10:02:03 Asia/Bangkok] PHP Fatal error:  Class 'mPDF' not found in C:\xampp\htdocs\CRM\backoffice\report-hotel\export-pdf.php on line 33
+[26-Sep-2016 10:02:04 Asia/Bangkok] PHP Warning:  include(../../mpdf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\report-hotel\export-pdf.php on line 3
+[26-Sep-2016 10:02:04 Asia/Bangkok] PHP Warning:  include(): Failed opening '../../mpdf.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\report-hotel\export-pdf.php on line 3
+[26-Sep-2016 10:02:04 Asia/Bangkok] PHP Fatal error:  Class 'mPDF' not found in C:\xampp\htdocs\CRM\backoffice\report-hotel\export-pdf.php on line 33
+[26-Sep-2016 10:07:14 Asia/Bangkok] PHP Warning:  include(../../mpdf/mpdf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\report-member\export-pdf.php on line 3
+[26-Sep-2016 10:07:14 Asia/Bangkok] PHP Warning:  include(): Failed opening '../../mpdf/mpdf.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\report-member\export-pdf.php on line 3
+[26-Sep-2016 10:07:14 Asia/Bangkok] PHP Fatal error:  Class 'mPDF' not found in C:\xampp\htdocs\CRM\backoffice\report-member\export-pdf.php on line 28
+[26-Sep-2016 10:07:14 Asia/Bangkok] PHP Warning:  include(../../mpdf/mpdf.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\report-member\export-pdf.php on line 3
+[26-Sep-2016 10:07:14 Asia/Bangkok] PHP Warning:  include(): Failed opening '../../mpdf/mpdf.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\report-member\export-pdf.php on line 3
+[26-Sep-2016 10:07:14 Asia/Bangkok] PHP Fatal error:  Class 'mPDF' not found in C:\xampp\htdocs\CRM\backoffice\report-member\export-pdf.php on line 28

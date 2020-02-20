@@ -1,0 +1,6 @@
+[06-Oct-2017 10:38:55 Asia/Bangkok] PHP Warning:  unlink(../image/960-ขวดกลมสกิน+ตลับแบ่งครีม.jp): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60
+[06-Oct-2017 10:53:42 Asia/Bangkok] PHP Warning:  unlink(../image/559-ขวดน้ำออกกำลังกาย B-74620.): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60
+[06-Oct-2017 16:04:06 Asia/Bangkok] PHP Warning:  unlink(../image/128-ถุงมือยางแพ็คกิ้งชมพู มีไซ): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60
+[06-Oct-2017 16:04:16 Asia/Bangkok] PHP Warning:  unlink(../image/739-ถุงมือยางแพ็คกิ้งชมพู มีไซ): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60
+[06-Oct-2017 16:04:28 Asia/Bangkok] PHP Warning:  unlink(../image/360-ถุงมือยางแพ็คกิ้งชมพู มีไซ): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60
+[06-Oct-2017 16:09:40 Asia/Bangkok] PHP Warning:  unlink(../image/800-ถุงมือยางสีเหลือง มีไซส์ S): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60

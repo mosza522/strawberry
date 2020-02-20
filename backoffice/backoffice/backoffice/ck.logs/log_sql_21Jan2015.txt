@@ -1,0 +1,112 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 10:0:36 h
+SQL ERROR : INSERT INTO ck_product (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('', '', '', '', '', NULL, '')
+MSG ERROR : Column 'product_pin' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 11:0:22 h
+SQL ERROR : INSERT INTO ck_product (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('q', 'q', 'q', 'q', 'q', '0', NULL)
+MSG ERROR : Column 'product_images' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 13:0:38 h
+SQL ERROR : INSERT INTO ck_product (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('q', 'q', 'q', 'q', 'q', '0', NULL)
+MSG ERROR : Column 'product_images' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 13:0:39 h
+SQL ERROR : INSERT INTO ck_product (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('q', 'q', 'q', 'q', 'q', '0', NULL)
+MSG ERROR : Column 'product_images' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 13:0:39 h
+SQL ERROR : INSERT INTO ck_product (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('q', 'q', 'q', 'q', 'q', '0', NULL)
+MSG ERROR : Column 'product_images' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 13:0:40 h
+SQL ERROR : INSERT INTO ck_product (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('q', 'q', 'q', 'q', 'q', '0', NULL)
+MSG ERROR : Column 'product_images' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 13:0:48 h
+SQL ERROR : INSERT INTO ck_product (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('w', 'w', 'w', 'ww', 'w', '0', NULL)
+MSG ERROR : Column 'product_images' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 13:0:59 h
+SQL ERROR : INSERT INTO ck_product (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('w', 'w', 'w', 'ww', 'w', '0', NULL)
+MSG ERROR : Column 'product_images' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:33 h
+SQL ERROR : INSERT INTO ck_product (topic_en, detail_en, new_pin, status, new_date, imagenew) VALUES ('wwไ', 'ww', NULL, 'N', '', '2015-01-21_15-22-33_247DSC_0371.JPG')
+MSG ERROR : Unknown column 'topic_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:35 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:41 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:42 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:08 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:09 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:10 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:10 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:10 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:11 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:54 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:00 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:01 h
+SQL ERROR : SELECT * FROM     
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 15:0:38 h
+SQL ERROR : INSERT INTO ck_product (topic_en, detail_en, new_pin, status, new_date, imagenew) VALUES ('w', 'w', NULL, 'N', '', '2015-01-21_15-42-38_147DSC_0370_(Medium).JPG')
+MSG ERROR : Unknown column 'topic_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 16:0:40 h
+SQL ERROR : DELETE FROM ck_newpromo  WHERE product_id = ''
+MSG ERROR : Unknown column 'product_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 16:0:08 h
+SQL ERROR : INSERT INTO ck_newpromo (topic_en, topic_th, detail_en, detail_th, new_pin, status, new_date, imagenew) VALUES ('aa', 'aaa', 'aaaa', 'aaaaa', NULL, NULL, '0000-00-00 00:00:00', '_')
+MSG ERROR : Column 'new_pin' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 16:0:11 h
+SQL ERROR : INSERT INTO ck_newpromo (topic_en, topic_th, detail_en, detail_th, new_pin, status, new_date, imagenew) VALUES ('aa', 'aaa', 'aaaa', 'aaaaa', NULL, NULL, '0000-00-00 00:00:00', '_')
+MSG ERROR : Column 'new_pin' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 16:0:03 h
+SQL ERROR : INSERT INTO ck_newpromo (topic_en, topic_th, detail_en, detail_th, new_pin, status, new_date, imagenew) VALUES ('as', 'as', 'as', 'as', NULL, '0', '0000-00-00 00:00:00', '_')
+MSG ERROR : Column 'new_pin' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 17:0:26 h
+SQL ERROR : INSERT INTO ck_newpromo (topic_en, topic_th, detail_en, detail_th, new_pin, status, new_date, imagenew) VALUES ('a', '', 'a', 'qwertyu', NULL, NULL, '0000-00-00 00:00:00', '_')
+MSG ERROR : Column 'new_pin' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/01/2015 17:0:01 h
+SQL ERROR : INSERT INTO ck_newpromo (topic_en, topic_th, detail_en, detail_th, new_pin, status, new_date, imagenew) VALUES ('6', '6', '6', '6', NULL, NULL, '0000-00-00 00:00:00', '_')
+MSG ERROR : Column 'new_pin' cannot be null
+

@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2015 10:0:59 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE admin_username IS NULL
+MSG ERROR : Unknown column 'admin_username' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2015 10:0:03 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE admin_username IS NULL
+MSG ERROR : Unknown column 'admin_username' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2015 17:0:20 h
+SQL ERROR : INSERT INTO ck_type_product (type_name_en, type_name_th, ref_type_id, type_sort, type_link, type_admin_update, type_date_update, menu_admin_create, menu_date_create) VALUES ('a', 'aa', '0', '90', NULL, '2', 1421661980, '2', 1421661980)
+MSG ERROR : Unknown column 'type_link' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2015 17:0:50 h
+SQL ERROR : SELECT * FROM type_product    
+MSG ERROR : Table 'zaoft_phutawan.type_product' doesn't exist
+

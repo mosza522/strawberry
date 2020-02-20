@@ -1,0 +1,144 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 10:0:28 h
+SQL ERROR : UPDATE tb_admin SET admin_lastlogout="2017-01-24 10:28:28"  WHERE admin_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 11:0:39 h
+SQL ERROR : INSERT INTO tb_banner (name_titleen, name_detailen, banner_pic, banner_create) VALUES ('', NULL, NULL, '2017-01-24 11:14:39')
+MSG ERROR : Column 'name_detailen' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 11:0:40 h
+SQL ERROR : INSERT INTO tb_banner (name_titleen, name_detailen, banner_pic, banner_create) VALUES ('', NULL, NULL, '2017-01-24 11:14:40')
+MSG ERROR : Column 'name_detailen' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 11:0:41 h
+SQL ERROR : INSERT INTO tb_banner (name_titleen, name_detailen, banner_pic, banner_create) VALUES ('', NULL, NULL, '2017-01-24 11:14:41')
+MSG ERROR : Column 'name_detailen' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 11:0:22 h
+SQL ERROR : INSERT INTO tb_banner (name_titleen, name_detailen, banner_pic, banner_create) VALUES ('', NULL, NULL, '2017-01-24 11:17:22')
+MSG ERROR : Column 'name_detailen' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 13:0:51 h
+SQL ERROR : INSERT INTO tb_catagblade (name_categen, name_categth, img_categ) VALUES ('wwww', NULL, '20170124132551.ico')
+MSG ERROR : Table 'labtech.tb_catagblade' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 13:0:52 h
+SQL ERROR : INSERT INTO tb_catagblade (name_categen, name_categth, img_categ) VALUES ('wwww', NULL, '20170124132552.ico')
+MSG ERROR : Table 'labtech.tb_catagblade' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 13:0:22 h
+SQL ERROR : INSERT INTO tb_catagblade (name_categen, name_categth, img_categ) VALUES ('wwww', NULL, '20170124132622.ico')
+MSG ERROR : Table 'labtech.tb_catagblade' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 13:0:58 h
+SQL ERROR : INSERT INTO tb_catagories (catagories_name, catagories_img) VALUES (NULL, '20170124133258.ico')
+MSG ERROR : Column 'catagories_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:56 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, img_pdblade) VALUES ('5', NULL, NULL, '20170124141456.png')
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:57 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, img_pdblade) VALUES ('5', NULL, NULL, '20170124141457.png')
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:27 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, img_pdblade) VALUES ('5', NULL, NULL, '20170124141527.png')
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:33 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, img_pdblade) VALUES ('5', NULL, NULL, '20170124141533.png')
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:33 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, img_pdblade) VALUES ('5', NULL, NULL, '20170124142033.png')
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:59 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, img_pdblade) VALUES ('5', NULL, NULL, '20170124142159.png')
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:16 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, img_pdblade) VALUES ('5', NULL, NULL, '20170124142216.png')
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:17 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, img_pdblade) VALUES ('5', NULL, NULL, '20170124142217.png')
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:46 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, product_img) VALUES ('5', NULL, NULL, '20170124142346.png')
+MSG ERROR : Column 'product_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:29 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, product_img) VALUES ('5', 'fdsf', NULL, '20170124142529.png')
+MSG ERROR : Column 'product_detail' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:30 h
+SQL ERROR : INSERT INTO tb_product (ref_id_catagories, product_name, product_detail, product_img) VALUES ('5', 'fdsf', NULL, '20170124142530.png')
+MSG ERROR : Column 'product_detail' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:20 h
+SQL ERROR : UPDATE tb_product SET ref_id_catagories = '', product_name = 'fdffsdffdffdsfdpkd;vdls[vd[vspv;\'vopre0-g[gkvsdvwrwq', product_detail = NULL, img_pdblade = '20170124142602.png'  WHERE id_product = '1'
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:22 h
+SQL ERROR : UPDATE tb_product SET ref_id_catagories = '', product_name = 'fdffsdffdffdsfdpkd;vdls[vd[vspv;\'vopre0-g[gkvsdvwrwq', product_detail = NULL, img_pdblade = '20170124142602.png'  WHERE id_product = '1'
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:25 h
+SQL ERROR : UPDATE tb_product SET ref_id_catagories = '5', product_name = '1', product_detail = NULL, img_pdblade = '20170124142602.png'  WHERE id_product = '1'
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:26 h
+SQL ERROR : UPDATE tb_product SET ref_id_catagories = '5', product_name = '1', product_detail = NULL, img_pdblade = '20170124142602.png'  WHERE id_product = '1'
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:27 h
+SQL ERROR : UPDATE tb_product SET ref_id_catagories = '5', product_name = '1', product_detail = NULL, img_pdblade = '20170124142602.png'  WHERE id_product = '1'
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 14:0:14 h
+SQL ERROR : UPDATE tb_product SET ref_id_catagories = '5', product_name = '1', product_detail = '1', img_pdblade = '20170124142602.png'  WHERE id_product = '1'
+MSG ERROR : Unknown column 'img_pdblade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 17:0:46 h
+SQL ERROR : INSERT INTO tb_news (news_name, news_detail, news_img, news_video, new_create, new_update) VALUES ('gerge', 'grgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrg', NULL, NULL, '2017-01-24 17:11:46', '2017-01-24 17:11:46')
+MSG ERROR : Unknown column 'new_create' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 17:0:50 h
+SQL ERROR : INSERT INTO tb_news (news_name, news_detail, news_img, news_video, new_create, new_update) VALUES ('gerge', 'grgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrg', NULL, NULL, '2017-01-24 17:11:50', '2017-01-24 17:11:50')
+MSG ERROR : Unknown column 'new_create' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 17:0:46 h
+SQL ERROR : INSERT INTO tb_news (news_name, news_detail, news_img, news_video, news_create, news_update) VALUES ('gerge', 'grgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrg', NULL, NULL, '2017-01-24 17:13:46', '2017-01-24 17:13:46')
+MSG ERROR : Column 'news_img' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 17:0:07 h
+SQL ERROR : INSERT INTO tb_news (news_name, news_detail, news_img, news_video, news_create, news_update) VALUES ('gerge', 'grgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrg', NULL, NULL, '2017-01-24 17:14:07', '2017-01-24 17:14:07')
+MSG ERROR : Column 'news_img' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 17:0:32 h
+SQL ERROR : INSERT INTO tb_news (news_name, news_detail, news_img, news_video, news_create, news_update) VALUES ('gerge', 'grgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrggrgregggrg', NULL, NULL, '2017-01-24 17:14:32', '2017-01-24 17:14:32')
+MSG ERROR : Column 'news_img' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 18:0:16 h
+SQL ERROR : INSERT INTO tb_news (news_name, news_detail, news_img, news_create, news_update) VALUES ('fewfwefwe', 'fewfweffwefwfwfew', NULL, '2017-01-24 18:10:16', '2017-01-24 18:10:16')
+MSG ERROR : Column 'news_img' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 18:0:27 h
+SQL ERROR : INSERT INTO tb_news (news_name, news_detail, news_img, news_create, news_update) VALUES ('fewfwefwe', 'fewfweffwefwfwfew', NULL, '2017-01-24 18:10:27', '2017-01-24 18:10:27')
+MSG ERROR : Column 'news_img' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 18:0:16 h
+SQL ERROR : INSERT INTO tb_news (news_name, news_detail, news_img, news_create, news_update) VALUES ('dwdwd', 'wdwdwdwdw', NULL, '2017-01-24 18:11:16', '2017-01-24 18:11:16')
+MSG ERROR : Column 'news_img' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 18:0:26 h
+SQL ERROR : UPDATE tb_news SET news_name = '112', news_detail = '3232', news_img = NULL, news_video = NULL, new_create = '2017-01-24 18:25:26', new_update = '2017-01-24 18:25:26'  WHERE news_id = '4'
+MSG ERROR : Unknown column 'news_video' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/01/2017 18:0:27 h
+SQL ERROR : UPDATE tb_news SET news_name = '112', news_detail = '3232', news_img = NULL, news_video = NULL, new_create = '2017-01-24 18:25:27', new_update = '2017-01-24 18:25:27'  WHERE news_id = '4'
+MSG ERROR : Unknown column 'news_video' in 'field list'
+

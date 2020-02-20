@@ -1,0 +1,3 @@
+[01-Sep-2015 15:33:30 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\director\ck.class.php on line 88
+[01-Sep-2015 15:33:35 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\director\ck.class.php on line 88
+[01-Sep-2015 15:33:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\director\ck.class.php on line 89

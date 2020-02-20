@@ -1,0 +1,82 @@
+[16-Nov-2016 19:24:49 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:24:49 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:24:49 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:25:41 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:25:41 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:25:41 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:25:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:25:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:25:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:26:09 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:26:09 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:26:09 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:28:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:28:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:28:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:30:02 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:30:02 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:30:02 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:30:10 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:30:10 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:30:10 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:30:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:30:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:30:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:33:51 Asia/Bangkok] PHP Fatal error:  Class 'upload' not found in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 20
+[16-Nov-2016 19:34:32 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:34:32 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:34:32 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:35:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:35:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:35:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:39:03 Asia/Bangkok] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 13
+[16-Nov-2016 19:39:03 Asia/Bangkok] PHP Warning:  imagecreatefromjpeg(): 'C:\xampp\tmp\phpFAA0.tmp' is not a valid JPEG file in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 13
+[16-Nov-2016 19:39:03 Asia/Bangkok] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 14
+[16-Nov-2016 19:39:03 Asia/Bangkok] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 15
+[16-Nov-2016 19:39:03 Asia/Bangkok] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 17
+[16-Nov-2016 19:39:03 Asia/Bangkok] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 19
+[16-Nov-2016 19:39:50 Asia/Bangkok] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 13
+[16-Nov-2016 19:39:50 Asia/Bangkok] PHP Warning:  imagecreatefromjpeg(): 'C:\xampp\tmp\phpB3BF.tmp' is not a valid JPEG file in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 13
+[16-Nov-2016 19:39:50 Asia/Bangkok] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 14
+[16-Nov-2016 19:39:50 Asia/Bangkok] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 15
+[16-Nov-2016 19:39:50 Asia/Bangkok] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 17
+[16-Nov-2016 19:39:50 Asia/Bangkok] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 19
+[16-Nov-2016 19:42:23 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:42:23 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:42:23 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:43:32 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:43:32 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:43:32 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:47:49 Asia/Bangkok] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 13
+[16-Nov-2016 19:47:49 Asia/Bangkok] PHP Warning:  imagecreatefromjpeg(): 'C:\xampp\tmp\php2BB.tmp' is not a valid JPEG file in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 13
+[16-Nov-2016 19:47:49 Asia/Bangkok] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 14
+[16-Nov-2016 19:47:49 Asia/Bangkok] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 15
+[16-Nov-2016 19:47:49 Asia/Bangkok] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 17
+[16-Nov-2016 19:47:49 Asia/Bangkok] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 19
+[16-Nov-2016 19:48:49 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:48:49 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:48:49 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 19:49:11 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2859
+[16-Nov-2016 19:49:11 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2886
+[16-Nov-2016 19:49:11 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\banner\class.upload.php on line 2904
+[16-Nov-2016 20:05:52 Asia/Bangkok] PHP Warning:  require_once(ImageManipulator.php): failed to open stream: No such file or directory in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 5
+[16-Nov-2016 20:05:52 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required 'ImageManipulator.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newback\backoffice\banner\add.php on line 5
+[16-Nov-2016 20:06:05 Asia/Bangkok] PHP Catchable fatal error:  Object of class ImageManipulator could not be converted to string in C:\xampp\htdocs\newback\backoffice\backoffice\backoffice\ck.plugin\libraries\class.database.php on line 169
+[16-Nov-2016 20:06:40 Asia/Bangkok] PHP Catchable fatal error:  Object of class ImageManipulator could not be converted to string in C:\xampp\htdocs\newback\backoffice\backoffice\backoffice\ck.plugin\libraries\class.database.php on line 169
+[16-Nov-2016 20:07:28 Asia/Bangkok] PHP Catchable fatal error:  Object of class ImageManipulator could not be converted to string in C:\xampp\htdocs\newback\backoffice\backoffice\backoffice\ck.plugin\libraries\class.database.php on line 169
+[16-Nov-2016 20:08:31 Asia/Bangkok] PHP Catchable fatal error:  Object of class ImageManipulator could not be converted to string in C:\xampp\htdocs\newback\backoffice\backoffice\backoffice\ck.plugin\libraries\class.database.php on line 169
+[16-Nov-2016 20:09:35 Asia/Bangkok] PHP Catchable fatal error:  Object of class ImageManipulator could not be converted to string in C:\xampp\htdocs\newback\backoffice\backoffice\backoffice\ck.plugin\libraries\class.database.php on line 169
+[16-Nov-2016 20:44:22 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newback\backoffice\banner\editbanner.php on line 81
+[16-Nov-2016 20:44:31 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newback\backoffice\banner\editbanner.php on line 81
+[16-Nov-2016 20:44:51 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newback\backoffice\banner\editbanner.php on line 81
+[16-Nov-2016 20:45:07 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newback\backoffice\banner\editbanner.php on line 81
+[16-Nov-2016 21:11:20 Asia/Bangkok] PHP Warning:  include(/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\newback\backoffice\banner.php on line 33
+[16-Nov-2016 21:11:20 Asia/Bangkok] PHP Warning:  include(): Failed opening '/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newback\backoffice\banner.php on line 33
+[16-Nov-2016 21:11:21 Asia/Bangkok] PHP Warning:  include(/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\newback\backoffice\banner.php on line 33
+[16-Nov-2016 21:11:21 Asia/Bangkok] PHP Warning:  include(): Failed opening '/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newback\backoffice\banner.php on line 33
+[16-Nov-2016 23:24:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in C:\xampp\htdocs\newback\backoffice\scholarships\addscholar.php on line 91
+[16-Nov-2016 23:24:10 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in C:\xampp\htdocs\newback\backoffice\scholarships\addscholar.php on line 91
+[16-Nov-2016 23:26:27 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\newback\backoffice\scholarships\addscholar.php on line 1
+[16-Nov-2016 23:26:27 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newback\backoffice\scholarships\addscholar.php on line 1
+[16-Nov-2016 23:26:28 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\newback\backoffice\scholarships\addscholar.php on line 1
+[16-Nov-2016 23:26:28 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newback\backoffice\scholarships\addscholar.php on line 1

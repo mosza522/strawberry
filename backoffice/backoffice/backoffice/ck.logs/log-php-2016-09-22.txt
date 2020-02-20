@@ -1,0 +1,2 @@
+[22-Sep-2016 22:17:51 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 19
+[22-Sep-2016 22:24:05 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 19

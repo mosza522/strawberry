@@ -1,0 +1,15 @@
+[11-Aug-2017 09:58:52 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\newstraw\backoffice\inc_sidebar.php on line 28
+[11-Aug-2017 09:59:05 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\newstraw\backoffice\inc_sidebar.php on line 28
+[11-Aug-2017 10:00:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp\htdocs\newstraw\backoffice\inc_sidebar.php on line 28
+[11-Aug-2017 10:03:31 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\inc_sidebar.php on line 51
+[11-Aug-2017 10:03:50 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\inc_sidebar.php on line 52
+[11-Aug-2017 10:03:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\inc_sidebar.php on line 53
+[11-Aug-2017 10:04:01 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\newstraw\backoffice\inc_sidebar.php on line 28
+[11-Aug-2017 11:32:15 Asia/Bangkok] PHP Warning:  require(inc_menu.php): failed to open stream: No such file or directory in C:\xampp\htdocs\newstraw\backoffice\content\firstpage.php on line 17
+[11-Aug-2017 11:32:15 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'inc_menu.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newstraw\backoffice\content\firstpage.php on line 17
+[11-Aug-2017 11:34:49 Asia/Bangkok] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\newstraw\backoffice\content\inc_header.php on line 11
+[11-Aug-2017 11:34:49 Asia/Bangkok] PHP Warning:  include(style_inc_menu.php): failed to open stream: No such file or directory in C:\xampp\htdocs\newstraw\backoffice\content\inc_menu.php on line 9
+[11-Aug-2017 11:34:49 Asia/Bangkok] PHP Warning:  include(): Failed opening 'style_inc_menu.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newstraw\backoffice\content\inc_menu.php on line 9
+[11-Aug-2017 11:34:49 Asia/Bangkok] PHP Warning:  include(multilanguage.php): failed to open stream: No such file or directory in C:\xampp\htdocs\newstraw\backoffice\content\inc_menu.php on line 10
+[11-Aug-2017 11:34:49 Asia/Bangkok] PHP Warning:  include(): Failed opening 'multilanguage.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newstraw\backoffice\content\inc_menu.php on line 10
+[11-Aug-2017 11:34:49 Asia/Bangkok] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\newstraw\backoffice\content\inc_menu.php on line 15

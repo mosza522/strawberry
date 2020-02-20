@@ -1,0 +1,36 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/07/2016 21:0:13 h
+SQL ERROR : UPDATE tb_socre SET score_day = '1', score_points = '1'  WHERE score_id = ''
+MSG ERROR : Table 'crm.tb_socre' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/07/2016 21:0:15 h
+SQL ERROR : UPDATE tb_socre SET score_day = '1', score_points = '1'  WHERE score_id = ''
+MSG ERROR : Table 'crm.tb_socre' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/07/2016 21:0:35 h
+SQL ERROR : UPDATE tb_socre SET score_day = '1', score_points = '1'  WHERE score_id = ''
+MSG ERROR : Table 'crm.tb_socre' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/07/2016 21:0:36 h
+SQL ERROR : UPDATE tb_socre SET score_day = '1', score_points = '1'  WHERE score_id = ''
+MSG ERROR : Table 'crm.tb_socre' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/07/2016 21:0:36 h
+SQL ERROR : UPDATE tb_socre SET score_day = '1', score_points = '1'  WHERE score_id = ''
+MSG ERROR : Table 'crm.tb_socre' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/07/2016 21:0:50 h
+SQL ERROR : UPDATE tb_socre SET score_day = '1', score_points = '1'  WHERE score_id = ''
+MSG ERROR : Table 'crm.tb_socre' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/07/2016 21:0:53 h
+SQL ERROR : UPDATE tb_socre SET score_day = '1', score_points = '1'  WHERE score_id = ''
+MSG ERROR : Table 'crm.tb_socre' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/07/2016 22:0:31 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_points, member_status, member_activte, member_idcard, member_name, member_tel, member_admin_id, member_create) VALUES ('pgN2ZEno1A', NULL, '', 'action', 'enable', '123456789', '', '', '1', '09/07/2016 22:29 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/07/2016 22:0:33 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_points, member_status, member_activte, member_idcard, member_name, member_tel, member_admin_id, member_create) VALUES ('V4JmbsXKVe', NULL, '', 'action', 'enable', '123456789', '', '', '1', '09/07/2016 22:29 PM')
+MSG ERROR : Column 'member_company' cannot be null
+

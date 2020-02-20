@@ -1,0 +1,16 @@
+[27-Jun-2016 14:21:29 Asia/Bangkok] PHP Warning:  include(lawyer/.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 91
+[27-Jun-2016 14:21:29 Asia/Bangkok] PHP Warning:  include(): Failed opening 'lawyer/.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 91
+[27-Jun-2016 15:22:14 Asia/Bangkok] PHP Warning:  include(createproject/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:22:14 Asia/Bangkok] PHP Warning:  include(): Failed opening 'createproject/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:22:57 Asia/Bangkok] PHP Warning:  include(createproject/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:22:57 Asia/Bangkok] PHP Warning:  include(): Failed opening 'createproject/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:24:36 Asia/Bangkok] PHP Warning:  include(createproject/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:24:36 Asia/Bangkok] PHP Warning:  include(): Failed opening 'createproject/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:24:54 Asia/Bangkok] PHP Warning:  include(createproject/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:24:54 Asia/Bangkok] PHP Warning:  include(): Failed opening 'createproject/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:25:35 Asia/Bangkok] PHP Warning:  include(createproject/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:25:35 Asia/Bangkok] PHP Warning:  include(): Failed opening 'createproject/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:25:47 Asia/Bangkok] PHP Warning:  include(createproject/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:25:47 Asia/Bangkok] PHP Warning:  include(): Failed opening 'createproject/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:25:57 Asia/Bangkok] PHP Warning:  include(createproject/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 85
+[27-Jun-2016 15:25:57 Asia/Bangkok] PHP Warning:  include(): Failed opening 'createproject/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 85

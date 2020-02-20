@@ -1,0 +1,13 @@
+[20-Jun-2016 09:59:33 Asia/Bangkok] PHP Fatal error:  Call to undefined function fetch_array() in D:\xampp\htdocs\Vtiger\api\checkdata.php on line 83
+[20-Jun-2016 17:08:36 Asia/Bangkok] PHP Warning:  include(admin/addadmin/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 78
+[20-Jun-2016 17:08:36 Asia/Bangkok] PHP Warning:  include(): Failed opening 'admin/addadmin/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 78
+[20-Jun-2016 17:08:49 Asia/Bangkok] PHP Warning:  include(admin/addadmin/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 78
+[20-Jun-2016 17:08:49 Asia/Bangkok] PHP Warning:  include(): Failed opening 'admin/addadmin/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 78
+[20-Jun-2016 17:09:26 Asia/Bangkok] PHP Warning:  include(admin/addadmin/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 79
+[20-Jun-2016 17:09:26 Asia/Bangkok] PHP Warning:  include(): Failed opening 'admin/addadmin/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 79
+[20-Jun-2016 17:09:44 Asia/Bangkok] PHP Warning:  include(admin/addadmin/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 80
+[20-Jun-2016 17:09:44 Asia/Bangkok] PHP Warning:  include(): Failed opening 'admin/addadmin/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 80
+[20-Jun-2016 17:10:11 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\new_schedule\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[20-Jun-2016 17:10:11 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\new_schedule\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19
+[20-Jun-2016 17:12:00 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\new_schedule\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[20-Jun-2016 17:12:00 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\new_schedule\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19

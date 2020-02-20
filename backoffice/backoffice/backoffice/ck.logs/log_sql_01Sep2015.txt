@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/09/2015 15:0:10 h
+SQL ERROR : UPDATE tbl_director SET L1_1Name = NULL, dircPic = 'dirc_0006b.JPG'  WHERE dircID = '6'
+MSG ERROR : Unknown column 'L1_1Name' in 'field list'
+

@@ -1,0 +1,1 @@
+[30-May-2016 14:10:34 Asia/Bangkok] PHP Fatal error:  Call to undefined function PushText() in D:\xampp\htdocs\Vtiger\act\updata.php on line 7

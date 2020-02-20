@@ -1,0 +1,8 @@
+[20-Jan-2016 13:47:45 Asia/Bangkok] PHP Warning:  dechex() expects exactly 1 parameter, 0 given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 116
+[20-Jan-2016 13:48:33 Asia/Bangkok] PHP Warning:  dechex() expects exactly 1 parameter, 0 given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 116
+[20-Jan-2016 17:35:11 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 70
+[20-Jan-2016 17:35:11 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 72
+[20-Jan-2016 17:35:11 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 102
+[20-Jan-2016 17:35:11 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 109
+[20-Jan-2016 17:35:11 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 102
+[20-Jan-2016 17:35:11 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 109

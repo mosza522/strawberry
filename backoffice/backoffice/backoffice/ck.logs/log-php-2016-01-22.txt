@@ -1,0 +1,2 @@
+[22-Jan-2016 09:09:38 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\voucher\addticket.php on line 33
+[22-Jan-2016 09:09:46 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\voucher\addticket.php on line 33

@@ -1,0 +1,202 @@
+[08-Jul-2016 09:29:39 Asia/Bangkok] PHP Warning:  include(member/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\new_schedule\main.php on line 85
+[08-Jul-2016 09:29:39 Asia/Bangkok] PHP Warning:  include(): Failed opening 'member/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\new_schedule\main.php on line 85
+[08-Jul-2016 11:03:10 Asia/Bangkok] PHP Warning:  include(member/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\main.php on line 85
+[08-Jul-2016 11:03:10 Asia/Bangkok] PHP Warning:  include(): Failed opening 'member/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\main.php on line 85
+[08-Jul-2016 11:16:54 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\emp\add.php on line 15
+[08-Jul-2016 11:33:25 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\lawyer\add.php on line 15
+[08-Jul-2016 11:41:43 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createproject\add.php on line 15
+[08-Jul-2016 11:42:05 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 11:42:05 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 11:42:05 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 11:42:05 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 11:42:44 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 11:42:44 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 11:42:44 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 11:42:44 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 11:46:42 Asia/Bangkok] PHP Warning:  include(member/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\main.php on line 85
+[08-Jul-2016 11:46:42 Asia/Bangkok] PHP Warning:  include(): Failed opening 'member/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\main.php on line 85
+[08-Jul-2016 13:25:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 13:25:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 13:25:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 13:25:13 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 14:23:49 Asia/Bangkok] PHP Warning:  include(member/addadmin.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\main.php on line 90
+[08-Jul-2016 14:23:49 Asia/Bangkok] PHP Warning:  include(): Failed opening 'member/addadmin.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\main.php on line 90
+[08-Jul-2016 14:33:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 14:33:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 14:33:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 14:33:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[08-Jul-2016 14:41:35 Asia/Bangkok] PHP Warning:  include(createmember/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\main.php on line 85
+[08-Jul-2016 14:41:35 Asia/Bangkok] PHP Warning:  include(): Failed opening 'createmember/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\main.php on line 85
+[08-Jul-2016 14:43:29 Asia/Bangkok] PHP Warning:  include(createmember/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\main.php on line 85
+[08-Jul-2016 14:43:29 Asia/Bangkok] PHP Warning:  include(): Failed opening 'createmember/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\main.php on line 85
+[08-Jul-2016 14:59:31 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15
+[08-Jul-2016 14:59:43 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15
+[08-Jul-2016 14:59:45 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15
+[08-Jul-2016 14:59:45 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15
+[08-Jul-2016 14:59:45 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15
+[08-Jul-2016 14:59:46 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15
+[08-Jul-2016 14:59:46 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15
+[08-Jul-2016 14:59:46 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15
+[08-Jul-2016 15:03:36 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15
+[08-Jul-2016 15:03:46 Asia/Bangkok] PHP Warning:  include(member/upmember.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\main.php on line 96
+[08-Jul-2016 15:03:46 Asia/Bangkok] PHP Warning:  include(): Failed opening 'member/upmember.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\main.php on line 96
+[08-Jul-2016 15:06:58 Asia/Bangkok] PHP Warning:  include(member/upmember.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\main.php on line 96
+[08-Jul-2016 15:06:58 Asia/Bangkok] PHP Warning:  include(): Failed opening 'member/upmember.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\main.php on line 96
+[08-Jul-2016 15:12:09 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:09 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:09 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:09 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:41 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:54 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:54 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:54 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:12:54 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:15:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:15:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:15:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:15:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:15:44 Asia/Bangkok] PHP Warning:  include(member/addmember.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\main.php on line 90
+[08-Jul-2016 15:15:44 Asia/Bangkok] PHP Warning:  include(): Failed opening 'member/addmember.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\main.php on line 90
+[08-Jul-2016 15:15:52 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:15:52 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:15:52 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:15:52 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:19:12 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:19:12 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:19:12 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:19:12 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:19:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:19:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:19:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:19:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:21:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:21:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:21:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:21:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:21:54 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:21:54 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:21:54 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:21:54 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:22:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:22:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:22:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:22:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:24:45 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:24:45 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:24:45 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:24:45 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:26:44 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:26:44 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:29:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:29:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:29:35 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:29:35 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:29:49 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:29:49 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:29:49 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:29:49 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:31:30 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:32:39 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:32:39 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:32:53 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:32:53 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:33:15 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:33:15 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:38:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:38:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:43:59 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:43:59 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:49:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:49:07 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:49:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:49:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:50:05 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:50:05 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:50:05 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 15:50:05 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:04:14 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:04:14 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:04:14 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:04:14 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:04:21 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:04:21 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:04:21 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:04:21 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:05:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:05:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:05:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:05:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:07:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:07:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:07:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:07:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:07:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 125
+[08-Jul-2016 16:07:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 125
+[08-Jul-2016 16:07:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 129
+[08-Jul-2016 16:07:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 129
+[08-Jul-2016 16:07:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 125
+[08-Jul-2016 16:07:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 125
+[08-Jul-2016 16:07:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 129
+[08-Jul-2016 16:07:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 129
+[08-Jul-2016 16:07:59 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:07:59 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:07:59 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:07:59 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:08:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:08:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:08:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:08:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:10:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:10:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:10:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:10:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:10:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:10:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:10:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:10:20 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:11:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:11:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:11:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:11:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:11:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:11:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:11:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:11:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:12:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:12:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:12:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:12:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:12:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:12:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:12:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:12:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:21:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:21:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:21:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:21:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:21:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:21:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:21:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:21:25 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:22:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:22:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:22:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:22:27 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:29 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128
+[08-Jul-2016 16:24:47 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\member\upmember.php on line 128

@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2016 10:0:40 h
+SQL ERROR : SELECT * FROM ck_maxticket  WHERE  = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2016 10:0:59 h
+SQL ERROR : SELECT * FROM ck_maxticket  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2016 10:0:07 h
+SQL ERROR : SELECT * FROM ck_maxticket  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2016 14:0:39 h
+SQL ERROR : UPDATE ck_listgrouptour SET count = 2, type_ticket = '1'  WHERE listgroup_id = '5'
+MSG ERROR : Unknown column 'count' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2016 15:0:31 h
+SQL ERROR : UPDATE ck_grouptour SET status_print = 'Y'  WHERE grouptour_id = '13'
+MSG ERROR : Unknown column 'status_print' in 'field list'
+

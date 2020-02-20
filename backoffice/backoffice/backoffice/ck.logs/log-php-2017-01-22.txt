@@ -1,0 +1,213 @@
+[22-Jan-2017 11:12:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\banner\class.upload.php on line 2859
+[22-Jan-2017 11:12:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\banner\class.upload.php on line 2886
+[22-Jan-2017 11:12:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\banner\class.upload.php on line 2904
+[22-Jan-2017 11:30:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\video\class.upload.php on line 2859
+[22-Jan-2017 11:30:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\video\class.upload.php on line 2904
+[22-Jan-2017 11:31:02 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\video\class.upload.php on line 2859
+[22-Jan-2017 11:31:03 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\video\class.upload.php on line 2904
+[22-Jan-2017 11:39:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\video\class.upload.php on line 2859
+[22-Jan-2017 11:39:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\video\class.upload.php on line 2904
+[22-Jan-2017 11:59:09 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 11:59:09 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 11:59:09 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 11:59:26 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 11:59:26 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 11:59:26 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 11:59:35 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 11:59:35 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 11:59:35 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 11:59:44 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 11:59:44 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 11:59:44 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 11:59:54 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 11:59:54 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 11:59:54 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 12:00:06 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 12:00:06 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 12:00:06 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 12:00:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 12:00:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 12:00:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 12:00:27 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 12:00:27 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 12:00:27 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 12:00:39 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 12:00:39 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 12:00:39 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 12:03:36 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2859
+[22-Jan-2017 12:03:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2886
+[22-Jan-2017 12:03:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2904
+[22-Jan-2017 12:03:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2859
+[22-Jan-2017 12:03:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2886
+[22-Jan-2017 12:03:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2904
+[22-Jan-2017 12:03:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2859
+[22-Jan-2017 12:03:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2886
+[22-Jan-2017 12:03:56 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2904
+[22-Jan-2017 12:04:05 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2859
+[22-Jan-2017 12:04:05 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2886
+[22-Jan-2017 12:04:05 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2904
+[22-Jan-2017 12:04:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2859
+[22-Jan-2017 12:04:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2886
+[22-Jan-2017 12:04:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2904
+[22-Jan-2017 12:04:28 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2859
+[22-Jan-2017 12:04:28 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2886
+[22-Jan-2017 12:04:28 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2904
+[22-Jan-2017 12:04:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2859
+[22-Jan-2017 12:04:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2886
+[22-Jan-2017 12:04:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\machineproduct\class.upload.php on line 2904
+[22-Jan-2017 14:17:12 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\banner\class.upload.php on line 2859
+[22-Jan-2017 14:17:12 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\banner\class.upload.php on line 2886
+[22-Jan-2017 14:17:12 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\banner\class.upload.php on line 2904
+[22-Jan-2017 14:59:18 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\blade\update.php on line 39
+[22-Jan-2017 15:01:46 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\blade\update.php on line 39
+[22-Jan-2017 15:03:59 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\blade\update.php on line 39
+[22-Jan-2017 15:04:11 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\blade\update.php on line 39
+[22-Jan-2017 15:04:27 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\blade\update.php on line 39
+[22-Jan-2017 15:04:39 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\blade\update.php on line 39
+[22-Jan-2017 15:04:49 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\blade\update.php on line 39
+[22-Jan-2017 15:14:46 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[22-Jan-2017 15:15:14 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[22-Jan-2017 15:15:26 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[22-Jan-2017 15:16:05 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[22-Jan-2017 15:24:01 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[22-Jan-2017 15:24:50 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[22-Jan-2017 15:27:33 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[22-Jan-2017 15:27:41 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[22-Jan-2017 15:28:05 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[22-Jan-2017 17:44:27 Asia/Bangkok] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\kenner\sentmail.php on line 10
+[22-Jan-2017 17:56:01 Asia/Bangkok] PHP Warning:  require_once(PHPmailler/PHPMailerAutoload.php): failed to open stream: No such file or directory in C:\xampp\htdocs\kenner\sentmail.php on line 2
+[22-Jan-2017 17:56:01 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required 'PHPmailler/PHPMailerAutoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\kenner\sentmail.php on line 2
+[22-Jan-2017 17:56:03 Asia/Bangkok] PHP Warning:  require_once(PHPmailler/PHPMailerAutoload.php): failed to open stream: No such file or directory in C:\xampp\htdocs\kenner\sentmail.php on line 2
+[22-Jan-2017 17:56:03 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required 'PHPmailler/PHPMailerAutoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\kenner\sentmail.php on line 2
+[22-Jan-2017 17:57:07 Asia/Bangkok] PHP Warning:  require_once(PHPMailer-master/PHPMailer-master.php): failed to open stream: No such file or directory in C:\xampp\htdocs\kenner\sentmail.php on line 2
+[22-Jan-2017 17:57:07 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer-master/PHPMailer-master.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\kenner\sentmail.php on line 2
+[22-Jan-2017 17:57:22 Asia/Bangkok] PHP Warning:  require(PHPMailer-master/PHPMailer-master.php): failed to open stream: No such file or directory in C:\xampp\htdocs\kenner\sentmail.php on line 2
+[22-Jan-2017 17:57:22 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'PHPMailer-master/PHPMailer-master.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\kenner\sentmail.php on line 2
+[22-Jan-2017 21:04:40 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\blade\update.php on line 39
+[22-Jan-2017 21:23:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\news\class.upload.php on line 2859
+[22-Jan-2017 21:23:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\news\class.upload.php on line 2886
+[22-Jan-2017 21:23:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\news\class.upload.php on line 2904
+[22-Jan-2017 21:23:15 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\news\update.php on line 40
+[22-Jan-2017 21:24:04 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\news\class.upload.php on line 2859
+[22-Jan-2017 21:24:04 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\news\class.upload.php on line 2886
+[22-Jan-2017 21:24:04 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\news\class.upload.php on line 2904
+[22-Jan-2017 21:24:04 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\news\update.php on line 40
+[22-Jan-2017 21:24:26 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\news\update.php on line 40
+[22-Jan-2017 21:26:25 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\news\update.php on line 40
+[22-Jan-2017 21:32:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:32:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:32:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:33:15 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:33:15 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:33:15 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:33:34 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:33:34 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:33:34 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:33:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:33:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:33:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:34:03 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:34:03 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:34:03 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:34:15 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:34:15 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:34:15 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:34:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:34:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:34:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:34:45 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:34:45 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:34:45 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:34:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:34:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:34:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:35:13 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:35:13 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:35:13 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:35:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:35:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:35:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:35:43 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:35:43 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:35:43 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:43:25 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 21:43:36 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:43:36 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:43:36 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:43:36 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 21:43:51 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 21:44:01 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 21:44:01 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 21:44:01 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 21:44:01 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:10:43 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:10:55 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:10:55 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:10:55 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:10:56 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:12:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:12:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:12:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:12:14 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:12:26 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:12:26 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:12:26 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:12:26 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:12:38 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:12:38 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:12:38 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:12:38 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:12:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:12:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:12:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:12:51 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:13:43 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:13:43 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:13:43 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:13:43 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:13:57 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:13:57 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:13:57 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:13:57 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:14:09 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:14:09 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:14:09 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:14:09 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:14:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:14:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:14:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:14:37 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 22:14:52 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 22:14:52 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 22:14:52 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 22:14:52 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[22-Jan-2017 23:56:07 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:56:07 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:56:07 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 23:56:24 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:56:24 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:56:24 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 23:56:38 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:56:38 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:56:38 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 23:56:55 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:56:55 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:56:55 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 23:57:28 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:57:28 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:57:28 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 23:57:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:57:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:57:46 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 23:57:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:57:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:57:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 23:58:18 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:58:18 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:58:18 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 23:58:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:58:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:58:37 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[22-Jan-2017 23:58:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[22-Jan-2017 23:58:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[22-Jan-2017 23:58:51 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904

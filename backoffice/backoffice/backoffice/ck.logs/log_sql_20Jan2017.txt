@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2017 09:0:22 h
+SQL ERROR : INSERT INTO tb_pdmachine (ref_id_blade, name_titleen, name_titleth, detailen_pd, detailth_pd, img_pdblade) VALUES (NULL, 'เครื่องตัด', 'เครื่องตัด', 'gfkdfdfhdf', 'gofdgfgf', '20170120092421.jpg')
+MSG ERROR : Unknown column 'detailen_pd' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2017 09:0:32 h
+SQL ERROR : INSERT INTO tb_pdmachine (ref_id_blade, name_titleen, name_titleth, detailen_pd, detailth_pd, img_pdblade) VALUES (NULL, 'เครื่องตัด', 'เครื่องตัด', 'gfkdfdfhdf', 'gofdgfgf', '20170120092432.jpg')
+MSG ERROR : Unknown column 'detailen_pd' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2017 09:0:55 h
+SQL ERROR : UPDATE tb_pdmachine SET ref_id_blade = '11', name_titleen = 'Cutter', name_titleth = 'เครื่องทับ', detail_en = 'ฟ', detail_th = 'ฟ', img_pdmachine = '20170120094355.png'  WHERE id_pdmachine = '2'
+MSG ERROR : Unknown column 'ref_id_blade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2017 09:0:58 h
+SQL ERROR : UPDATE tb_pdmachine SET ref_id_blade = '11', name_titleen = 'Cutter', name_titleth = 'เครื่องทับ', detail_en = 'ฟ', detail_th = 'ฟ', img_pdmachine = '20170120094357.png'  WHERE id_pdmachine = '2'
+MSG ERROR : Unknown column 'ref_id_blade' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2017 09:0:44 h
+SQL ERROR : SELECT * FROM tb_pdmachine  WHERE id_pdblade = '3'
+MSG ERROR : Unknown column 'id_pdblade' in 'where clause'
+

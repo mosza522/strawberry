@@ -1,0 +1,5 @@
+[25-Dec-2015 10:04:51 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp_new\htdocs\snakemuseum\main\typecus\show.php on line 161
+[25-Dec-2015 14:51:04 Asia/Bangkok] PHP Warning:  include(currency/subshow.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\main\mainsubcus.php on line 68
+[25-Dec-2015 14:51:04 Asia/Bangkok] PHP Warning:  include(): Failed opening 'currency/subshow.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\main\mainsubcus.php on line 68
+[25-Dec-2015 15:08:47 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '=' in C:\xampp_new\htdocs\snakemuseum\main\typecus\subshow.php on line 176
+[25-Dec-2015 17:12:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$row2' (T_VARIABLE) in C:\xampp_new\htdocs\snakemuseum\main\typecus\show.php on line 223

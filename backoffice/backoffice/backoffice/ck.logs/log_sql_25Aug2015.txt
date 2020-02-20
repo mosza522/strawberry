@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/08/2015 13:0:27 h
+SQL ERROR : SELECT * FROM tbl_l1_1    ORDER BY L1_lID DESC  LIMIT 0, 25
+MSG ERROR : Unknown column 'L1_lID' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/08/2015 13:0:36 h
+SQL ERROR : INSERT INTO tbl_rate (L1_1Name) VALUES (NULL)
+MSG ERROR : Unknown column 'L1_1Name' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/08/2015 13:0:59 h
+SQL ERROR : INSERT INTO tbl_rate (L1_1Name) VALUES ('ประจำเดือน สิงหาคม 2558 ระยะเวลา 1 สิงหาคม 2558 - 31 สิงหาคม 2558')
+MSG ERROR : Unknown column 'L1_1Name' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/08/2015 13:0:18 h
+SQL ERROR : INSERT INTO tbl_rate (L1_1Name) VALUES ('ประจำเดือน สิงหาคม 2558 ระยะเวลา 1 สิงหาคม 2558 - 31 สิงหาคม 2558')
+MSG ERROR : Unknown column 'L1_1Name' in 'field list'
+

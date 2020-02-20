@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/12/2015 11:0:17 h
+SQL ERROR : INSERT INTO ck_nationallity (nation_name, nation_currency, nation_exchange) VALUES ('Thai', NULL, NULL)
+MSG ERROR : Column 'nation_currency' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/12/2015 11:0:15 h
+SQL ERROR : UPDATE ck_user_admin SET admin_lastlogout="15-12-2015 11:20:15"  WHERE admin_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/12/2015 11:0:23 h
+SQL ERROR : UPDATE ck_user_admin SET admin_lastlogout="15-12-2015 11:20:23"  WHERE admin_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/12/2015 16:0:45 h
+SQL ERROR : UPDATE ck_type_ticket SET type_ticket_name = 'Adult', thai_price = '250', thairesident_price = '200', nation_price = '300', desc = 'more than 15 years old'  WHERE type_ticket_id = '1'
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc = 'more than 15 years old'  WHERE type_ticket_id = '1'' at line 1
+

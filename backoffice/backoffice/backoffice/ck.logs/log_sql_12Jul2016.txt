@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 12/07/2016 14:0:23 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company_id, member_points, member_status, member_activte, member_idcard, member_name, member_tel, member_admin_name, member_create) VALUES ('FAvWpcLA7u', NULL, '1', 'action', 'enable', '1301300179387', 'วีระยุทธ  ดาดา', '0857557341', 'Tipakorn Khanthang', '12/07/2016 14:31 PM')
+MSG ERROR : Column 'member_company_id' cannot be null
+

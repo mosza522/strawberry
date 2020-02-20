@@ -1,0 +1,36 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/03/2016 11:0:51 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_duo  
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/03/2016 11:0:14 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_duo  
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/03/2016 11:0:16 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_duo  
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/03/2016 11:0:17 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_duo  
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/03/2016 11:0:17 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_duo  
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/03/2016 11:0:17 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_duo  
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/03/2016 11:0:17 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_duo  
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/03/2016 11:0:18 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_duo  
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/03/2016 11:0:18 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_duo  
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+

@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/04/2016 15:0:20 h
+SQL ERROR : UPDATE ck_duo SET duo_img1 = NULL, duo_img2 = NULL, duo_img3 = NULL, duo_img4 = NULL, duo_img5 = NULL, duo_img6 = NULL, duo_img7 = NULL, duo_img8 = NULL, duo_img9 = NULL, duo_name = NULL, duo_detail = NULL, duo_slogan = NULL, duo_age = 'atest2', duo_gender = NULL, duo_ethnicity = NULL, duo_country = NULL, duo_city = NULL, duo_complexion = NULL, duo_haircolor = NULL, duo_eyecolor = NULL, duo_height = NULL, duo_weight = NULL, duo_measurements = '--', duo_cupsize = NULL, duo_pubichair = NULL, duo_smoking = NULL, duo_drinking = NULL, duo_service = 0  WHERE duo_id IS NULL
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/04/2016 15:0:21 h
+SQL ERROR : UPDATE ck_duo SET duo_img1 = NULL, duo_img2 = NULL, duo_img3 = NULL, duo_img4 = NULL, duo_img5 = NULL, duo_img6 = NULL, duo_img7 = NULL, duo_img8 = NULL, duo_img9 = NULL, duo_name = NULL, duo_detail = NULL, duo_slogan = NULL, duo_age = 'atest2', duo_gender = NULL, duo_ethnicity = NULL, duo_country = NULL, duo_city = NULL, duo_complexion = NULL, duo_haircolor = NULL, duo_eyecolor = NULL, duo_height = NULL, duo_weight = NULL, duo_measurements = '--', duo_cupsize = NULL, duo_pubichair = NULL, duo_smoking = NULL, duo_drinking = NULL, duo_service = 0  WHERE duo_id IS NULL
+MSG ERROR : Table 'vtiger.ck_duo' doesn't exist
+

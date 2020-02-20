@@ -1,0 +1,28 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/06/2016 09:0:54 h
+SQL ERROR : DELETE FROM ey_emp  WHERE emp_id = '2'
+MSG ERROR : Table 'lawer.ey_emp' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/06/2016 09:0:31 h
+SQL ERROR : DELETE FROM ey_emp  WHERE emp_id = '2'
+MSG ERROR : Table 'lawer.ey_emp' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/06/2016 09:0:30 h
+SQL ERROR : DELETE FROM ey_emp  WHERE emp_id = '2'
+MSG ERROR : Table 'lawer.ey_emp' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/06/2016 11:0:22 h
+SQL ERROR : SELECT * FROM ey_company  WHERE companny_id = '1'
+MSG ERROR : Unknown column 'companny_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/06/2016 11:0:37 h
+SQL ERROR : SELECT * FROM ey_company  WHERE companny_id = '1'
+MSG ERROR : Unknown column 'companny_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/06/2016 14:0:49 h
+SQL ERROR : INSERT INTO ey_lawyer (lawyer_name, lawyer_address, lawyer_email, lawyer_tel, lawyer_cost, ;awyer_password) VALUES ('วิศิษฎ์ เหมพรวิสาร', 'กรุงเทพ', 'wisit@gmail.com', '0812345678', '1', 'zSxEvyZK')
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';awyer_password) VALUES ('วิศิษฎ์ เหมพรวิสาร',' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/06/2016 18:0:47 h
+SQL ERROR : INSERT INTO ey_lawyer (lawyer_name, lawyer_address, lawyer_email, lawyer_tel, lawyer_cost, lawyer_password) VALUES (NULL, NULL, NULL, NULL, NULL, 't6FmjCly')
+MSG ERROR : Column 'lawyer_name' cannot be null
+

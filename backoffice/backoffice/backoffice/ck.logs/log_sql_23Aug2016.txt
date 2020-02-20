@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/08/2016 13:0:08 h
+SQL ERROR : UPDATE tb_point SET voucher_user_id = NULL, voucher_user_name = NULL, voucher_pass = NULL, voucher_status = '1', voucher_create = '23/08/2016 13:25 PM'  WHERE point_id = ''
+MSG ERROR : Unknown column 'voucher_user_id' in 'field list'
+

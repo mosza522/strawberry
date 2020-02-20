@@ -1,0 +1,19 @@
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Undefined property: stdClass::$grouptour_id in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 68
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 73
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 74
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 76
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 97
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 98
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 100
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Undefined property: stdClass::$grouptour_id in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 68
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 73
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 74
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 76
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 97
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 98
+[19-Jan-2016 14:04:48 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 100
+[19-Jan-2016 15:07:00 Asia/Bangkok] PHP Notice:  Undefined variable: r in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 64
+[19-Jan-2016 15:07:00 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 64
+[19-Jan-2016 15:07:00 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 65
+[19-Jan-2016 15:07:00 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 67
+[19-Jan-2016 15:07:00 Asia/Bangkok] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\snakemuseum\main\ticket\Examples\excel.php on line 79

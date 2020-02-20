@@ -1,0 +1,6 @@
+[15-Dec-2015 10:47:29 Asia/Bangkok] PHP Warning:  include(C:\xampp_new\htdocs\snakemuseum\main\nationallity): failed to open stream: Permission denied in C:\xampp_new\htdocs\snakemuseum\main\mainnation.php on line 68
+[15-Dec-2015 10:47:29 Asia/Bangkok] PHP Warning:  include(): Failed opening 'nationallity/' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\main\mainnation.php on line 68
+[15-Dec-2015 10:51:01 Asia/Bangkok] PHP Warning:  include(C:\xampp_new\htdocs\snakemuseum\main\nationallity): failed to open stream: Permission denied in C:\xampp_new\htdocs\snakemuseum\main\mainnation.php on line 68
+[15-Dec-2015 10:51:01 Asia/Bangkok] PHP Warning:  include(): Failed opening 'nationallity/' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\main\mainnation.php on line 68
+[15-Dec-2015 10:51:25 Asia/Bangkok] PHP Warning:  include(nationallity/show.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\main\mainnation.php on line 68
+[15-Dec-2015 10:51:25 Asia/Bangkok] PHP Warning:  include(): Failed opening 'nationallity/show.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\main\mainnation.php on line 68

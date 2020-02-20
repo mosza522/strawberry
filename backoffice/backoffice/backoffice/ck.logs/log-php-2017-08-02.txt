@@ -1,0 +1,1 @@
+[02-Aug-2017 14:03:17 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\banner\addbanner.php on line 32

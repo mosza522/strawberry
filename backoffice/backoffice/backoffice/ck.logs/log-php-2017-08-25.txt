@@ -1,0 +1,6 @@
+[25-Aug-2017 09:43:30 Asia/Bangkok] PHP Warning:  move_uploaded_file(../photo_activity/204-nectec.jpg): failed to open stream: No such file or directory in C:\xampp\htdocs\newstraw\backoffice\activity\add.php on line 96
+[25-Aug-2017 09:43:30 Asia/Bangkok] PHP Warning:  move_uploaded_file(): Unable to move 'C:\xampp\tmp\phpA3F7.tmp' to '../photo_activity/204-nectec.jpg' in C:\xampp\htdocs\newstraw\backoffice\activity\add.php on line 96
+[25-Aug-2017 10:12:08 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\activity\light_box.php on line 216
+[25-Aug-2017 10:12:08 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\activity\light_box.php on line 224
+[25-Aug-2017 10:12:08 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\activity\light_box.php on line 240
+[25-Aug-2017 10:12:08 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\activity\light_box.php on line 259

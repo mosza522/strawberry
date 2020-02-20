@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/09/2017 13:0:48 h
+SQL ERROR : UPDATE tb_admin SET admin_lastlogout="2017-09-04 13:44:48"  WHERE admin_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+

@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/08/2017 15:0:04 h
+SQL ERROR : SELECT * FROM tb_menu  WHERE menu_active = 'Y'   ORDER BY ref_menu_id asc,menu_sort asc 
+MSG ERROR : Table 'strawberry.tb_menu' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/08/2017 15:0:27 h
+SQL ERROR : SELECT * FROM tb_menu  WHERE menu_active = 'Y'   ORDER BY ref_menu_id asc,menu_sort asc 
+MSG ERROR : Table 'strawberry.tb_menu' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/08/2017 15:0:28 h
+SQL ERROR : SELECT * FROM tb_menu  WHERE menu_active = 'Y'   ORDER BY ref_menu_id asc,menu_sort asc 
+MSG ERROR : Table 'strawberry.tb_menu' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/08/2017 15:0:29 h
+SQL ERROR : SELECT * FROM tb_menu  WHERE menu_active = 'Y'   ORDER BY ref_menu_id asc,menu_sort asc 
+MSG ERROR : Table 'strawberry.tb_menu' doesn't exist
+

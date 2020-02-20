@@ -1,0 +1,2 @@
+[12-Apr-2016 11:28:45 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting variable (T_VARIABLE) or '$' in D:\xampp\htdocs\Vtiger\work\show.php on line 102
+[12-Apr-2016 11:29:03 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting variable (T_VARIABLE) or '$' in D:\xampp\htdocs\Vtiger\work\show.php on line 102

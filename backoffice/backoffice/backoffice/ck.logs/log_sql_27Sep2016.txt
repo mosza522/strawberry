@@ -1,0 +1,180 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:25 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:44 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = '' AND 1 = '' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:45 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = '' AND 1 = '' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:45 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = '' AND 1 = '' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:45 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = '' AND 1 = '' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:45 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = '' AND 1 = '' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:55 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND 1 = '' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:55 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND 1 = '' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:55 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND 1 = '' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:03 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND 1 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:03 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND 1 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:04 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND 1 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:04 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND 1 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:04 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND 1 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:04 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND 1 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:11 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:11 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:12 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:12 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:22 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = 'null' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:22 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = 'null' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:23 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = 'null' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:23 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = 'null' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:23 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE 0 = 'null' AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:47 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE rate_name IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:48 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE rate_name IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:48 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE rate_name IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:48 h
+SQL ERROR : SELECT * FROM tb_rate_point  WHERE rate_name IS NULL AND limit = 1
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit = 1' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:22 h
+SQL ERROR : SELECT 1 FROM tb_rate_point  WHERE limit
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:23 h
+SQL ERROR : SELECT 1 FROM tb_rate_point  WHERE limit
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:23 h
+SQL ERROR : SELECT 1 FROM tb_rate_point  WHERE limit
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:23 h
+SQL ERROR : SELECT 1 FROM tb_rate_point  WHERE limit
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:34 h
+SQL ERROR : SELECT limit 1 FROM tb_rate_point  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit 1 FROM tb_rate_point  WHERE' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:34 h
+SQL ERROR : SELECT limit 1 FROM tb_rate_point  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit 1 FROM tb_rate_point  WHERE' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:35 h
+SQL ERROR : SELECT limit 1 FROM tb_rate_point  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit 1 FROM tb_rate_point  WHERE' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:35 h
+SQL ERROR : SELECT limit 1 FROM tb_rate_point  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit 1 FROM tb_rate_point  WHERE' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:51 h
+SQL ERROR : SELECT  FROM tb_rate_point  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tb_rate_point  WHERE' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:52 h
+SQL ERROR : SELECT  FROM tb_rate_point  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tb_rate_point  WHERE' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:52 h
+SQL ERROR : SELECT  FROM tb_rate_point  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tb_rate_point  WHERE' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:52 h
+SQL ERROR : SELECT  FROM tb_rate_point  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tb_rate_point  WHERE' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:52 h
+SQL ERROR : SELECT  FROM tb_rate_point  WHERE 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM tb_rate_point  WHERE' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:49 h
+SQL ERROR : SELECT * FROM tb_rate_point    ORDER BY rate_id asc  LIMIT null
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'null' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:50 h
+SQL ERROR : SELECT * FROM tb_rate_point    ORDER BY rate_id asc  LIMIT null
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'null' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 21:0:50 h
+SQL ERROR : SELECT * FROM tb_rate_point    ORDER BY rate_id asc  LIMIT null
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'null' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/09/2016 23:0:51 h
+SQL ERROR : INSERT INTO tb_customer (PropertyCode, MarketSegment, SourceBusiness, IDCard, Room, RatePlan, FirstName, LastName, ConfirmationNumber, ArrivalDate, DepartureDate, Nights, Status, ScheduledRoom, VIPLevel, Organization, MobileNumber, PhoneNumber, EmailAddress, Address, City, StateProvince, PostalCode, ReservationDate, RoomType, TwitterID, FacebookID, TripAdvisorID, BookingID, CreateDate) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '//', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1474992171)
+MSG ERROR : Column 'PropertyCode' cannot be null
+

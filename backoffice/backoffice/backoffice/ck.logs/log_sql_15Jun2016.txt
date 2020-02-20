@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/06/2016 09:0:14 h
+SQL ERROR : INSERT INTO ck_act_protect (act_id, protect_id, protect_name, protect_type) VALUES ('1', NULL, '80,000 บาท ต่อหนึ่งคน สำหรับความเสียหายต่อร่างกายหรืออนามัย', 'จำนวนเงินคุ้มครองผู้ประสบภัย')
+MSG ERROR : Column 'protect_id' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/06/2016 09:0:24 h
+SQL ERROR : INSERT INTO ck_act_protect (act_id, protect_id, protect_name, protect_type) VALUES ('2', NULL, '80,000 บาท ต่อหนึ่งคน สำหรับความเสียหายต่อร่างกายหรืออนามัย', 'จำนวนเงินคุ้มครองผู้ประสบภัย')
+MSG ERROR : Column 'protect_id' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/06/2016 11:0:16 h
+SQL ERROR : SELECT * FROM ck_cartype  WHERE crtype_id = '1'
+MSG ERROR : Unknown column 'crtype_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/06/2016 11:0:36 h
+SQL ERROR : SELECT * FROM ck_cartype  WHERE crtype_id = '1'
+MSG ERROR : Unknown column 'crtype_id' in 'where clause'
+

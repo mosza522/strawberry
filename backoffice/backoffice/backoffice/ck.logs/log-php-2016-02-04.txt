@@ -1,0 +1,7 @@
+[04-Feb-2016 11:10:14 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in D:\xampp\htdocs\buddhisgirl\backoffice\news\addnews.php on line 8
+[04-Feb-2016 11:11:02 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in D:\xampp\htdocs\buddhisgirl\backoffice\news\addnews.php on line 8
+[04-Feb-2016 11:29:37 Asia/Bangkok] PHP Warning:  unlink(../img/news04022016112539news.jpg): No such file or directory in D:\xampp\htdocs\buddhisgirl\backoffice\news\delnews.php on line 5
+[04-Feb-2016 11:30:24 Asia/Bangkok] PHP Warning:  unlink(../../img/news04022016111620news.jpg): No such file or directory in D:\xampp\htdocs\buddhisgirl\backoffice\news\delnews.php on line 5
+[04-Feb-2016 11:33:16 Asia/Bangkok] PHP Warning:  unlink(../../img/news04022016113208news.jpg): No such file or directory in D:\xampp\htdocs\buddhisgirl\backoffice\news\delnews.php on line 5
+[04-Feb-2016 11:33:20 Asia/Bangkok] PHP Warning:  unlink(../../img/news): Permission denied in D:\xampp\htdocs\buddhisgirl\backoffice\news\delnews.php on line 5
+[04-Feb-2016 11:33:35 Asia/Bangkok] PHP Warning:  unlink(../../img/news04022016113214news.jpg): No such file or directory in D:\xampp\htdocs\buddhisgirl\backoffice\news\delnews.php on line 5

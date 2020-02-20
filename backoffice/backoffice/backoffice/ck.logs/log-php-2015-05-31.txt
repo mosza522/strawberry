@@ -1,0 +1,7 @@
+[31-May-2015 12:42:49 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/zaoft/domains/aoft.avc-holding.com/public_html/phutawan/backoffice/backoffice/product/view/frm-index.php on line 179
+[31-May-2015 12:43:10 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/zaoft/domains/aoft.avc-holding.com/public_html/phutawan/backoffice/backoffice/product/view/frm-index.php on line 179
+[31-May-2015 12:43:13 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/zaoft/domains/aoft.avc-holding.com/public_html/phutawan/backoffice/backoffice/product/view/frm-index.php on line 179
+[31-May-2015 12:49:08 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/zaoft/domains/aoft.avc-holding.com/public_html/phutawan/backoffice/backoffice/product/view/frm-index.php on line 198
+[31-May-2015 12:49:09 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/zaoft/domains/aoft.avc-holding.com/public_html/phutawan/backoffice/backoffice/product/view/frm-index.php on line 198
+[31-May-2015 14:29:53 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/zaoft/domains/aoft.avc-holding.com/public_html/phutawan/backoffice/backoffice/product/view/frm-index.php on line 198
+[31-May-2015 15:10:05 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/zaoft/domains/aoft.avc-holding.com/public_html/phutawan/backoffice/backoffice/product/view/frm-index.php on line 177

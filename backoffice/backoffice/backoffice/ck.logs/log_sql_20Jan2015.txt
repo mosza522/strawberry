@@ -1,0 +1,144 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 10:0:41 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:39 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:55 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:56 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:57 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:11 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE typeproduct_name_en = 't'
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:49 h
+SQL ERROR : SELECT * FROM ck_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:58 h
+SQL ERROR : SELECT * FROM ck_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:00 h
+SQL ERROR : SELECT * FROM ck_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:54 h
+SQL ERROR : SELECT * FROM ck_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:36 h
+SQL ERROR : SELECT * FROM ck_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:37 h
+SQL ERROR : SELECT * FROM ck_product  WHERE typeproduct_name_en = 'Type Product [EN] '
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 12:0:44 h
+SQL ERROR : SELECT * FROM ck_product  WHERE typeproduct_name_en = 'a'
+MSG ERROR : Unknown column 'typeproduct_name_en' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:19 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images, admin_date_update) VALUES ('e', 'e', 'e', 'e', 'e', 'e', 'e', 1421736859)
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:24 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images, admin_date_update) VALUES ('e', 'e', 'e', 'e', 'e', 'e', 'e', 1421736864)
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:21 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images, admin_date_update) VALUES ('aaa', 'a', 'a', 'a', 'a', 'a', 'a', 1421737041)
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:54 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('aaa', 'a', 'a', 'a', 'a', 'a', 'a')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:54 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('aaa', 'a', 'a', 'a', 'a', 'a', 'a')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:57 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('aaa', 'a', 'a', 'a', 'a', 'a', 'a')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:57 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('aaa', 'a', 'a', 'a', 'a', 'a', 'a')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:57 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('aaa', 'a', 'a', 'a', 'a', 'a', 'a')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:58 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('aaa', 'a', 'a', 'a', 'a', 'a', 'a')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:58 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('aaa', 'a', 'a', 'a', 'a', 'a', 'a')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:05 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('', '', '', '', '', '', '')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:12 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('s', 's', 's', 's', 's', 's', 's')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 13:0:17 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('s', 's', 's', 's', 's', 's', 's')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:17 h
+SQL ERROR : INSERT INTO ck_user_admin (product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_pin, product_images) VALUES ('s', 's', 's', 's', 's', 's', 's')
+MSG ERROR : Unknown column 'product_name_en' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:30 h
+SQL ERROR : SELECT * FROM ck_product  WHERE admin_username IS NULL
+MSG ERROR : Unknown column 'admin_username' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:52 h
+SQL ERROR : SELECT * FROM ck_product  WHERE admin_username IS NULL
+MSG ERROR : Unknown column 'admin_username' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:44 h
+SQL ERROR : SELECT * FROM ck_product  WHERE admin_username IS NULL
+MSG ERROR : Unknown column 'admin_username' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:53 h
+SQL ERROR : SELECT * FROM ck_product  WHERE admin_username IS NULL
+MSG ERROR : Unknown column 'admin_username' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:56 h
+SQL ERROR : SELECT * FROM ck_product  WHERE admin_username IS NULL
+MSG ERROR : Unknown column 'admin_username' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:11 h
+SQL ERROR : SELECT * FROM ck_product  WHERE admin_username IS NULL
+MSG ERROR : Unknown column 'admin_username' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:27 h
+SQL ERROR : SELECT * FROM ck_product  WHERE admin_username IS NULL
+MSG ERROR : Unknown column 'admin_username' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:53 h
+SQL ERROR : DELETE FROM ck_product  WHERE admin_id = '1'
+MSG ERROR : Unknown column 'admin_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2015 14:0:18 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE ref_type_id != 0   ORDER BY type_sort  LIMIT 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+

@@ -1,0 +1,148 @@
+[20-Jan-2015 06:27:55 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 06:27:56 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 06:35:09 Asia/Bangkok] PHP Warning:  Illegal string offset '' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 58
+[20-Jan-2015 06:35:35 Asia/Bangkok] PHP Warning:  Illegal string offset '' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 58
+[20-Jan-2015 07:11:53 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:11:53 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:12:21 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:12:22 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:12:23 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:12:23 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:12:24 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:13:25 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:13:25 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:13:26 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:13:27 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:15:06 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:15:06 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:15:07 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:15:34 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:15:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 72
+[20-Jan-2015 07:15:44 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:15:53 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:15:54 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:16:04 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:16:05 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:16:19 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:16:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:16:21 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:16:40 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:16:41 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:16:42 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:17:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:17:02 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:17:02 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:17:06 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:17:16 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:17:24 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:17:25 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:17:41 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:17:41 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 07:19:59 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:20:01 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:20:01 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:20:02 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:21:35 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 111
+[20-Jan-2015 07:23:29 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 110
+[20-Jan-2015 07:23:30 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 110
+[20-Jan-2015 07:24:05 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 111
+[20-Jan-2015 07:25:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 106
+[20-Jan-2015 07:25:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 106
+[20-Jan-2015 07:25:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 106
+[20-Jan-2015 07:25:16 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 106
+[20-Jan-2015 07:26:12 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 78
+[20-Jan-2015 07:27:07 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:27:09 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:27:09 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:27:58 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:27:58 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:28:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:31:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 73
+[20-Jan-2015 07:32:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:32:29 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:32:30 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:32:30 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:34:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:34:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:34:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:34:43 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:34:44 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:34:44 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:35:04 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:35:05 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:35:06 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:37:53 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:37:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:38:46 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:38:47 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ']' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 77
+[20-Jan-2015 07:39:50 Asia/Bangkok] PHP Fatal error:  Cannot use [] for reading in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 55
+[20-Jan-2015 07:45:03 Asia/Bangkok] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 55
+[20-Jan-2015 07:45:03 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 55
+[20-Jan-2015 07:46:18 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:46:41 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:46:42 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:46:42 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:47:15 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:47:16 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:47:23 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:47:23 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:47:24 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:49:58 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:49:59 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:49:59 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:50:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:50:03 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:50:04 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:50:24 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:50:25 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:52:57 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 101
+[20-Jan-2015 07:53:27 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:56:03 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:56:03 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:56:04 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 07:56:22 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$m' (T_VARIABLE), expecting ',' or ';' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 62
+[20-Jan-2015 07:56:44 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 08:00:45 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 55
+[20-Jan-2015 08:00:46 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 55
+[20-Jan-2015 08:02:48 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 76
+[20-Jan-2015 08:08:05 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 08:08:05 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 08:08:05 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 08:08:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 08:08:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 08:08:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 08:08:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 08:08:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 08:08:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 09:32:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 99
+[20-Jan-2015 09:33:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 98
+[20-Jan-2015 09:34:33 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 09:46:29 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 09:46:31 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 09:46:32 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 09:46:32 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 09:46:33 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 74
+[20-Jan-2015 09:47:53 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 75
+[20-Jan-2015 13:27:44 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 25
+[20-Jan-2015 13:27:47 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 25
+[20-Jan-2015 13:27:47 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 25
+[20-Jan-2015 13:31:40 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 24
+[20-Jan-2015 13:31:46 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 24
+[20-Jan-2015 13:33:23 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 24
+[20-Jan-2015 13:42:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 24
+[20-Jan-2015 13:45:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 24
+[20-Jan-2015 13:47:42 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 25
+[20-Jan-2015 13:47:44 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 25
+[20-Jan-2015 13:47:45 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 25
+[20-Jan-2015 13:49:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 26
+[20-Jan-2015 13:49:34 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 26
+[20-Jan-2015 13:50:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 26
+[20-Jan-2015 13:50:31 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 26
+[20-Jan-2015 13:50:33 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''product_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\ck.class.php on line 26
+[20-Jan-2015 14:14:37 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'PushTextArea' (T_STRING) in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\view\frm-index.php on line 32
+[20-Jan-2015 14:17:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'PushTextArea' (T_STRING) in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\view\frm-index.php on line 31
+[20-Jan-2015 14:25:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'PushText' (T_STRING) in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\view\frm-index.php on line 39
+[20-Jan-2015 14:35:22 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\view\frm-index.php on line 16
+[20-Jan-2015 14:41:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\view\frm-index.php on line 41
+[20-Jan-2015 16:58:19 Asia/Bangkok] PHP Warning:  include(..class.upload.php): failed to open stream: No such file or directory in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\view\frm-index.php on line 2
+[20-Jan-2015 16:58:19 Asia/Bangkok] PHP Warning:  include(): Failed opening '..class.upload.php' for inclusion (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\phutawan\backoffice\backoffice\product\view\frm-index.php on line 2

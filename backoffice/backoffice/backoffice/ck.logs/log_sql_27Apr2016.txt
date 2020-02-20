@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/04/2016 11:0:42 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_salework  WHERE sale_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/04/2016 11:0:11 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_salework  WHERE sale_id=3 and sales_status="" 
+MSG ERROR : Unknown column 'sales_status' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/04/2016 14:0:05 h
+SQL ERROR : SELECT * FROM ck_salework  WHERE sales_id IS NULL
+MSG ERROR : Unknown column 'sales_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/04/2016 14:0:21 h
+SQL ERROR : SELECT * FROM ck_salework  WHERE sales_id = '4'
+MSG ERROR : Unknown column 'sales_id' in 'where clause'
+

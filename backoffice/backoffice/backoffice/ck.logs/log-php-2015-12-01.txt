@@ -1,0 +1,7 @@
+[01-Dec-2015 17:01:05 Asia/Bangkok] PHP Fatal error:  Using $this when not in object context in C:\xampp_new\htdocs\pharmacy\injournal.php on line 43
+[01-Dec-2015 17:21:23 Asia/Bangkok] PHP Fatal error:  Using $this when not in object context in C:\xampp_new\htdocs\pharmacy\injournal.php on line 34
+[01-Dec-2015 17:21:24 Asia/Bangkok] PHP Fatal error:  Using $this when not in object context in C:\xampp_new\htdocs\pharmacy\injournal.php on line 34
+[01-Dec-2015 17:21:24 Asia/Bangkok] PHP Fatal error:  Using $this when not in object context in C:\xampp_new\htdocs\pharmacy\injournal.php on line 34
+[01-Dec-2015 17:21:25 Asia/Bangkok] PHP Fatal error:  Using $this when not in object context in C:\xampp_new\htdocs\pharmacy\injournal.php on line 34
+[01-Dec-2015 17:21:25 Asia/Bangkok] PHP Fatal error:  Using $this when not in object context in C:\xampp_new\htdocs\pharmacy\injournal.php on line 34
+[01-Dec-2015 17:21:25 Asia/Bangkok] PHP Fatal error:  Using $this when not in object context in C:\xampp_new\htdocs\pharmacy\injournal.php on line 34

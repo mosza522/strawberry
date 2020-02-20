@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 03/10/2016 09:0:34 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+

@@ -1,0 +1,12 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/11/2016 02:0:38 h
+SQL ERROR : SELECT * FROM tb_counselors  WHERE counselors_location = Sydney   
+MSG ERROR : Unknown column 'Sydney' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/11/2016 22:0:07 h
+SQL ERROR : SELECT GROUP BY scho_id FROM tb_scholarships  WHERE scho_country = '1'   
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY scho_id FROM tb_scholarships  WHERE scho_country = '1'' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/11/2016 22:0:01 h
+SQL ERROR : SELECT scho_id FROM tb_scholarships  WHERE scho_country = '1'    LIMIT *
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*' at line 1
+

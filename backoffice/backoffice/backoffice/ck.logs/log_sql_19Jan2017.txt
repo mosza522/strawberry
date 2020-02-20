@@ -1,0 +1,128 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 11:0:53 h
+SQL ERROR : Database Select DB Fail
+MSG ERROR : Unknown database 'kenner'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 11:0:44 h
+SQL ERROR : INSERT INTO tb_banner (name_titleen, name_titleth, name_detailen, name_detailth, banner_pic, banner_create) VALUES ('KENNER KNIFE', 'KENNER KNIFE', '“Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier...”', '“Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier...”', NULL, '2017-01-19 11:44:44')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:28 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133027.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:29 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133029.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:47 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133147.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:48 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133148.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:09 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133309.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:10 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133310.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:10 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133310.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:15 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133615.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:16 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133616.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:16 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133616.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:17 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133617.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:35 h
+SQL ERROR : INSERT INTO tb_tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119133635.png')
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:36 h
+SQL ERROR : SELECT * FROM tb_tb_machine  WHERE id_machine = '0'
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 13:0:03 h
+SQL ERROR : SELECT * FROM tb_tb_machine  WHERE id_machine = '0'
+MSG ERROR : Table 'kenner.tb_tb_machine' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:02 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('1', 'KENNER KNIFE', '20170119140502.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:04 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('1', 'KENNER KNIFE', '20170119140504.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:20 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119140520.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:21 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('Cutter', 'เครื่องตัด', '20170119140521.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:02 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('KENNER KNIFE', '1', '20170119140702.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:02 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('KENNER KNIFE', '1', '20170119140702.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:03 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('KENNER KNIFE', '1', '20170119140702.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:03 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('KENNER KNIFE', '1', '20170119140703.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:11 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('KENNER KNIFE', '1', '20170119140810.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 14:0:51 h
+SQL ERROR : INSERT INTO tb_machine (name_macen, name_macth, img_mach) VALUES ('KENNER KNIFE', '1', '20170119140851.png')
+MSG ERROR : Duplicate entry '0' for key 'PRIMARY'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 17:0:15 h
+SQL ERROR : INSERT INTO tb_pdblade (name_categen, ref_id_blade, name_categth, detailen_pd, detailth_pd, img_categ) VALUES ('Cutter', '16', 'KENNER KNIFE', '“Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier...”', '“Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier...”', '20170119172515.png')
+MSG ERROR : Unknown column 'name_categen' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 17:0:23 h
+SQL ERROR : INSERT INTO tb_pdblade (name_categen, ref_id_blade, name_categth, detailen_pd, detailth_pd, img_categ) VALUES ('Cutter', '16', 'KENNER KNIFE', '“Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier...”', '“Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier...”', '20170119172523.png')
+MSG ERROR : Unknown column 'name_categen' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 17:0:42 h
+SQL ERROR : INSERT INTO tb_pdblade (name_categen, ref_id_blade, name_categth, detailen_pd, detailth_pd, img_categ) VALUES ('Cutter', '16', 'KENNER KNIFE', 'Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier', 'Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier..', '20170119172642.png')
+MSG ERROR : Unknown column 'name_categen' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 17:0:44 h
+SQL ERROR : INSERT INTO tb_pdblade (name_categen, ref_id_blade, name_categth, detailen_pd, detailth_pd, img_categ) VALUES ('Cutter', '16', 'KENNER KNIFE', 'Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier', 'Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier..', '20170119172644.png')
+MSG ERROR : Unknown column 'name_categen' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 17:0:30 h
+SQL ERROR : INSERT INTO tb_pdblade (ref_id_blade, name_titleen, name_titleth, detailen_pd, detailth_pd, img_categ) VALUES ('16', 'Cutter', 'KENNER KNIFE', 'Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier', 'Kenner Knife is not only to create and manufacture the best blades on the market, but to also work with you to make your job easier..', '20170119172830.png')
+MSG ERROR : Unknown column 'img_categ' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/01/2017 17:0:42 h
+SQL ERROR : INSERT INTO tb_pdblade (ref_id_blade, name_titleen, name_titleth, detailen_pd, detailth_pd, img_categ) VALUES ('16', 'Cutter', 'KENNER KNIFE', '2', '2', '20170119172841.png')
+MSG ERROR : Unknown column 'img_categ' in 'field list'
+

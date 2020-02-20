@@ -1,0 +1,256 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:23 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:08 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:10 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:28 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:30 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:32 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:34 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:49 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:51 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 14:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:35 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:37 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:45 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:46 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:47 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:48 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE  
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 17:0:31 h
+SQL ERROR : UPDATE tb_voucher SET reserv_status = '1'  WHERE voucher_id = '2'
+MSG ERROR : Unknown column 'reserv_status' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:41 h
+SQL ERROR : UPDATE tb_voucher SET reserv_status = '1'  WHERE voucher_id = '5'
+MSG ERROR : Unknown column 'reserv_status' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:52 h
+SQL ERROR : UPDATE tb_voucher SET reserv_status = '1'  WHERE voucher_id = '5'
+MSG ERROR : Unknown column 'reserv_status' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:22 h
+SQL ERROR : UPDATE tb_voucher SET reserv_status = '1'  WHERE voucher_id = '5'
+MSG ERROR : Unknown column 'reserv_status' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:24 h
+SQL ERROR : UPDATE tb_voucher SET reserv_status = '1'  WHERE voucher_id = '5'
+MSG ERROR : Unknown column 'reserv_status' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:26 h
+SQL ERROR : UPDATE tb_voucher SET voucher_status = '1'  WHERE reserv_id = '5'
+MSG ERROR : Unknown column 'reserv_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:58 h
+SQL ERROR : UPDATE tb_voucher SET voucher_status = 1  WHERE reserv_id = '5'
+MSG ERROR : Unknown column 'reserv_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:03 h
+SQL ERROR : UPDATE tb_voucher SET voucher_status = 1  WHERE reserv_id = '5'
+MSG ERROR : Unknown column 'reserv_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:22 h
+SQL ERROR : UPDATE tb_voucher SET voucher_status = 1  WHERE reserv_id = '5'
+MSG ERROR : Unknown column 'reserv_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:23 h
+SQL ERROR : UPDATE tb_voucher SET voucher_status = 1  WHERE reserv_id = '5'
+MSG ERROR : Unknown column 'reserv_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/09/2016 18:0:27 h
+SQL ERROR : UPDATE tb_voucher SET voucher_status = '1'  WHERE reserv_id = '5'
+MSG ERROR : Unknown column 'reserv_id' in 'where clause'
+

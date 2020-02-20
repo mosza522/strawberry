@@ -1,0 +1,16 @@
+[22-Jul-2016 14:40:22 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 66
+[22-Jul-2016 14:40:29 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 66
+[22-Jul-2016 14:40:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 66
+[22-Jul-2016 14:41:06 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 69
+[22-Jul-2016 14:41:26 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 69
+[22-Jul-2016 14:41:30 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 69
+[22-Jul-2016 14:42:08 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 69
+[22-Jul-2016 14:42:16 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 69
+[22-Jul-2016 14:48:42 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'SUMmember_points' (T_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 42
+[22-Jul-2016 14:48:46 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'SUMmember_points' (T_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 42
+[22-Jul-2016 14:48:49 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'SUMmember_points' (T_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 42
+[22-Jul-2016 14:50:03 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'SUMmember_points' (T_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 27
+[22-Jul-2016 14:50:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'SUMmember_points' (T_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 27
+[22-Jul-2016 17:41:42 Asia/Bangkok] PHP Fatal error:  Call to undefined function random_password() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 41
+[22-Jul-2016 17:41:55 Asia/Bangkok] PHP Fatal error:  Call to undefined function random_password() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 41
+[22-Jul-2016 17:41:56 Asia/Bangkok] PHP Fatal error:  Call to undefined function random_password() in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 41

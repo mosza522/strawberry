@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 06/02/2016 13:0:00 h
+SQL ERROR : UPDATE ck_money SET   WHERE payment_status = '4'
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE payment_status = '4'' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 06/02/2016 15:0:26 h
+SQL ERROR : UPDATE ck_money SET paymen_status = 'Y'  WHERE money_id = '6'
+MSG ERROR : Unknown column 'paymen_status' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 06/02/2016 15:0:35 h
+SQL ERROR : UPDATE ck_money SET paymen_status = 'Y'  WHERE money_id = '6'
+MSG ERROR : Unknown column 'paymen_status' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 06/02/2016 17:0:25 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'buddhistgi_dham'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 06/02/2016 17:0:28 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'buddhistgi_dham'@'localhost' (using password: YES)
+

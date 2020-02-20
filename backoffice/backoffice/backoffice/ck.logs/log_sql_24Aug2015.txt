@@ -1,0 +1,36 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/08/2015 11:0:20 h
+SQL ERROR : UPDATE tbl_news SET   WHERE nID = '5'
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nID = '5'' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/08/2015 15:0:06 h
+SQL ERROR : INSERT INTO tbl_rate (ch1Department, ch1Date, ch1Note, ch1PostDate) VALUES ('สก.ทบ.', '2015-08-24', '', '20150824153650')
+MSG ERROR : Unknown column 'ch1Department' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/08/2015 15:0:13 h
+SQL ERROR : INSERT INTO tbl_rate (ch1Department, ch1Date, ch1Note, ch1PostDate) VALUES ('สก.ทบ.', '2015-08-24', '', '20150824153650')
+MSG ERROR : Unknown column 'ch1Department' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/08/2015 16:0:31 h
+SQL ERROR : INSERT INTO tbl_cash1 (ch1Department, ch1Date, ch1Note, ch1PostDate) VALUES ('สก.ทบ.2', '2015-08-24', '', NULL)
+MSG ERROR : Column 'ch1PostDate' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/08/2015 16:0:32 h
+SQL ERROR : INSERT INTO tbl_cash1 (ch1Department, ch1Date, ch1Note, ch1PostDate) VALUES ('สก.ทบ.2', '2015-08-24', '', NULL)
+MSG ERROR : Column 'ch1PostDate' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/08/2015 16:0:33 h
+SQL ERROR : INSERT INTO tbl_cash1 (ch1Department, ch1Date, ch1Note, ch1PostDate) VALUES ('สก.ทบ.2', '2015-08-24', '', NULL)
+MSG ERROR : Column 'ch1PostDate' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/08/2015 16:0:55 h
+SQL ERROR : INSERT INTO tbl_cash1 (ch1Department, ch1Date, ch1Note, ch1PostDate) VALUES ('สก.ทบ.2', '2015-08-24', '', NULL)
+MSG ERROR : Column 'ch1PostDate' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/08/2015 16:0:15 h
+SQL ERROR : INSERT INTO tbl_cash1 (ch1Department, ch1Date, ch1Note, ch1PostDate) VALUES ('สก.ทบ.2', '2015-08-24', '', NULL)
+MSG ERROR : Column 'ch1PostDate' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/08/2015 16:0:17 h
+SQL ERROR : INSERT INTO tbl_cash1 (ch1Department, ch1Date, ch1Note, ch1PostDate) VALUES ('สก.ทบ.2', '2015-08-24', '', NULL)
+MSG ERROR : Column 'ch1PostDate' cannot be null
+

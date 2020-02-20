@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/09/2016 20:0:07 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_rate_points  
+MSG ERROR : Table 'crm.tb_rate_points' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/09/2016 20:0:42 h
+SQL ERROR : INSERT INTO tb_expired_date (rate_name) VALUES ('Corporate')
+MSG ERROR : Unknown column 'rate_name' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/09/2016 20:0:39 h
+SQL ERROR : UPDATE tb_rate_point SET rate_name = 'Corporate12'  WHERE expired_id = '3'
+MSG ERROR : Unknown column 'expired_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/09/2016 20:0:41 h
+SQL ERROR : UPDATE tb_rate_point SET rate_name = 'Corporate12'  WHERE expired_id = '3'
+MSG ERROR : Unknown column 'expired_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/09/2016 20:0:41 h
+SQL ERROR : UPDATE tb_rate_point SET rate_name = 'Corporate12'  WHERE expired_id = '3'
+MSG ERROR : Unknown column 'expired_id' in 'where clause'
+

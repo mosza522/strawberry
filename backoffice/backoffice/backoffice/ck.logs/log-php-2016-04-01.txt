@@ -1,0 +1,4 @@
+[01-Apr-2016 15:10:58 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'PushText' (T_STRING) in D:\xampp\htdocs\Vtiger\redbook\show.php on line 111
+[01-Apr-2016 15:11:42 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'PushText' (T_STRING) in D:\xampp\htdocs\Vtiger\redbook\show.php on line 111
+[01-Apr-2016 15:26:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\Vtiger\redbook\upredbook.php on line 183
+[01-Apr-2016 15:26:21 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\Vtiger\redbook\upredbook.php on line 183

@@ -1,0 +1,65 @@
+[28-Nov-2016 10:50:45 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 10:50:45 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 10:50:45 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 11:26:07 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 11:26:07 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 11:26:07 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 11:26:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 11:26:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 11:26:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 11:51:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2859
+[28-Nov-2016 11:51:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2886
+[28-Nov-2016 11:51:30 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2904
+[28-Nov-2016 11:53:29 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2859
+[28-Nov-2016 11:53:29 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2886
+[28-Nov-2016 11:53:29 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2904
+[28-Nov-2016 11:59:29 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2859
+[28-Nov-2016 11:59:29 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2886
+[28-Nov-2016 11:59:29 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2904
+[28-Nov-2016 12:01:10 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2859
+[28-Nov-2016 12:01:10 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2886
+[28-Nov-2016 12:01:10 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\institution\class.upload.php on line 2904
+[28-Nov-2016 12:02:13 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 12:02:13 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 12:02:13 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 13:21:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 13:21:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 13:21:14 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 15:31:08 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 15:31:08 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 15:31:08 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 16:08:53 Asia/Bangkok] PHP Warning:  explode() expects parameter 2 to be string, array given in C:\xampp\htdocs\newback\backoffice\editevent.php on line 159
+[28-Nov-2016 16:08:53 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\backoffice\editevent.php on line 160
+[28-Nov-2016 16:24:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 16:24:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 16:24:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 16:24:47 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 16:24:47 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 16:24:47 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 16:33:12 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\event_detail.php on line 114
+[28-Nov-2016 16:40:52 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 16:40:52 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 16:40:52 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 17:49:31 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2859
+[28-Nov-2016 17:49:31 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2886
+[28-Nov-2016 17:49:31 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\event\class.upload.php on line 2904
+[28-Nov-2016 23:44:25 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2859
+[28-Nov-2016 23:44:25 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2886
+[28-Nov-2016 23:44:25 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2904
+[28-Nov-2016 23:44:34 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2859
+[28-Nov-2016 23:44:34 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2886
+[28-Nov-2016 23:44:34 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2904
+[28-Nov-2016 23:44:55 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2859
+[28-Nov-2016 23:44:55 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2886
+[28-Nov-2016 23:44:55 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2904
+[28-Nov-2016 23:50:04 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\newback\backoffice\news\update.php on line 40
+[28-Nov-2016 23:50:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2859
+[28-Nov-2016 23:50:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2886
+[28-Nov-2016 23:50:33 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2904
+[28-Nov-2016 23:50:34 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\newback\backoffice\news\update.php on line 40
+[28-Nov-2016 23:51:54 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2859
+[28-Nov-2016 23:51:54 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2886
+[28-Nov-2016 23:51:54 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2904
+[28-Nov-2016 23:52:41 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2859
+[28-Nov-2016 23:52:41 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2886
+[28-Nov-2016 23:52:41 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2904

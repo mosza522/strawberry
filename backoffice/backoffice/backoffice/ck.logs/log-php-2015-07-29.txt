@@ -1,0 +1,21 @@
+[29-Jul-2015 14:07:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$ref_type_id' (T_VARIABLE) in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 15
+[29-Jul-2015 14:21:18 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$maintype' (T_VARIABLE), expecting ',' or ';' in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 45
+[29-Jul-2015 14:22:16 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$maintype' (T_VARIABLE), expecting ',' or ';' in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 45
+[29-Jul-2015 14:22:16 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$maintype' (T_VARIABLE), expecting ',' or ';' in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 45
+[29-Jul-2015 14:22:26 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$maintype' (T_VARIABLE), expecting ',' or ';' in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 45
+[29-Jul-2015 14:22:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$maintype' (T_VARIABLE), expecting ',' or ';' in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\view\frm-index.php on line 45
+[29-Jul-2015 17:57:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '>' in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\product\view\frm-index.php on line 165
+[29-Jul-2015 18:21:59 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 10
+[29-Jul-2015 18:23:18 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 10
+[29-Jul-2015 18:24:01 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 10
+[29-Jul-2015 18:24:02 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 10
+[29-Jul-2015 18:24:02 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 10
+[29-Jul-2015 18:24:02 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 10
+[29-Jul-2015 18:24:47 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 14
+[29-Jul-2015 18:24:48 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 14
+[29-Jul-2015 18:24:48 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 14
+[29-Jul-2015 18:24:48 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 14
+[29-Jul-2015 18:24:49 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 14
+[29-Jul-2015 18:24:49 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 14
+[29-Jul-2015 18:24:49 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 14
+[29-Jul-2015 18:24:49 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in C:\xampp_new\htdocs\phutawan\backoffice\backoffice\typeproduct\ck.class.php on line 14

@@ -1,0 +1,16 @@
+[17-Nov-2016 00:50:17 Asia/Bangkok] PHP Warning:  unlink(../../images/scholarships/): Permission denied in C:\xampp\htdocs\newback\backoffice\scholarships\update.php on line 6
+[17-Nov-2016 01:01:31 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\scholarships\class.upload.php on line 2859
+[17-Nov-2016 01:01:31 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\scholarships\class.upload.php on line 2886
+[17-Nov-2016 01:01:31 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\scholarships\class.upload.php on line 2904
+[17-Nov-2016 01:02:01 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\scholarships\class.upload.php on line 2859
+[17-Nov-2016 01:02:01 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\scholarships\class.upload.php on line 2886
+[17-Nov-2016 01:02:01 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\scholarships\class.upload.php on line 2904
+[17-Nov-2016 01:31:49 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\queryscholar.php on line 5
+[17-Nov-2016 01:32:13 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\queryscholar.php on line 5
+[17-Nov-2016 01:32:31 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\queryscholar.php on line 5
+[17-Nov-2016 02:17:53 Asia/Bangkok] PHP Fatal error:  Call to undefined method database::countRows() in C:\xampp\htdocs\newback\queryscholar.php on line 5
+[17-Nov-2016 10:19:46 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\queryscholar.php on line 36
+[17-Nov-2016 10:20:09 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\queryscholar.php on line 36
+[17-Nov-2016 10:20:41 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\queryscholar.php on line 36
+[17-Nov-2016 10:20:44 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\queryscholar.php on line 36
+[17-Nov-2016 10:20:45 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\queryscholar.php on line 36

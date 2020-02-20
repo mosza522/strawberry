@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 12/12/2015 15:0:29 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_ck_user_admin  
+MSG ERROR : Table 'siamserpentarium.ck_ck_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 12/12/2015 15:0:39 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_ck_user_admin  
+MSG ERROR : Table 'siamserpentarium.ck_ck_user_admin' doesn't exist
+

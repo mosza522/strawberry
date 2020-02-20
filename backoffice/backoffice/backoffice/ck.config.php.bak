@@ -1,0 +1,10 @@
+<?php
+## Localhost ##
+$dsn =  'mysql:lalita.ots.co.th:aaaa1111@localhost/zlalita_labtech#utf8';
+//$dsn =  'mysql://buddhistgi_dham:qwaszx@localhost/buddhistgi_dham#utf8';
+## Web Host ##
+if( $_SERVER['SERVER_NAME'] == 'toey.avc-holding.com' )
+{
+	$dsn =  'mysql://ztoey_database:qwaszx@localhost/ztoey_escort#utf8';
+}
+?>

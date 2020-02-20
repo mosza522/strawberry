@@ -1,0 +1,2 @@
+[22-Aug-2017 09:55:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\banner\home.php on line 151
+[22-Aug-2017 17:13:48 Asia/Bangkok] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\news\home.php on line 41

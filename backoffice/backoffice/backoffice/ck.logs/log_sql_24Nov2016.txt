@@ -1,0 +1,56 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 11:0:39 h
+SQL ERROR : INSERT INTO tb_counselors (counselors_fullnameth, counselors_fullnameen, counselors_position, counselors_tel, counselors_email, counselors_line, counselors_pic, counselors_location, counselors_create) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '2016-11-24 11:12:39')
+MSG ERROR : Column 'counselors_fullnameth' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 15:0:24 h
+SQL ERROR : SELECT * FROM tb_counselors  WHERE counselors_position != "Director",counselors_location = "Bangkok"   
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'counselors_location = "Bangkok"' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 17:0:01 h
+SQL ERROR : INSERT INTO tb_studyaboard (studyaboard_country, studyaboard_info, countryinfoen, whystudyth, whystudyen, studyaboard_pic, studyaboard_create) VALUES ('Aust', 'มีหลักฐานที่เป็นข้อเท็จจริงยืนยันมานานแล้ว ว่าเนื้อหาที่อ่านรู้เรื่องนั้นจะไปกวนสมาธิของคนอ่านให้เขวไปจากส่วนที้เป็น Layout เรานำ Lorem Ipsum มาใช้เพราะความที่มันมีการกระจายของตัวอักษรธรรมดาๆ แบบพอประมาณ ซึ่งเอามาใช้แทนการเขียนว่า ‘ตรงนี้เป็นเนื้อหา, ตรงนี้เป็นเนื้อหา\' ได้ และยังทำให้มองดูเหมือนกับภาษาอังกฤษที่อ่านได้ปกติ ปัจจุบันมีแพ็กเกจของซอฟท์แวร์การทำสื่อสิ่งพิมพ์ และซอฟท์แวร์การสร้างเว็บเพจ (Web Page Editor) หลายตัวที่ใช้ Lorem Ipsum เป็นแบบจำลองเนื้อหาที่เป็นค่าตั้งต้น และเวลาที่เสิร์ชด้วยคำว่า \'lorem ipsum\' ผลการเสิร์ชที่ได้ก็จะไม่พบบรรดาเว็บไซต์ที่ยังคงอยู่ในช่วงเริ่มสร้างด้วย โดยหลายปีที่ผ่านมาก็มีการคิดค้นเวอร์ชั่นต่างๆ ของ Lorem Ipsum ขึ้นมาใช้ บ้างก็เป็นความบังเอิญ บ้างก็เป็นความตั้งใจ (เช่น การแอบแทรกมุกตลก)\r\n\r\n', 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\r\n\r\n', 'มีท่อนต่างๆ ของ Lorem Ipsum ให้หยิบมาใช้งานได้มากมาย แต่ส่วนใหญ่แล้วจะถูกนำไปปรับให้เป็นรูปแบบอื่นๆ อาจจะด้วยการสอดแทรกมุกตลก หรือด้วยคำที่มั่วขึ้นมาซึ่งถึงอย่างไรก็ไม่มีทางเป็นเรื่องจริงได้เลยแม้แต่น้อย ถ้าคุณกำลังคิดจะใช้ Lorem Ipsum สักท่อนหนึ่ง คุณจำเป็นจะต้องตรวจให้แน่ใจว่าไม่มีอะไรน่าอับอายซ่อนอยู่ภายในท่อนนั้นๆ ตัวสร้าง Lorem Ipsum บนอินเทอร์เน็ตทุกตัวมักจะเอาท่อนที่แน่ใจแล้วมาใช้ซ้ำๆ ทำให้กลายเป็นที่มาของตัวสร้างที่แท้จริงบนอินเทอร์เน็ต ในการสร้าง Lorem Ipsum ที่ดูเข้าท่า ต้องใช้คำจากพจนานุกรมภาษาละตินถึงกว่า 200 คำ ผสมกับรูปแบบโครงสร้างประโยคอีกจำนวนหนึ่ง เพราะฉะนั้น Lorem Ipsum ที่ถูกสร้างขึ้นใหม่นี้ก็จะไม่ซ้ำไปซ้ำมา ไม่มีมุกตลกซุกแฝงไว้ภายใน หรือไม่มีคำใดๆ ที่ไม่บ่งบอกความหมาย\r\n\r\n', 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don\'t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn\'t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.\r\n\r\n', '20161124173001.png', '2016-11-24 17:30:01')
+MSG ERROR : Unknown column 'studyaboard_info' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 17:0:08 h
+SQL ERROR : INSERT INTO tb_studyaboard (studyaboard_country, studyaboard_info, countryinfoen, whystudyth, whystudyen, studyaboard_pic, studyaboard_create) VALUES ('Aust', 'มีหลักฐานที่เป็นข้อเท็จจริงยืนยันมานานแล้ว ว่าเนื้อหาที่อ่านรู้เรื่องนั้นจะไปกวนสมาธิของคนอ่านให้เขวไปจากส่วนที้เป็น Layout เรานำ Lorem Ipsum มาใช้เพราะความที่มันมีการกระจายของตัวอักษรธรรมดาๆ แบบพอประมาณ ซึ่งเอามาใช้แทนการเขียนว่า ‘ตรงนี้เป็นเนื้อหา, ตรงนี้เป็นเนื้อหา\' ได้ และยังทำให้มองดูเหมือนกับภาษาอังกฤษที่อ่านได้ปกติ ปัจจุบันมีแพ็กเกจของซอฟท์แวร์การทำสื่อสิ่งพิมพ์ และซอฟท์แวร์การสร้างเว็บเพจ (Web Page Editor) หลายตัวที่ใช้ Lorem Ipsum เป็นแบบจำลองเนื้อหาที่เป็นค่าตั้งต้น และเวลาที่เสิร์ชด้วยคำว่า \'lorem ipsum\' ผลการเสิร์ชที่ได้ก็จะไม่พบบรรดาเว็บไซต์ที่ยังคงอยู่ในช่วงเริ่มสร้างด้วย โดยหลายปีที่ผ่านมาก็มีการคิดค้นเวอร์ชั่นต่างๆ ของ Lorem Ipsum ขึ้นมาใช้ บ้างก็เป็นความบังเอิญ บ้างก็เป็นความตั้งใจ (เช่น การแอบแทรกมุกตลก)\r\n\r\n', 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\r\n\r\n', 'มีท่อนต่างๆ ของ Lorem Ipsum ให้หยิบมาใช้งานได้มากมาย แต่ส่วนใหญ่แล้วจะถูกนำไปปรับให้เป็นรูปแบบอื่นๆ อาจจะด้วยการสอดแทรกมุกตลก หรือด้วยคำที่มั่วขึ้นมาซึ่งถึงอย่างไรก็ไม่มีทางเป็นเรื่องจริงได้เลยแม้แต่น้อย ถ้าคุณกำลังคิดจะใช้ Lorem Ipsum สักท่อนหนึ่ง คุณจำเป็นจะต้องตรวจให้แน่ใจว่าไม่มีอะไรน่าอับอายซ่อนอยู่ภายในท่อนนั้นๆ ตัวสร้าง Lorem Ipsum บนอินเทอร์เน็ตทุกตัวมักจะเอาท่อนที่แน่ใจแล้วมาใช้ซ้ำๆ ทำให้กลายเป็นที่มาของตัวสร้างที่แท้จริงบนอินเทอร์เน็ต ในการสร้าง Lorem Ipsum ที่ดูเข้าท่า ต้องใช้คำจากพจนานุกรมภาษาละตินถึงกว่า 200 คำ ผสมกับรูปแบบโครงสร้างประโยคอีกจำนวนหนึ่ง เพราะฉะนั้น Lorem Ipsum ที่ถูกสร้างขึ้นใหม่นี้ก็จะไม่ซ้ำไปซ้ำมา ไม่มีมุกตลกซุกแฝงไว้ภายใน หรือไม่มีคำใดๆ ที่ไม่บ่งบอกความหมาย\r\n\r\n', 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don\'t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn\'t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.\r\n\r\n', '20161124173008.png', '2016-11-24 17:30:08')
+MSG ERROR : Unknown column 'studyaboard_info' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:07 h
+SQL ERROR : INSERT INTO tb_country (country_nameth, country_name, country_no, country_pic) VALUES ('นิวซีแลนด์', 'New Zealand', NULL, '20161124234907.jpg')
+MSG ERROR : Column 'country_no' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:09 h
+SQL ERROR : INSERT INTO tb_country (country_nameth, country_name, country_no, country_pic) VALUES ('นิวซีแลนด์', 'New Zealand', NULL, '20161124234909.jpg')
+MSG ERROR : Column 'country_no' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:14 h
+SQL ERROR : INSERT INTO tb_country (country_nameth, country_name, country_no, country_pic) VALUES ('นิวซีแลนด์', 'New Zealand', NULL, '20161124234914.jpg')
+MSG ERROR : Column 'country_no' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:26 h
+SQL ERROR : INSERT INTO tb_country (country_nameth, country_name, country_no, country_pic) VALUES ('นิวซีแลนด์', 'New Zealand', NULL, '20161124235026.jpg')
+MSG ERROR : Column 'country_no' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:20 h
+SQL ERROR : INSERT INTO tb_country (country_nameth, country_name, country_no, country_pic) VALUES ('นิวซีแลนด์', 'New Zealand', NULL, '20161124235120.jpg')
+MSG ERROR : Column 'country_no' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:27 h
+SQL ERROR : INSERT INTO tb_country (country_nameth, country_name, country_no, country_pic) VALUES ('นิวซีแลนด์', 'New Zealand', NULL, '20161124235227.jpg')
+MSG ERROR : Column 'country_no' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:06 h
+SQL ERROR : INSERT INTO tb_country (country_nameth, country_name, country_no, country_pic) VALUES ('นิวซีแลนด์', 'New Zealand', NULL, '20161124235406.jpg')
+MSG ERROR : Column 'country_no' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:42 h
+SQL ERROR : INSERT INTO tb_country (country_nameth, country_name, country_no, country_pic) VALUES ('นิวซีแลนด์', 'New Zealand', NULL, '20161124235442.jpg')
+MSG ERROR : Column 'country_no' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:50 h
+SQL ERROR : UPDATE tb_country SET country_nameth = 'นิวซีแลนด์', country_name = 'New Zealand', country_no = 'ZN', country_pic = '20161124235456.jpg'  WHERE country_id = '7'
+MSG ERROR : Unknown column 'country_no' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 24/11/2016 23:0:57 h
+SQL ERROR : UPDATE tb_country SET country_nameth = 'นิวซีแลนด์', country_name = 'New Zealand', country_no = 'ZN', country_pic = '20161124235456.jpg'  WHERE country_id = '7'
+MSG ERROR : Unknown column 'country_no' in 'field list'
+

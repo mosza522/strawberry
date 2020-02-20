@@ -1,0 +1,45 @@
+ERROR : MySql query failed	IP : 127.0.0.1 	DATE/TIME : 23/06/2012 02:0:28 h
+SQL ERROR : SELECT * FROM tbl  WHERE admin_id = '27'
+MSG ERROR : Table 'cueihzoc_siam.tbl' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 09:0:11 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : No connection could be made because the target machine actively refused it.
+
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 09:0:35 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'root'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 09:0:38 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'root'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 09:0:38 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'root'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 09:0:38 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'root'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 09:0:39 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'root'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 09:0:39 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'root'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 09:0:39 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'root'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 09:0:51 h
+SQL ERROR : SELECT * FROM ck_menu  WHERE menu_active = 'Y' AND menu_master = 'N'   ORDER BY ref_menu_id asc,menu_sort asc 
+MSG ERROR : Unknown column 'menu_master' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2012 12:0:23 h
+SQL ERROR : SELECT * FROM ck_menu  WHERE admin_id = '1100'
+MSG ERROR : Unknown column 'admin_id' in 'where clause'
+

@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/07/2016 14:0:34 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_points, member_status, member_activte, member_idcard, member_name, member_tel, member_admin_name, member_create) VALUES ('nIDizihcnU', 'กรุงเทพมหานคร', '1', 'action', 'enable', '123456789012', 'Burkhart Vogel', '0857557303', NULL, '11/07/2016 14:26 PM')
+MSG ERROR : Column 'member_admin_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/07/2016 14:0:36 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_points, member_status, member_activte, member_idcard, member_name, member_tel, member_admin_name, member_create) VALUES ('5O9EXsBMJE', 'กรุงเทพมหานคร', '1', 'action', 'enable', '123456789012', 'Burkhart Vogel', '0857557303', NULL, '11/07/2016 14:26 PM')
+MSG ERROR : Column 'member_admin_name' cannot be null
+

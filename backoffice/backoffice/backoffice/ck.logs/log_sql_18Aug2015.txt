@@ -1,0 +1,32 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/08/2015 09:0:58 h
+SQL ERROR : SELECT * FROM ck_text_dubbing    ORDER BY trans_id asc  LIMIT 0, 25
+MSG ERROR : Unknown column 'trans_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/08/2015 13:0:19 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_text_service  
+MSG ERROR : Table 'saengthai.ck_text_service' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/08/2015 14:0:14 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_text_service  
+MSG ERROR : Table 'saengthai.ck_text_service' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/08/2015 14:0:19 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_text_service  
+MSG ERROR : Table 'saengthai.ck_text_service' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/08/2015 14:0:37 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_text_service  
+MSG ERROR : Table 'saengthai.ck_text_service' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/08/2015 16:0:46 h
+SQL ERROR : INSERT INTO ck_faq (faq_subid, faq_name_th, faq_name_en) VALUES ('0', NULL, NULL)
+MSG ERROR : Column 'faq_name_th' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/08/2015 16:0:47 h
+SQL ERROR : INSERT INTO ck_faq (faq_subid, faq_name_th, faq_name_en) VALUES ('0', NULL, NULL)
+MSG ERROR : Column 'faq_name_th' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/08/2015 16:0:47 h
+SQL ERROR : INSERT INTO ck_faq (faq_subid, faq_name_th, faq_name_en) VALUES ('0', NULL, NULL)
+MSG ERROR : Column 'faq_name_th' cannot be null
+

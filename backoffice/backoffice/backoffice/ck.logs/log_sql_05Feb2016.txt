@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/02/2016 13:0:17 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'buddhistgi_dham'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/02/2016 13:0:19 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'buddhistgi_dham'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/02/2016 17:0:37 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'buddhistgi_dham'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/02/2016 17:0:39 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'buddhistgi_dham'@'localhost' (using password: YES)
+

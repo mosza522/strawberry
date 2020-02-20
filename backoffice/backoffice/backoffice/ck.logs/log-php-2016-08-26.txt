@@ -1,0 +1,12 @@
+[26-Aug-2016 19:54:46 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[26-Aug-2016 19:54:46 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[26-Aug-2016 19:55:40 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[26-Aug-2016 19:55:40 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[26-Aug-2016 19:55:46 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[26-Aug-2016 19:55:46 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[26-Aug-2016 20:18:07 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'useridcard' (T_STRING), expecting ')' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 49
+[26-Aug-2016 20:28:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 157
+[26-Aug-2016 20:28:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 157
+[26-Aug-2016 20:46:39 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 147
+[26-Aug-2016 20:46:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 147
+[26-Aug-2016 20:58:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 146

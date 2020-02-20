@@ -1,0 +1,8 @@
+[08-Jan-2016 09:28:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\snakemuseum\main\inc_sidemenu.php on line 35
+[08-Jan-2016 09:45:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in D:\xampp\htdocs\snakemuseum\main\ticket\show.php on line 193
+[08-Jan-2016 09:46:07 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in D:\xampp\htdocs\snakemuseum\main\ticket\show.php on line 193
+[08-Jan-2016 09:46:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in D:\xampp\htdocs\snakemuseum\main\ticket\show.php on line 193
+[08-Jan-2016 09:47:47 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in D:\xampp\htdocs\snakemuseum\main\ticket\show.php on line 193
+[08-Jan-2016 09:47:57 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in D:\xampp\htdocs\snakemuseum\main\ticket\show.php on line 193
+[08-Jan-2016 09:48:02 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in D:\xampp\htdocs\snakemuseum\main\ticket\show.php on line 193
+[08-Jan-2016 09:48:17 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in D:\xampp\htdocs\snakemuseum\main\ticket\show.php on line 193

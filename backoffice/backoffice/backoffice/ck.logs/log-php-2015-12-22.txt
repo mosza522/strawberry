@@ -1,0 +1,1 @@
+[22-Dec-2015 10:54:07 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp_new\htdocs\snakemuseum\main\grouptour\dellist.php on line 8

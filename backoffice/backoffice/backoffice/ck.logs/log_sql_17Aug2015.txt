@@ -1,0 +1,36 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/08/2015 16:0:06 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_text_service  
+MSG ERROR : Table 'saengthai.ck_text_service' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/08/2015 16:0:56 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_text_service  
+MSG ERROR : Table 'saengthai.ck_text_service' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/08/2015 16:0:57 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_text_service  
+MSG ERROR : Table 'saengthai.ck_text_service' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/08/2015 16:0:24 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_text_service  
+MSG ERROR : Table 'saengthai.ck_text_service' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/08/2015 17:0:14 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_text_service  
+MSG ERROR : Table 'saengthai.ck_text_service' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/08/2015 17:0:54 h
+SQL ERROR : UPDATE ck_type_voice SET dubbing_head_th = NULL, dubbing_head_en = NULL, first_head_th = NULL, first_head_en = NULL, first_text_th = NULL, first_text_en = NULL, second_head_th = NULL, second_head_en = NULL, second_text_th = NULL, second_text_en = NULL, third_head_th = NULL, third_head_en = NULL, third_text_th = NULL, third_text_en = NULL, forth_head_th = NULL, forth_head_en = NULL, forth_text_th = NULL, forth_text_en = NULL  WHERE dubbing_id = '1'
+MSG ERROR : Unknown column 'dubbing_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/08/2015 17:0:55 h
+SQL ERROR : UPDATE ck_type_voice SET dubbing_head_th = NULL, dubbing_head_en = NULL, first_head_th = NULL, first_head_en = NULL, first_text_th = NULL, first_text_en = NULL, second_head_th = NULL, second_head_en = NULL, second_text_th = NULL, second_text_en = NULL, third_head_th = NULL, third_head_en = NULL, third_text_th = NULL, third_text_en = NULL, forth_head_th = NULL, forth_head_en = NULL, forth_text_th = NULL, forth_text_en = NULL  WHERE dubbing_id = '1'
+MSG ERROR : Unknown column 'dubbing_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/08/2015 17:0:57 h
+SQL ERROR : UPDATE ck_type_voice SET dubbing_head_th = NULL, dubbing_head_en = NULL, first_head_th = NULL, first_head_en = NULL, first_text_th = NULL, first_text_en = NULL, second_head_th = NULL, second_head_en = NULL, second_text_th = NULL, second_text_en = NULL, third_head_th = NULL, third_head_en = NULL, third_text_th = NULL, third_text_en = NULL, forth_head_th = NULL, forth_head_en = NULL, forth_text_th = NULL, forth_text_en = NULL  WHERE dubbing_id = '1'
+MSG ERROR : Unknown column 'dubbing_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/08/2015 17:0:37 h
+SQL ERROR : UPDATE ck_type_voice SET dubbing_head_th = 'ทีมพากย์เสียงไทย ได้รับการปลูกฝังวิชาการพากย์หนังและหล่อหลอมจิตสำนึกจากครูบาอาจารย์ ซึ่งได้ฝังลึกอยู่ในมโนคติของนักพากย์ ทุกคนในทีม จนเกิดเป็นอุดมการณ์ในการทำงานร่วมกันว่า จะมอบเสียงพากย์ที่ดีที่สุด ถูกต้องที่สุด สมบูรณ์ที่สุด เข้ากันที่สุด เหมือนและ ใกล้เคียงคอนเทนต์ด้านความบันเทิงต้นฉบับของท่านมากที่สุด อันประกอบไปด้วย', dubbing_head_en = 'The team dubbed Thailand Has cultivated academic dub and cultivate awareness of the Philistines. Which is deeply embedded in the ideology of the cast everyone in the team until the ideological cohesion that. To deliver the best voice. Most Accurate most complete As well as possible and close the content of the most original entertainment. Comprising', first_head_th = 'ถูกคน2', first_head_en = 'Character', first_text_th = 'ทีมพากย์เสียงไทยคัดสรรนักพากย์ที่มีเนื้อเสียงและบุคลิคของเสียงมีท่วงทำนองในการพากย์เหมือนกับ ตัวละครในคอนเทนต์ต้นฉบับ เพื่อให้สอดคล้องเข้ากับลีลาการแสดงของตัวละครในคอนเทนต์นั้นๆให้มากที่สุด เท่าที่จะสามารถทำได้', first_text_en = 'Thailand Picks ventriloquist\'s voice with a gentle voice and Character of sounds like a melody in the voice. The characters in the original content. To comply with the style of the characters shown in the content it most. As it can be done', second_head_th = 'ลงปาก', second_head_en = 'Voice', second_text_th = 'นักพากย์ที่ได้รับการคัดสรรมาแล้วจะลงเสียงพากย์ที่ได้รับมอบหมายให้พากย์เสียงเป็นตัวละครนั้นๆ จากการใช้ประสบการณ์และความตั้งใจพร้อมด้วยความมุ่งมั่นเพื่ออรรถรสอย่างครบถ้วนในการรับชม ของท่านผู้ชม ที่มีโอกาสได้ติดตามคอนเทนต์ด้านความบันเทิงของบริษัท ของท่าน', second_text_en = 'A ventriloquist who has been selected to be the voice that has served as the voice of the character. The experience and commitment, along with a commitment to fully unwind in your viewing audience has a chance to track content and entertainment company.', third_head_th = 'ใส่ใจ', third_head_en = 'Devoted', third_text_th = 'บุคลากรในทีมพากย์เสียงไทย มีวัฒนธรรมในองค์กรที่ได้รับการอบรมสั่งสอนมา ให้ทำการตรวจสอบตัวเอง หรือ “เทคตัวเอง” ตลอดเวลา เมื่อเกิดความไม่สมบูรณ์ หรือเกิดข้อผิดพลาดขึ้นมาในกระบวนการทำงาน โดยไม่มีการปล่อยให้เสียงที่ไม่สมบูรณ์เหล่านั้นเล็ดลอดผ่านออกไปได้ ยกตัวอย่างเช่น เราจะพากย์ใหม่ทันที เมื่อเสียงพากย์ในขณะนั้นไม่ลงปากตัวละครจะพากย์ใหม่ทันทีเมื่อพากย์เร็วกว่าซาวด์ในคอนเทนต์ หรือบทพากย์สั้นเกินไปไม่พากย์แถและพากย์ใหม่ไม่รวบคำเมื่อพากย์ช้ากว่าซาวด์ในคอนเทนต์ หรือบทพากย์ยาวจนเกินไป', third_text_en = 'Crew dubbed Thailand A corporate culture that has been taught. Check yourself or the \"Tech itself\" at a time when it\'s not perfect. Or more errors in the process. With absolutely no sound escaped through those imperfections away. For example We will immediately re-overs While the voice is not dubbed into the mouth of the character when it dubbed soundtrack faster than in content. Btpakis too short or not banked and dub dub dub new collectible on the soundtrack behind the content. Btpakis or too long', forth_head_th = 'เคารพบท', forth_head_en = 'Chapter respect', forth_text_th = 'นักพากย์เสียงไทยเคารพบทพากย์จะไม่มีการเปลี่ยนแปลงบทพากย์โดยพลการอันเป็นเหตุให้ความหมายของประโยคสนทนา หรือคำบรรยายในคอนเทนต์ผิดเพี้ยนไปจากเดิม นอกจากจะได้รับการตรวจสอบ ค้นคว้า และคำรับรองจากนักแปลบทพากย์แล้วเท่านั้นเพื่อให้คอนเทนต์ของท่านมีความถูกต้องแม่นยำ สามารถนำเสนอคอนเทนต์ของท่านได้อย่างถูกต้อง ตรงกับบริบทและอารมณ์ สมดัง เจตนารมณ์ของท่าน', forth_text_en = 'The Voice Thailand Btpakis respect Btpakis will not change arbitrarily causing the meaning of the sentence conversation. Or words to describe the contents deviate from the original. Furthermore, it has been reviewed research and testimonials from translators Btpakis only to the content of your accuracy. Can present your content correctly. Match emotional context and the spirit of the people.'  WHERE dubbing_id = '1'
+MSG ERROR : Unknown column 'dubbing_id' in 'where clause'
+

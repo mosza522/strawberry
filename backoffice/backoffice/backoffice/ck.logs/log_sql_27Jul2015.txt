@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : 202.176.174.197 	DATE/TIME : 27/07/2015 01:0:15 h
+SQL ERROR : SELECT * FROM ck_type_product  WHERE ref_type_id != 0   ORDER BY product_id desc 
+MSG ERROR : Unknown column 'product_id' in 'order clause'
+

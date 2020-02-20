@@ -1,0 +1,9 @@
+[13-Dec-2015 09:45:34 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '$' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 248
+[13-Dec-2015 09:47:25 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '$' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 248
+[13-Dec-2015 09:48:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '$' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 248
+[13-Dec-2015 09:48:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '$' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 248
+[13-Dec-2015 09:48:49 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '$' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 248
+[13-Dec-2015 09:48:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '$' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 248
+[13-Dec-2015 09:49:20 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '$' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 248
+[13-Dec-2015 09:49:23 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '$' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 248
+[13-Dec-2015 09:49:39 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting variable (T_VARIABLE) or '$' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 248

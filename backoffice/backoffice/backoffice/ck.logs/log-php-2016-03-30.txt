@@ -1,0 +1,6 @@
+[30-Mar-2016 13:18:47 Asia/Bangkok] PHP Fatal error:  Call to undefined function PushText() in D:\xampp\htdocs\Vtiger\redbook\show.php on line 93
+[30-Mar-2016 14:45:45 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[30-Mar-2016 14:45:45 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19
+[30-Mar-2016 14:46:24 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[30-Mar-2016 14:46:24 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19
+[30-Mar-2016 17:25:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '[', expecting '(' in D:\xampp\htdocs\Vtiger\redbook\inputform.php on line 13

@@ -1,0 +1,92 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 08:0:12 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita_suminoe'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 12:0:28 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 12:50:28')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 12:0:30 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 12:50:30')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:54 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:35:54')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:55 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:35:55')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:56 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:35:56')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:56 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:35:56')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:57 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:35:57')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:57 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:35:57')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:57 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:35:57')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:58 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:35:58')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:58 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:35:58')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:05 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:36:05')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:18 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:36:18')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:19 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:36:19')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:19 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:36:19')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:19 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:36:19')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:20 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:36:20')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:20 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:36:20')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:20 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:36:20')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 15:0:20 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 15:36:20')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 16:0:40 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 16:30:40')
+MSG ERROR : Column 'admin_username' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 01/08/2017 16:0:47 h
+SQL ERROR : INSERT INTO tb_admin (admin_username, admin_password, admin_password_origin, admin_fullname, admin_permission, admin_status, admin_create) VALUES (NULL, 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, 'Y', '2017-08-01 16:30:47')
+MSG ERROR : Column 'admin_username' cannot be null
+

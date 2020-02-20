@@ -1,0 +1,1 @@
+[06-Feb-2016 13:43:50 Asia/Bangkok] PHP Fatal error:  Class 'PHPMailer' not found in D:\xampp\htdocs\buddhisgirl\paymentresult.php on line 48

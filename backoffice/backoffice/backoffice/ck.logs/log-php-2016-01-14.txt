@@ -1,0 +1,10 @@
+[14-Jan-2016 14:47:00 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 71
+[14-Jan-2016 14:47:00 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 80
+[14-Jan-2016 14:48:02 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 71
+[14-Jan-2016 14:48:02 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 80
+[14-Jan-2016 14:49:19 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 71
+[14-Jan-2016 14:49:19 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 80
+[14-Jan-2016 14:54:08 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 71
+[14-Jan-2016 14:54:08 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 80
+[14-Jan-2016 14:54:16 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 71
+[14-Jan-2016 14:54:16 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 80

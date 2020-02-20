@@ -1,0 +1,28 @@
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 08/12/2016 16:0:33 h
+SQL ERROR : SELECT * FROM tb_visa  WHERE visa_country = "Aust" and visa = "family"   
+MSG ERROR : Unknown column 'visa' in 'where clause'
+
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 08/12/2016 16:0:37 h
+SQL ERROR : SELECT * FROM tb_visa  WHERE visa_country = "Aust" and visa = "family"   
+MSG ERROR : Unknown column 'visa' in 'where clause'
+
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 08/12/2016 16:0:40 h
+SQL ERROR : SELECT * FROM tb_visa  WHERE visa_country = "Aust" and visa = "partner"   
+MSG ERROR : Unknown column 'visa' in 'where clause'
+
+ERROR : MySql query failed	IP : 180.183.102.239 	DATE/TIME : 08/12/2016 23:0:07 h
+SQL ERROR : SELECT join_id asc FROM tb_joinwithme  WHERE join_location = "Bangkok"
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asc FROM tb_joinwithme  WHERE join_location = "Bangkok"' at line 1
+
+ERROR : MySql query failed	IP : 180.183.102.239 	DATE/TIME : 08/12/2016 23:0:15 h
+SQL ERROR : SELECT join_id desc FROM tb_joinwithme  WHERE join_location = "Bangkok"
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc FROM tb_joinwithme  WHERE join_location = "Bangkok"' at line 1
+
+ERROR : MySql query failed	IP : 180.183.102.239 	DATE/TIME : 08/12/2016 23:0:58 h
+SQL ERROR : SELECT join_id desc FROM tb_joinwithme  WHERE join_location = "Bangkok"
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc FROM tb_joinwithme  WHERE join_location = "Bangkok"' at line 1
+
+ERROR : MySql query failed	IP : 180.183.102.239 	DATE/TIME : 08/12/2016 23:0:01 h
+SQL ERROR : SELECT join_id desc FROM tb_joinwithme  WHERE join_location = "Bangkok"
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc FROM tb_joinwithme  WHERE join_location = "Bangkok"' at line 1
+

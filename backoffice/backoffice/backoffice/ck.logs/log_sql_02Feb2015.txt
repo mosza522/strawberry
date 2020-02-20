@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 02/02/2015 03:0:14 h
+SQL ERROR : INSERT INTO ck_product (product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin, product_images) VALUES (NULL, 'w', 'w', 'w', 'w', 'w', 'w', '0', '2015-02-02_03-25-14_550.jpg')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 02/02/2015 03:0:19 h
+SQL ERROR : INSERT INTO ck_product (product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin, product_images) VALUES (NULL, 'w', 'w', 'w', 'w', 'w', 'w', '0', '2015-02-02_03-25-19_536.jpg')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 02/02/2015 03:0:38 h
+SQL ERROR : INSERT INTO ck_product (product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin, product_images) VALUES (NULL, 'w', 'w', 'w', 'w', 'w', 'w', '0', '2015-02-02_03-25-38_531.jpg')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 02/02/2015 03:0:42 h
+SQL ERROR : INSERT INTO ck_product (product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin, product_images) VALUES (NULL, '', '', '', '', '', '', NULL, '.')
+MSG ERROR : Column 'product_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 02/02/2015 03:0:56 h
+SQL ERROR : INSERT INTO ck_product (product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin, product_images) VALUES (NULL, 's', 's', 's', 's', 's', 's', '0', '2015-02-02_03-27-56_452.jpg')
+MSG ERROR : Column 'product_type' cannot be null
+

@@ -1,0 +1,44 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 10:0:24 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_type_customer  WHERE type_sub_id=Lead 
+MSG ERROR : Unknown column 'Lead' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 10:0:36 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_type_customer  WHERE type_sub_id=Trade 
+MSG ERROR : Unknown column 'Trade' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 10:0:37 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_type_customer  WHERE type_sub_id=Lead 
+MSG ERROR : Unknown column 'Lead' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 10:0:42 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_type_customer  WHERE type_sub_id=Trade 
+MSG ERROR : Unknown column 'Trade' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 10:0:48 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_type_customer  WHERE type_sub_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 13:0:32 h
+SQL ERROR : UPDATE ck_user_admin SET admin_lastlogout="05-01-2016 13:17:32"  WHERE admin_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 14:0:37 h
+SQL ERROR : SELECT * FROM 0type_customer  WHERE type_cus_id = '7'
+MSG ERROR : Table 'siamserpentarium.0type_customer' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 15:0:42 h
+SQL ERROR : INSERT INTO ck_promotion (promotion_name, type_cus_name, type_sub_name, promotion_count, promotion_start, promotion_end, promotion_date, start_date, end_date, daily_date, promotion_total) VALUES ('test', 'Group,Student and Government group (Local) - Minimum of 30 pax ', 'adult', '21', '//2016-01-05', '//2016-01-30', '2016//05', '2016-01-05', '2016-01-30', '2016/05/01', NULL)
+MSG ERROR : Column 'promotion_total' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 15:0:19 h
+SQL ERROR : INSERT INTO ck_promotion (promotion_name, type_cus_name, type_sub_name, promotion_count, promotion_start, promotion_end, promotion_date, start_date, end_date, daily_date, promotion_total) VALUES ('test', 'Group,Student and Government group (Local) - Minimum of 30 pax ', 'adult', '21', '05//2016', '30//2016', '2016//05', '2016-01-05', '2016-01-30', '2016-05-01', NULL)
+MSG ERROR : Column 'promotion_total' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 15:0:52 h
+SQL ERROR : INSERT INTO ck_promotion (promotion_name, type_cus_name, type_sub_name, promotion_count, promotion_start, promotion_end, promotion_date, start_date, end_date, daily_date, promotion_total) VALUES ('test', 'Group,Student and Government group (Local) - Minimum of 30 pax ', 'adult', '21', '05/Jan/2016', '30/Jan/2016', '2016/Jan/05', '2016-01-05', '2016-01-30', '2016-05-01', NULL)
+MSG ERROR : Column 'promotion_total' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/01/2016 15:0:28 h
+SQL ERROR : INSERT INTO ck_promotion (promotion_name, type_cus_name, type_sub_name, promotion_count, promotion_start, promotion_end, promotion_date, start_date, end_date, daily_date, promotion_total) VALUES ('test', 'Group,Student and Government group (Local) - Minimum of 30 pax ', 'adult', '21', '05/Jan/2016', '30/Jan/2016', '2016/Jan/05', '2016-01-05', '2016-01-30', '2016-05-01', NULL)
+MSG ERROR : Column 'promotion_total' cannot be null
+

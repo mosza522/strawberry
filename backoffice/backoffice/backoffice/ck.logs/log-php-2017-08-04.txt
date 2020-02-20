@@ -1,0 +1,26 @@
+[04-Aug-2017 16:56:45 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 102
+[04-Aug-2017 16:57:53 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 105
+[04-Aug-2017 16:58:39 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 105
+[04-Aug-2017 17:09:06 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 103
+[04-Aug-2017 17:09:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 103
+[04-Aug-2017 17:09:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 101
+[04-Aug-2017 17:09:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 44
+[04-Aug-2017 17:09:41 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 40
+[04-Aug-2017 17:12:29 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 40
+[04-Aug-2017 17:21:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 103
+[04-Aug-2017 17:22:29 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 103
+[04-Aug-2017 17:22:43 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 103
+[04-Aug-2017 17:23:10 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 103
+[04-Aug-2017 17:24:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ',' or ';' in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 43
+[04-Aug-2017 17:25:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 45
+[04-Aug-2017 17:30:40 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 44
+[04-Aug-2017 17:31:10 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 44
+[04-Aug-2017 17:31:31 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 44
+[04-Aug-2017 17:32:03 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 44
+[04-Aug-2017 17:32:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 45
+[04-Aug-2017 17:32:33 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 45
+[04-Aug-2017 17:32:34 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 45
+[04-Aug-2017 17:33:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 44
+[04-Aug-2017 17:34:37 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 44
+[04-Aug-2017 17:34:47 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 44
+[04-Aug-2017 17:34:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\product\home.php on line 45

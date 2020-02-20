@@ -1,0 +1,4 @@
+[28-Aug-2015 10:12:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'PushText' (T_STRING) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\member\view\frm-index.php on line 91
+[28-Aug-2015 16:08:07 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\contact\ck.class.php on line 38
+[28-Aug-2015 16:08:36 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\contact\ck.class.php on line 38
+[28-Aug-2015 16:10:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\contact\ck.class.php on line 38

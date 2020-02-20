@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/01/2016 09:0:50 h
+SQL ERROR : SELECT * FROM ck_maxticket  WHERE  = '1'
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '1'' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/01/2016 14:0:49 h
+SQL ERROR : UPDATE ck_user_admin SET admin_lastlogout="08-01-2016 14:31:49"  WHERE admin_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/01/2016 14:0:58 h
+SQL ERROR : INSERT INTO ck_age (age_name, age_start, age_end) VALUES ('child', NULL, NULL)
+MSG ERROR : Table 'siamserpentarium.ck_age' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/01/2016 14:0:29 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_age  
+MSG ERROR : Table 'siamserpentarium.ck_age' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/01/2016 14:0:54 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_age  
+MSG ERROR : Table 'siamserpentarium.ck_age' doesn't exist
+

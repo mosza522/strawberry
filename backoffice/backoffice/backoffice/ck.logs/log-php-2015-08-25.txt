@@ -1,0 +1,2 @@
+[25-Aug-2015 15:22:54 Asia/Bangkok] PHP Fatal error:  Cannot redeclare DateThai() (previously declared in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\payandcostbranch\view\frm-index.php:57) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\payandcostbranch\view\frm-index.php on line 120
+[25-Aug-2015 15:44:07 Asia/Bangkok] PHP Warning:  copy(../../../gallery/L2/list2_0000pdf (1).pdf): failed to open stream: No such file or directory in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\vacation_member\ck.class.php on line 59

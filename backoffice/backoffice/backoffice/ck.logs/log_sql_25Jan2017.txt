@@ -1,0 +1,32 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2017 09:0:31 h
+SQL ERROR : INSERT INTO tb_banner (name_titleen, name_detailen, banner_pic, banner_create) VALUES ('fw', NULL, '20170125091430.png', '2017-01-25 09:14:31')
+MSG ERROR : Unknown column 'name_titleen' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2017 09:0:33 h
+SQL ERROR : INSERT INTO tb_banner (name_titleen, name_detailen, banner_pic, banner_create) VALUES ('fw', NULL, '20170125091433.png', '2017-01-25 09:14:33')
+MSG ERROR : Unknown column 'name_titleen' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2017 09:0:39 h
+SQL ERROR : INSERT INTO tb_banner (name_titleen, name_detailen, banner_pic, banner_create) VALUES ('fw', NULL, '20170125091438.png', '2017-01-25 09:14:39')
+MSG ERROR : Unknown column 'name_titleen' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2017 09:0:23 h
+SQL ERROR : UPDATE tb_banner SET name_titleen = NULL, name_detailen = NULL, banner_pic = NULL, banner_create = '2017-01-25 09:26:23'  WHERE banner_id IS NULL
+MSG ERROR : Unknown column 'name_titleen' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2017 09:0:25 h
+SQL ERROR : UPDATE tb_banner SET name_titleen = NULL, name_detailen = NULL, banner_pic = NULL, banner_create = '2017-01-25 09:26:25'  WHERE banner_id IS NULL
+MSG ERROR : Unknown column 'name_titleen' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2017 15:0:58 h
+SQL ERROR : SELECT * FROM tb_distributors  WHERE distributors_id = '1'
+MSG ERROR : Unknown column 'distributors_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2017 17:0:34 h
+SQL ERROR : UPDATE tb_news SET news_name = 'This is one of our Labtech customers.', news_detail = 'This is one of our Labtech customers.', news_img = NULL, news_video = NULL, new_create = '2017-01-25 17:27:34', new_update = '2017-01-25 17:27:34'  WHERE news_id = '7'
+MSG ERROR : Unknown column 'news_video' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 25/01/2017 17:0:36 h
+SQL ERROR : UPDATE tb_news SET news_name = 'This is one of our Labtech customers.', news_detail = 'This is one of our Labtech customers.', news_img = NULL, news_video = NULL, new_create = '2017-01-25 17:27:36', new_update = '2017-01-25 17:27:36'  WHERE news_id = '7'
+MSG ERROR : Unknown column 'news_video' in 'field list'
+

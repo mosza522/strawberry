@@ -1,0 +1,36 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/12/2015 09:0:43 h
+SQL ERROR : INSERT INTO ck_nationallity (nation_name, nation_currency, nation_exchange) VALUES ('Thai', NULL, NULL)
+MSG ERROR : Unknown column 'nation_currency' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/12/2015 13:0:34 h
+SQL ERROR : INSERT INTO ck_currency (cur_fullname, cur_shortname, cur_exchange) VALUES (NULL, NULL, '25.8914')
+MSG ERROR : Column 'cur_fullname' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/12/2015 13:0:26 h
+SQL ERROR : UPDATE ck_user_admin SET admin_lastlogout="16-12-2015 13:59:26"  WHERE admin_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/12/2015 13:0:29 h
+SQL ERROR : UPDATE ck_user_admin SET admin_lastlogout="16-12-2015 13:59:29"  WHERE admin_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/12/2015 14:0:56 h
+SQL ERROR : UPDATE ck_user_admin SET cur_fullname = NULL, cur_shortname = NULL, cur_exchange = ''  WHERE cur_id = '8'
+MSG ERROR : Unknown column 'cur_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/12/2015 14:0:25 h
+SQL ERROR : UPDATE ck_user_admin SET cur_fullname = 'Taiwan Dollar', cur_shortname = 'USD', cur_exchange = '36.2574'  WHERE cur_id = '8'
+MSG ERROR : Unknown column 'cur_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/12/2015 16:0:15 h
+SQL ERROR : INSERT INTO ck_promotion (promotion_name, promotion_desc) VALUES ('Lead', NULL)
+MSG ERROR : Column 'promotion_desc' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/12/2015 16:0:15 h
+SQL ERROR : INSERT INTO ck_promotion (promotion_name, promotion_desc) VALUES ('Lead', NULL)
+MSG ERROR : Column 'promotion_desc' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/12/2015 16:0:40 h
+SQL ERROR : INSERT INTO ck_promotion (promotion_name, promotion_desc) VALUES ('Lead', NULL)
+MSG ERROR : Column 'promotion_desc' cannot be null
+

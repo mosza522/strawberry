@@ -1,0 +1,68 @@
+[26-Jan-2017 09:53:30 Asia/Bangkok] PHP Warning:  substr() expects at most 3 parameters, 4 given in C:\xampp\htdocs\labtech\product-2.php on line 39
+[26-Jan-2017 09:53:30 Asia/Bangkok] PHP Warning:  substr() expects at most 3 parameters, 4 given in C:\xampp\htdocs\labtech\product-2.php on line 39
+[26-Jan-2017 13:37:38 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:38:23 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:38:23 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:38:24 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:38:24 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:24 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:25 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:25 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:25 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:25 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:57 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:39:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:40:00 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:40:01 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:40:05 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:40:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:40:22 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:40:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:40:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:40:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:40:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:57 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:57 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:57 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:57 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:57 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:58 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:41:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\labtech\news-detail.php on line 30
+[26-Jan-2017 13:42:46 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:42:47 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:42:47 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:42:47 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:42:47 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:43:00 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:43:01 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:43:02 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:44:47 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:44:48 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:44:49 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:44:51 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:49:42 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:49:43 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:49:43 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:49:43 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:49:44 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:49:52 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:49:53 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:51:06 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:51:06 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:51:07 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:51:08 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 13:51:08 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\labtech\backoffice\backoffice\backoffice\general.php on line 5
+[26-Jan-2017 14:23:09 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\news\update.php on line 16
+[26-Jan-2017 14:30:10 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\news\update.php on line 16
+[26-Jan-2017 14:30:17 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\news\update.php on line 16
+[26-Jan-2017 15:10:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\news\class.upload.php on line 2859
+[26-Jan-2017 15:10:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\labtech\backoffice\news\class.upload.php on line 2904
+[26-Jan-2017 17:16:36 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\news\update.php on line 16

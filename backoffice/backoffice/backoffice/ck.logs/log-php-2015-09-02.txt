@@ -1,0 +1,1 @@
+[02-Sep-2015 16:50:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\rule\view\frm-index.php on line 74

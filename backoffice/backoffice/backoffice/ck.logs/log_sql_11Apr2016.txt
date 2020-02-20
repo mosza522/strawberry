@@ -1,0 +1,76 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:33 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:34 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:35 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:35 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:35 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:35 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:40 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:49 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:16 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:17 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:28 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:32 h
+SQL ERROR : INSERT INTO ck_insurer (insurance_insurer, insurance_end, insurance_brand, insurance_code, insurance_desc) VALUES (NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Unknown column 'insurance_insurer' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:40 h
+SQL ERROR : INSERT INTO ck_insurance_cost (inscost_type, inscost_gen, inscost_mincost, inscost_maxcost, inscost_prem, inscost_tax, insurance_id) VALUES ('', 'v', '1', '10', '5', '7', NULL)
+MSG ERROR : Column 'insurance_id' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:50 h
+SQL ERROR : INSERT INTO ck_insurance_cost (inscost_type, inscost_gen, inscost_mincost, inscost_maxcost, inscost_prem, inscost_tax, insurance_id) VALUES ('', 'a', '1', '10', '5', '7', NULL)
+MSG ERROR : Column 'insurance_id' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:27 h
+SQL ERROR : INSERT INTO ck_insurance_cost (inscost_type, inscost_gen, inscost_mincost, inscost_maxcost, inscost_prem, inscost_tax, insurance_id) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '0')
+MSG ERROR : Column 'inscost_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:41 h
+SQL ERROR : INSERT INTO ck_insurance_cost (inscost_type, inscost_gen, inscost_mincost, inscost_maxcost, inscost_prem, inscost_tax, insurance_id) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, '0')
+MSG ERROR : Column 'inscost_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:34 h
+SQL ERROR : INSERT INTO ck_insurance_protect (inscost_type, inscost_gen, inscost_mincost, inscost_maxcost, inscost_prem, inscost_tax, insurance_id) VALUES ('park', 'Captiva', '1', '10', '5', '7', '0')
+MSG ERROR : Unknown column 'inscost_type' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 10:0:08 h
+SQL ERROR : INSERT INTO ck_insurance_protect (inscost_type, inscost_gen, inscost_mincost, inscost_maxcost, inscost_prem, inscost_tax, insurance_id) VALUES ('park', 'Captiva', '1', '10', '5', '7', '1')
+MSG ERROR : Unknown column 'inscost_type' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 11/04/2016 16:0:43 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_insurance_cost  WHERE insurance_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+

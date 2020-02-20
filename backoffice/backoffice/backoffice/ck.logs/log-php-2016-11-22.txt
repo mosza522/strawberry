@@ -1,0 +1,15 @@
+[22-Nov-2016 02:00:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 287
+[22-Nov-2016 02:00:50 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 287
+[22-Nov-2016 02:00:56 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 287
+[22-Nov-2016 02:01:56 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 287
+[22-Nov-2016 02:02:30 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 288
+[22-Nov-2016 02:02:45 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 288
+[22-Nov-2016 02:02:46 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 288
+[22-Nov-2016 09:33:01 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 288
+[22-Nov-2016 09:55:02 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 293
+[22-Nov-2016 09:55:06 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 293
+[22-Nov-2016 09:55:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 290
+[22-Nov-2016 09:58:52 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\index.php on line 302
+[22-Nov-2016 23:17:23 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\index.php on line 265
+[22-Nov-2016 23:17:23 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\index.php on line 265
+[22-Nov-2016 23:17:23 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newback\index.php on line 265

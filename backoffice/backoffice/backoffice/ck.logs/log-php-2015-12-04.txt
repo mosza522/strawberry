@@ -1,0 +1,15 @@
+[04-Dec-2015 15:52:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 757
+[04-Dec-2015 15:53:07 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 757
+[04-Dec-2015 15:53:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 757
+[04-Dec-2015 15:54:29 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 757
+[04-Dec-2015 15:55:44 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 757
+[04-Dec-2015 15:57:40 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 757
+[04-Dec-2015 15:58:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 792
+[04-Dec-2015 15:59:04 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 962
+[04-Dec-2015 15:59:58 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 962
+[04-Dec-2015 16:00:18 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 962
+[04-Dec-2015 16:00:37 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 962
+[04-Dec-2015 16:01:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 802
+[04-Dec-2015 16:03:16 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 801
+[04-Dec-2015 16:03:40 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 802
+[04-Dec-2015 16:04:48 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\xampp_new\htdocs\pharmacy\backoffice\backoffice\drugmonograph\view\frm-index.php on line 802

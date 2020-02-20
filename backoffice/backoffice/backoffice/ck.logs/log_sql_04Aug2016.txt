@@ -1,0 +1,12 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/08/2016 19:0:06 h
+SQL ERROR : SELECT * FROM tb_customer,tb_user  WHERE tb_customer.CustomerID = tb_user.user_idcard and tb_user.user_id = 2   ORDER BY tb_member.member_datestart asc 
+MSG ERROR : Unknown column 'tb_member.member_datestart' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/08/2016 19:0:28 h
+SQL ERROR : SELECT * FROM tb_customer,tb_user  WHERE tb_customer.IDCard = tb_user.user_idcard and tb_user.user_id = 2   ORDER BY tb_member.member_datestart asc 
+MSG ERROR : Unknown column 'tb_member.member_datestart' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/08/2016 19:0:31 h
+SQL ERROR : SELECT * FROM tb_customer,tb_user  WHERE tb_customer.IDCard = tb_user.user_idcard and tb_user.user_id = 2   ORDER BY tb_member.member_datestart asc 
+MSG ERROR : Unknown column 'tb_member.member_datestart' in 'order clause'
+

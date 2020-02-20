@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : 180.183.46.177 	DATE/TIME : 21/02/2017 00:0:42 h
+SQL ERROR : INSERT INTO tb_career_rqm (career_rqm, ref_id_career	) VALUES (NULL, '9')
+MSG ERROR : Column 'career_rqm' cannot be null
+
+ERROR : MySql query failed	IP : 180.183.46.177 	DATE/TIME : 21/02/2017 00:0:43 h
+SQL ERROR : INSERT INTO tb_career_rqm (career_rqm, ref_id_career	) VALUES (NULL, '9')
+MSG ERROR : Column 'career_rqm' cannot be null
+
+ERROR : MySql query failed	IP : 180.183.46.177 	DATE/TIME : 21/02/2017 00:0:44 h
+SQL ERROR : INSERT INTO tb_career_rqm (career_rqm, ref_id_career	) VALUES (NULL, '9')
+MSG ERROR : Column 'career_rqm' cannot be null
+
+ERROR : MySql query failed	IP : 180.183.46.177 	DATE/TIME : 21/02/2017 00:0:46 h
+SQL ERROR : INSERT INTO tb_career_rqm (career_rqm, ref_id_career	) VALUES (NULL, '9')
+MSG ERROR : Column 'career_rqm' cannot be null
+
+ERROR : MySql query failed	IP : 180.183.46.177 	DATE/TIME : 21/02/2017 00:0:09 h
+SQL ERROR : INSERT INTO tb_career_rqm (career_rqm, ref_id_career	) VALUES (NULL, '9')
+MSG ERROR : Column 'career_rqm' cannot be null
+

@@ -1,0 +1,76 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 15:0:06 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_img, news_create, news_update) VALUES (NULL, 'rteee', 'fffe0fefw', '20170215155805.jpg', '2017-02-15 15:58:06', '2017-02-15 15:58:06')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 15:0:21 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_img, news_create, news_update) VALUES (NULL, 'rteee', 'fffe0fefw', '20170215155820.jpg', '2017-02-15 15:58:21', '2017-02-15 15:58:21')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 16:0:18 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_img, news_create, news_update) VALUES (NULL, 'rteee', 'fffe0fefw', '20170215160017.jpg', '2017-02-15 16:00:18', '2017-02-15 16:00:18')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 16:0:05 h
+SQL ERROR : INSERT INTO tb_newsimg (new_createimg, news_img, news_typeimg, id_ref_news) VALUES ('2017-02-15 16:30:05', '201702151630050.jpg', 'News', NULL)
+MSG ERROR : Unknown column 'id_ref_news' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 16:0:19 h
+SQL ERROR : INSERT INTO tb_newsimg (new_createimg, news_img, news_typeimg, id_ref_news) VALUES ('2017-02-15 16:31:19', '201702151631190.jpg', 'News', '3')
+MSG ERROR : Unknown column 'id_ref_news' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:30 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:00:30', '2017-02-15 17:00:30')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:38 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:00:38', '2017-02-15 17:00:38')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:45 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:01:45', '2017-02-15 17:01:45')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:29 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:02:29', '2017-02-15 17:02:29')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:50 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:05:50', '2017-02-15 17:05:50')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:32 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:06:32', '2017-02-15 17:06:32')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:53 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:09:53', '2017-02-15 17:09:53')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:00 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:10:00', '2017-02-15 17:10:00')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:00 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:14:00', '2017-02-15 17:14:00')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:01 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:14:01', '2017-02-15 17:14:01')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:34 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:15:34', '2017-02-15 17:15:34')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:05 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:26:05', '2017-02-15 17:26:05')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 17:0:15 h
+SQL ERROR : INSERT INTO tb_news (news_type, news_name, news_detail, news_create, news_update) VALUES (NULL, NULL, NULL, '2017-02-15 17:26:15', '2017-02-15 17:26:15')
+MSG ERROR : Column 'news_type' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/02/2017 21:0:44 h
+SQL ERROR : INSERT INTO tb_newsimg (new_createimg, news_img, news_typeimg, ref_id_news) VALUES ('2017-02-15 21:46:44', '201702152146440.jpg', NULL, '2')
+MSG ERROR : Column 'news_typeimg' cannot be null
+

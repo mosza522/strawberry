@@ -1,0 +1,2 @@
+[13-Nov-2015 11:14:02 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ']' in C:\xampp_new\htdocs\new backoffice\backoffice\backoffice\drugmonograph\ck.class.php on line 29
+[13-Nov-2015 11:58:38 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in C:\xampp_new\htdocs\new backoffice\backoffice\backoffice\drugmonograph\view\frm-index.php on line 239

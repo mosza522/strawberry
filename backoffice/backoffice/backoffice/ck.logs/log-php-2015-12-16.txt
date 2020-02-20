@@ -1,0 +1,23 @@
+[16-Dec-2015 13:59:58 Asia/Bangkok] PHP Warning:  simplexml_load_file(http://www2.bot.or.th/RSS/fxrates/fxrate-thb.xml): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 7
+[16-Dec-2015 13:59:58 Asia/Bangkok] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www2.bot.or.th/RSS/fxrates/fxrate-thb.xml&quot; in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 7
+[16-Dec-2015 14:19:56 Asia/Bangkok] PHP Warning:  simplexml_load_file(http://www2.bot.or.th/RSS/fxrates/fxrate-.xml): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp_new\htdocs\snakemuseum\main\currency\upcur.php on line 14
+[16-Dec-2015 14:19:56 Asia/Bangkok] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www2.bot.or.th/RSS/fxrates/fxrate-.xml&quot; in C:\xampp_new\htdocs\snakemuseum\main\currency\upcur.php on line 14
+[16-Dec-2015 14:31:08 Asia/Bangkok] PHP Warning:  simplexml_load_file(http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 15
+[16-Dec-2015 14:31:08 Asia/Bangkok] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml&quot; in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 15
+[16-Dec-2015 14:31:16 Asia/Bangkok] PHP Warning:  simplexml_load_file(http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp_new\htdocs\snakemuseum\main\currency\upcur.php on line 14
+[16-Dec-2015 14:31:16 Asia/Bangkok] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml&quot; in C:\xampp_new\htdocs\snakemuseum\main\currency\upcur.php on line 14
+[16-Dec-2015 14:42:20 Asia/Bangkok] PHP Warning:  simplexml_load_file(http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 13
+[16-Dec-2015 14:42:20 Asia/Bangkok] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml&quot; in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 13
+[16-Dec-2015 15:11:57 Asia/Bangkok] PHP Warning:  include(promotion/show.php): failed to open stream: No such file or directory in C:\xampp_new\htdocs\snakemuseum\main\mainpromotion.php on line 68
+[16-Dec-2015 15:11:57 Asia/Bangkok] PHP Warning:  include(): Failed opening 'promotion/show.php' for inclusion (include_path='.;C:\xampp_new\php\PEAR') in C:\xampp_new\htdocs\snakemuseum\main\mainpromotion.php on line 68
+[16-Dec-2015 16:36:58 Asia/Bangkok] PHP Warning:  simplexml_load_file(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 13
+[16-Dec-2015 16:36:58 Asia/Bangkok] PHP Warning:  simplexml_load_file(http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 13
+[16-Dec-2015 16:36:58 Asia/Bangkok] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml&quot; in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 13
+[16-Dec-2015 16:37:09 Asia/Bangkok] PHP Warning:  simplexml_load_file(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 13
+[16-Dec-2015 16:37:09 Asia/Bangkok] PHP Warning:  simplexml_load_file(http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 13
+[16-Dec-2015 16:37:09 Asia/Bangkok] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www2.bot.or.th/RSS/fxrates/fxrate-test.xml&quot; in C:\xampp_new\htdocs\snakemuseum\main\currency\addcur.php on line 13

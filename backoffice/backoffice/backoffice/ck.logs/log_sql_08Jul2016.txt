@@ -1,0 +1,164 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 10:0:55 h
+SQL ERROR : SELECT * FROM ey_admin  WHERE admin_username="admin" and admin_password="202cb962ac59075b964b07152d234b70"
+MSG ERROR : Table 'crm.ey_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 10:0:24 h
+SQL ERROR : SELECT * FROM ey_admin  WHERE admin_username="admin" and admin_password="202cb962ac59075b964b07152d234b70"
+MSG ERROR : Table 'crm.ey_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 10:0:31 h
+SQL ERROR : SELECT * FROM ey_admin  WHERE admin_username="admin" and admin_password="81dc9bdb52d04dc20036dbd8313ed055"
+MSG ERROR : Table 'crm.ey_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 10:0:16 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ey_menu  WHERE menu_ref_id=0 and menu_permission="admin" 
+MSG ERROR : Table 'crm.ey_menu' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 10:0:46 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ey_menu  WHERE menu_ref_id=0 and menu_permission="admin" 
+MSG ERROR : Table 'crm.ey_menu' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 10:0:24 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_menu  WHERE menu_ref_id=0 and menu_permission="admin" 
+MSG ERROR : Table 'crm.tb_menu' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:48 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('9Sb6xmzm', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', 'หกดหกกหดหกดหกดหกดหกด', '4', '08/07/2016 14:53 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:52 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('H0dKLu5E', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', 'หกดหกกหดหกดหกดหกดหกด', '4', '08/07/2016 14:53 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:53 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('LGfsF8DU', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', 'หกดหกกหดหกดหกดหกดหกด', '4', '08/07/2016 14:53 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:53 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('3MZu58Xq', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', 'หกดหกกหดหกดหกดหกดหกด', '4', '08/07/2016 14:53 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:53 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('tWfUnwjU', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', 'หกดหกกหดหกดหกดหกดหกด', '4', '08/07/2016 14:53 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:53 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('7q76tkjc', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', 'หกดหกกหดหกดหกดหกดหกด', '4', '08/07/2016 14:53 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:03 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('bazipCzK', NULL, '', 'action', 'enable', 'ทิพากร การถาง', 'หกดหกกหดหกดหกดหกดหกด', '4', '08/07/2016 14:54 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:04 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('ZeLk9KXG', NULL, '', 'action', 'enable', 'ทิพากร การถาง', 'หกดหกกหดหกดหกดหกดหกด', '4', '08/07/2016 14:54 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:05 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('ZeR2Nqje', NULL, '', 'action', 'enable', 'ทิพากร การถาง', 'หกดหกกหดหกดหกดหกดหกด', '4', '08/07/2016 14:54 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:00 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('9k9cp0zW', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', '12345', '4', '08/07/2016 14:57 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:01 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('vKXWJuva', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', '12345', '4', '08/07/2016 14:57 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:02 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('nENOlW9a', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', '12345', '4', '08/07/2016 14:57 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:03 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('B2ZgT8Ja', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', '12345', '4', '08/07/2016 14:57 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:03 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('dexO9GJq', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', '12345', '4', '08/07/2016 14:57 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:03 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('v6HqbaL2', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', '12345', '4', '08/07/2016 14:57 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:04 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('b81eNMRg', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', '12345', '4', '08/07/2016 14:57 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:04 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('VQz4TABu', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', '12345', '4', '08/07/2016 14:57 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:07 h
+SQL ERROR : INSERT INTO tb_member (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('xabiDEX8', NULL, 'ทิพากร  การถาง++', 'action', 'enable', 'ทิพากร การถาง', '12345', '4', '08/07/2016 14:57 PM')
+MSG ERROR : Column 'member_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:31 h
+SQL ERROR : INSERT INTO tb_project (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('JCVab4zA', 'TOT co.Ldt', 'ทิพากร  การถาง++', 'action', 'enable', NULL, NULL, NULL, '08/07/2016 14:59 PM')
+MSG ERROR : Unknown column 'member_code' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:43 h
+SQL ERROR : INSERT INTO tb_project (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('VM3w1yRy', 'TOT co.Ldt', 'วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', NULL, NULL, NULL, '08/07/2016 14:59 PM')
+MSG ERROR : Unknown column 'member_code' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:45 h
+SQL ERROR : INSERT INTO tb_project (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('NabALyTW', 'TOT co.Ldt', 'วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', NULL, NULL, NULL, '08/07/2016 14:59 PM')
+MSG ERROR : Unknown column 'member_code' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:45 h
+SQL ERROR : INSERT INTO tb_project (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('9etG5shi', 'TOT co.Ldt', 'วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', NULL, NULL, NULL, '08/07/2016 14:59 PM')
+MSG ERROR : Unknown column 'member_code' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:45 h
+SQL ERROR : INSERT INTO tb_project (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('5GXcLADi', 'TOT co.Ldt', 'วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', NULL, NULL, NULL, '08/07/2016 14:59 PM')
+MSG ERROR : Unknown column 'member_code' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:46 h
+SQL ERROR : INSERT INTO tb_project (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('yXYNiDKj', 'TOT co.Ldt', 'วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', NULL, NULL, NULL, '08/07/2016 14:59 PM')
+MSG ERROR : Unknown column 'member_code' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:46 h
+SQL ERROR : INSERT INTO tb_project (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('ZcRGLGl4', 'TOT co.Ldt', 'วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', NULL, NULL, NULL, '08/07/2016 14:59 PM')
+MSG ERROR : Unknown column 'member_code' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 14:0:46 h
+SQL ERROR : INSERT INTO tb_project (member_code, member_company, member_lawyer, member_status, member_activte, member_name, member_note, member_admin_id, member_create) VALUES ('HqVOvGfQ', 'TOT co.Ldt', 'วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', NULL, NULL, NULL, '08/07/2016 14:59 PM')
+MSG ERROR : Unknown column 'member_code' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 15:0:09 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_project_workflow  WHERE member_id=2 
+MSG ERROR : Unknown column 'member_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 15:0:41 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_project_workflow  WHERE member_id=2 
+MSG ERROR : Unknown column 'member_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 15:0:54 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_project_workflow  WHERE member_id=2 
+MSG ERROR : Unknown column 'member_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 15:0:38 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_project_workflow  WHERE member_id=2 
+MSG ERROR : Unknown column 'member_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 15:0:52 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_project_workflow  WHERE member_id=2 
+MSG ERROR : Unknown column 'member_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 15:0:20 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_project_workflow  WHERE member_id=2 
+MSG ERROR : Unknown column 'member_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 15:0:35 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_project_workflow  WHERE member_id=2 
+MSG ERROR : Unknown column 'member_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 15:0:39 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_project_workflow  WHERE member_id=2 
+MSG ERROR : Unknown column 'member_id' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/07/2016 15:0:15 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM tb_project_workflow  WHERE member_id=2 
+MSG ERROR : Unknown column 'member_id' in 'where clause'
+

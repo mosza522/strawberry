@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/08/2015 17:0:22 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_type_new  
+MSG ERROR : Table 'chapanakit.ck_type_new' doesn't exist
+

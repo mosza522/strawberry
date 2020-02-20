@@ -1,0 +1,12 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/12/2015 15:0:29 h
+SQL ERROR : INSERT INTO ck_subpromotion (promotion_id, sub_name, sub_type, sub_cost) VALUES ('1', 'Thai and Expat', 'adult', NULL)
+MSG ERROR : Unknown column 'sub_cost' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/12/2015 15:0:01 h
+SQL ERROR : INSERT INTO ck_subpromotion (promotion_id, sub_name, sub_type, sub_cost) VALUES ('1', 'Thai and Expat', 'adult', '350')
+MSG ERROR : Unknown column 'sub_cost' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 19/12/2015 15:0:13 h
+SQL ERROR : INSERT INTO ck_subpromotion (promotion_id, sub_name, sub_type, sub_cost) VALUES ('1', 'Thai and Expat', 'adult', '350')
+MSG ERROR : Unknown column 'sub_cost' in 'field list'
+

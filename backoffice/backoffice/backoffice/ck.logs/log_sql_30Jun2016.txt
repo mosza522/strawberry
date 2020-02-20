@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/06/2016 10:0:18 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ey_user_admin  WHERE project_id=1 
+MSG ERROR : Table 'lawer.ey_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/06/2016 10:0:42 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ey_user_admin  WHERE project_id=1 
+MSG ERROR : Table 'lawer.ey_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/06/2016 10:0:55 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ey_user_admin  WHERE project_id=1 
+MSG ERROR : Table 'lawer.ey_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/06/2016 13:0:57 h
+SQL ERROR : INSERT INTO ey_project_workflow (project_company, project_lawyer, project_status, project_activte, project_name, project_note, project_update) VALUES ('Thai PET Resin Co., Ltd.', 'วิศิษฎ์ เหมพรวิสาร,วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', 'test', 'test', '30/06/2016 13:42 PM')
+MSG ERROR : Unknown column 'project_company' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 30/06/2016 13:0:20 h
+SQL ERROR : INSERT INTO ey_project_workflow (project_company, project_lawyer, project_status, project_activte, project_name, project_note, project_update) VALUES ('Thai PET Resin Co., Ltd.', 'วิศิษฎ์ เหมพรวิสาร,วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', 'test', 'test', '30/06/2016 13:44 PM')
+MSG ERROR : Unknown column 'project_company' in 'field list'
+

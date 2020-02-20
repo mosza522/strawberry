@@ -1,0 +1,5 @@
+[13-Sep-2016 22:48:21 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in C:\xampp\htdocs\CRM\backoffice\report-member\getData.php on line 19
+[13-Sep-2016 22:51:00 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in C:\xampp\htdocs\CRM\backoffice\report-member\getData.php on line 19
+[13-Sep-2016 22:51:01 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in C:\xampp\htdocs\CRM\backoffice\report-member\getData.php on line 19
+[13-Sep-2016 22:51:01 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in C:\xampp\htdocs\CRM\backoffice\report-member\getData.php on line 19
+[13-Sep-2016 22:51:01 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in C:\xampp\htdocs\CRM\backoffice\report-member\getData.php on line 19

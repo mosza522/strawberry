@@ -1,0 +1,41 @@
+[21-Jul-2016 15:42:35 Asia/Bangkok] PHP Warning:  include(voucher-user/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[21-Jul-2016 15:42:35 Asia/Bangkok] PHP Warning:  include(): Failed opening 'voucher-user/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[21-Jul-2016 16:35:30 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 46
+[21-Jul-2016 16:36:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$num' (T_VARIABLE), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 46
+[21-Jul-2016 17:02:16 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 15
+[21-Jul-2016 17:02:20 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 15
+[21-Jul-2016 17:02:38 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 16
+[21-Jul-2016 17:02:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 16
+[21-Jul-2016 17:03:04 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 16
+[21-Jul-2016 17:03:06 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 16
+[21-Jul-2016 17:05:07 Asia/Bangkok] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 14
+[21-Jul-2016 17:06:13 Asia/Bangkok] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\CRM\dbcon.php on line 2
+[21-Jul-2016 17:06:27 Asia/Bangkok] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\CRM\dbcon.php on line 2
+[21-Jul-2016 17:06:54 Asia/Bangkok] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\CRM\dbcon.php on line 2
+[21-Jul-2016 17:07:18 Asia/Bangkok] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\CRM\dbcon.php on line 2
+[21-Jul-2016 17:12:01 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 20
+[21-Jul-2016 17:16:38 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'label' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:17:04 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''</span>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:17:06 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ''</span>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:17:46 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'label' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:17:48 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'label' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:17:49 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'label' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:17:49 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'label' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:17:50 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'label' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:21:26 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:21:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:21:35 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:21:37 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:21:50 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:21:51 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:22:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:22:10 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:23:14 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:23:17 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:23:34 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:23:35 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:23:51 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:24:07 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:24:25 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'SUMmember_points' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:24:27 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'SUMmember_points' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21
+[21-Jul-2016 17:24:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'SUMmember_points' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 21

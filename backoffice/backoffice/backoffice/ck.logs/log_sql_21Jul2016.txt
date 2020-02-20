@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 21/07/2016 16:0:08 h
+SQL ERROR : SELECT * FROM tb_member,tb_user  WHERE tb_member.member_idcard = tb_user.user_idcard and tb_user.user_id = 2   ORDER BY datestart desc 
+MSG ERROR : Unknown column 'datestart' in 'order clause'
+

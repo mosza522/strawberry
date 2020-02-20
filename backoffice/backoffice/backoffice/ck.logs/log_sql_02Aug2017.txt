@@ -1,0 +1,12 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 02/08/2017 09:0:35 h
+SQL ERROR : UPDATE tb_admin SET admin_lastlogout="2017-08-02 09:20:35"  WHERE admin_id=
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 02/08/2017 13:0:26 h
+SQL ERROR : Database Select DB Fail
+MSG ERROR : Unknown database 'strawbery'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 02/08/2017 13:0:29 h
+SQL ERROR : Database Select DB Fail
+MSG ERROR : Unknown database 'strawbery'
+

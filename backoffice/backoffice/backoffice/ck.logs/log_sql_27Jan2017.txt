@@ -1,0 +1,64 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 11:0:23 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 11:0:33 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : php_network_getaddresses: getaddrinfo failed: No such host is known. 
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 11:0:06 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user ''@'183.88.186.77' (using password: NO)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 11:0:27 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'lalita.ots.co.th'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 11:0:04 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'lalita.ots.co.th'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:34 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:35 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:35 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:28 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:29 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:29 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:30 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:30 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:41 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:42 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/01/2017 12:0:43 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zlalita'@'localhost' (using password: YES)
+

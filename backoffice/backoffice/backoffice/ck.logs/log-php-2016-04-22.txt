@@ -1,0 +1,9 @@
+[22-Apr-2016 15:35:51 Asia/Bangkok] PHP Warning:  copy(../images/22042016153551logo.jpg): failed to open stream: No such file or directory in D:\xampp\htdocs\Vtiger\insurer\upinsurer.php on line 21
+[22-Apr-2016 15:37:04 Asia/Bangkok] PHP Warning:  unlink(../images22042016153551logo.jpg): No such file or directory in D:\xampp\htdocs\Vtiger\insurer\upinsurer.php on line 23
+[22-Apr-2016 15:40:07 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in D:\xampp\htdocs\Vtiger\insurer\delinsurer.php on line 6
+[22-Apr-2016 15:42:05 Asia/Bangkok] PHP Warning:  unlink(image/): No such file or directory in D:\xampp\htdocs\Vtiger\insurer\delinsurer.php on line 6
+[22-Apr-2016 15:45:15 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in D:\xampp\htdocs\Vtiger\insurer\delinsurer.php on line 7
+[22-Apr-2016 15:46:00 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in D:\xampp\htdocs\Vtiger\insurer\delinsurer.php on line 7
+[22-Apr-2016 15:46:29 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in D:\xampp\htdocs\Vtiger\insurer\delinsurer.php on line 7
+[22-Apr-2016 15:49:20 Asia/Bangkok] PHP Warning:  unlink(../images22042016154743logo.jpg): No such file or directory in D:\xampp\htdocs\Vtiger\insurer\upinsurer.php on line 23
+[22-Apr-2016 16:14:15 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in D:\xampp\htdocs\Vtiger\insurer\upinsurer.php on line 23

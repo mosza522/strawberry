@@ -1,0 +1,24 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2016 10:0:20 h
+SQL ERROR : SELECT * FROM ck_user_admin    ORDER BY news_id desc  LIMIT 0, 25
+MSG ERROR : Unknown column 'news_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2016 10:0:46 h
+SQL ERROR : SELECT * FROM ck_user_admin    ORDER BY news_id desc  LIMIT 0, 25
+MSG ERROR : Unknown column 'news_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2016 10:0:04 h
+SQL ERROR : SELECT * FROM ck_user_admin    ORDER BY news_id desc  LIMIT 0, 25
+MSG ERROR : Unknown column 'news_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2016 10:0:39 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_news  
+MSG ERROR : Table 'siamserpentarium.ck_news' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2016 11:0:14 h
+SQL ERROR : INSERT INTO ck_news (news_topic, news_topic_en, news_detail, news_detail_en, news_pic) VALUES ('ทดสอบ', NULL, 'รายละเอียด', 'detail', '04022016111014news')
+MSG ERROR : Column 'news_topic_en' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 04/02/2016 11:0:02 h
+SQL ERROR : INSERT INTO ck_news (news_topic, news_topic_en, news_detail, news_detail_en, news_pic) VALUES ('ทดสอบ', NULL, 'รายละเอียด', 'detail', '04022016111102news')
+MSG ERROR : Column 'news_topic_en' cannot be null
+

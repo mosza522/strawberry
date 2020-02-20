@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/09/2015 09:0:05 h
+SQL ERROR : INSERT INTO tbl_faq (question, question_name, question_time, answer, answer_name, answer_time) VALUES ('ขัาราชการบำนาญเสียชีวิตจะไดัรับอะไรบ้าง', 'test', '22/09/2015 09:47:24', 'ข้าราชการบำนาญที่เป็นสมาชิกฌาปนกิจสงเคราะห์ ทบ. เมื่อเสียชีวิตจะได้รับเงินค่าจัดการศพประมาณ 200,000 บาทค่ะ หรือถ้าท่านมีข้อสงสัยประการใดกรุณาโทรมาสอบถามได้ที่เบอร์ 02-6547400 ต่อ 6457, 6463, 6489 ค่ะ', 'admin', '22/09/2015 09:47:24')
+MSG ERROR : Unknown column 'question' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/09/2015 09:0:16 h
+SQL ERROR : INSERT INTO tbl_faq (question, question_name, question_time, answer, answer_name, answer_time) VALUES ('ขัาราชการบำนาญเสียชีวิตจะไดัรับอะไรบ้าง', 'test', '22/09/2015 09:47:24', 'ข้าราชการบำนาญที่เป็นสมาชิกฌาปนกิจสงเคราะห์ ทบ. เมื่อเสียชีวิตจะได้รับเงินค่าจัดการศพประมาณ 200,000 บาทค่ะ หรือถ้าท่านมีข้อสงสัยประการใดกรุณาโทรมาสอบถามได้ที่เบอร์ 02-6547400 ต่อ 6457, 6463, 6489 ค่ะ', 'admin', '22/09/2015 09:47:24')
+MSG ERROR : Unknown column 'question' in 'field list'
+

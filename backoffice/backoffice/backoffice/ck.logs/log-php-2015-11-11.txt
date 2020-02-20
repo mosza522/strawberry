@@ -1,0 +1,1 @@
+[11-Nov-2015 09:34:21 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp_new\htdocs\new backoffice\backoffice\backoffice\drugmonograph\Hall.php on line 8

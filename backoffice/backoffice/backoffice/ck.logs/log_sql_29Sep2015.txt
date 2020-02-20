@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/09/2015 16:0:19 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_voice_actor  
+MSG ERROR : Table 'pitak.ck_voice_actor' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/09/2015 17:0:49 h
+SQL ERROR : INSERT INTO ck_member (member_name, member_email, member_tel, member_gender, member_address, member_hospital, member_start, member_end, member_user, member_password) VALUES (NULL, 'test@gmail.com', '0123456789', 'M', 'test', 'taksin hospital', '2015-09-29', '2015-10-10', 'user', 'user1234')
+MSG ERROR : Column 'member_name' cannot be null
+

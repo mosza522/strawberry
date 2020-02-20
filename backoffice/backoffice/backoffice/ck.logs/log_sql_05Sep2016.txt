@@ -1,0 +1,24 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/09/2016 15:0:42 h
+SQL ERROR : INSERT INTO tb_point (point_idcard, point_scroll, point_create) VALUES (NULL, NULL, 1473063522)
+MSG ERROR : Column 'point_idcard' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/09/2016 15:0:53 h
+SQL ERROR : INSERT INTO tb_employee (emp_company, emp_name, emp_tel, emp_email, emp_address, emp_pass, admin_create, create_date) VALUES (NULL, NULL, NULL, NULL, NULL, '7chtwiyk', '8', '05/09/2016 15:40:53')
+MSG ERROR : Unknown column 'admin_create' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/09/2016 15:0:54 h
+SQL ERROR : INSERT INTO tb_employee (emp_company, emp_name, emp_tel, emp_email, emp_address, emp_pass, admin_create, create_date) VALUES (NULL, NULL, NULL, NULL, NULL, 'hrlcuef2', '8', '05/09/2016 15:40:54')
+MSG ERROR : Unknown column 'admin_create' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/09/2016 15:0:54 h
+SQL ERROR : INSERT INTO tb_employee (emp_company, emp_name, emp_tel, emp_email, emp_address, emp_pass, admin_create, create_date) VALUES (NULL, NULL, NULL, NULL, NULL, 'u4fzyi7c', '8', '05/09/2016 15:40:54')
+MSG ERROR : Unknown column 'admin_create' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/09/2016 15:0:54 h
+SQL ERROR : INSERT INTO tb_employee (emp_company, emp_name, emp_tel, emp_email, emp_address, emp_pass, admin_create, create_date) VALUES (NULL, NULL, NULL, NULL, NULL, 'jkl452u6', '8', '05/09/2016 15:40:54')
+MSG ERROR : Unknown column 'admin_create' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/09/2016 15:0:15 h
+SQL ERROR : INSERT INTO tb_employee (emp_company, emp_name, emp_tel, emp_email, emp_address, emp_pass, admin_create, create_date) VALUES (NULL, NULL, NULL, NULL, NULL, 'w2uen4qz', '8', '05/09/2016 15:44:15')
+MSG ERROR : Unknown column 'admin_create' in 'field list'
+

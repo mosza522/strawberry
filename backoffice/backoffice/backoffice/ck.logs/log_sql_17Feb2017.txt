@@ -1,0 +1,32 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/02/2017 13:0:16 h
+SQL ERROR : INSERT INTO tb_career (career_name, career_positions, career_create) VALUES (NULL, NULL, '2017-02-17 13:36:16')
+MSG ERROR : Column 'career_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/02/2017 13:0:54 h
+SQL ERROR : INSERT INTO tb_career (career_name, career_positions, career_create) VALUES (NULL, NULL, '2017-02-17 13:44:54')
+MSG ERROR : Column 'career_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/02/2017 13:0:56 h
+SQL ERROR : INSERT INTO tb_career (career_name, career_positions, career_create) VALUES (NULL, NULL, '2017-02-17 13:44:56')
+MSG ERROR : Column 'career_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/02/2017 13:0:02 h
+SQL ERROR : INSERT INTO tb_career (career_name, career_positions, career_create) VALUES (NULL, NULL, '2017-02-17 13:45:02')
+MSG ERROR : Column 'career_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/02/2017 13:0:33 h
+SQL ERROR : INSERT INTO tb_career (career_name, career_positions, career_create) VALUES (NULL, NULL, '2017-02-17 13:45:33')
+MSG ERROR : Column 'career_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/02/2017 13:0:45 h
+SQL ERROR : INSERT INTO tb_career (career_name, career_positions, career_create) VALUES (NULL, NULL, '2017-02-17 13:46:45')
+MSG ERROR : Column 'career_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/02/2017 13:0:43 h
+SQL ERROR : INSERT INTO tb_career (career_name, career_positions, career_create) VALUES (NULL, '5', '2017-02-17 13:49:43')
+MSG ERROR : Column 'career_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/02/2017 13:0:16 h
+SQL ERROR : INSERT INTO tb_career (career_name, career_positions, career_create) VALUES (NULL, '5', '2017-02-17 13:50:16')
+MSG ERROR : Column 'career_name' cannot be null
+

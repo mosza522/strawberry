@@ -1,0 +1,28 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/11/2015 14:0:56 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  WHERE NOT typedrug_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/11/2015 14:0:07 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  WHERE NOT typedrug_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/11/2015 14:0:47 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  WHERE NOT typedrug_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/11/2015 14:0:23 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  WHERE NOT typedrug_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/11/2015 14:0:05 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  WHERE NOT typedrug_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/11/2015 14:0:10 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  WHERE NOT typedrug_id= 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 05/11/2015 14:0:18 h
+SQL ERROR : INSERT INTO ck_nlemgroup (nlemgroup_code, nlemgroup_name, nlemgroup_first) VALUES ('1.1', 'Aliminium hydroxide + Magnesium hydroxide', NULL)
+MSG ERROR : Column 'nlemgroup_first' cannot be null
+

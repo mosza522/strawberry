@@ -1,0 +1,72 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 16:0:41 h
+SQL ERROR : UPDATE tb_admin SET admin_last_login="2016-11-16 16:56:41"  WHERE admin_id=1
+MSG ERROR : Unknown column 'admin_last_login' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:07 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:20:07')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:09 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:21:09')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:09 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:21:09')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:10 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:21:10')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:10 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:21:10')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:10 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:21:10')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:10 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:21:10')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:08 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:22:08')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:23 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic) VALUES (NULL)
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:23 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic) VALUES (NULL)
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:24 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic) VALUES (NULL)
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:24 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic) VALUES (NULL)
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:11 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic) VALUES (NULL)
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:16 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:24:16')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:03 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:39:03')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:53 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:51:53')
+MSG ERROR : Column 'banner_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 16/11/2016 19:0:00 h
+SQL ERROR : INSERT INTO tb_banner (banner_pic, banner_create) VALUES (NULL, '2016-11-16 19:53:00')
+MSG ERROR : Column 'banner_pic' cannot be null
+

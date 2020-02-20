@@ -1,0 +1,4 @@
+[13-Aug-2015 14:15:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp_new\htdocs\seangthai\backoffice\backoffice\ck.plugin\libraries\class.upload.php on line 2886
+[13-Aug-2015 14:15:59 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp_new\htdocs\seangthai\backoffice\backoffice\ck.plugin\libraries\class.upload.php on line 2904
+[13-Aug-2015 15:06:35 Asia/Bangkok] PHP Warning:  Illegal string offset 'name' in C:\xampp_new\htdocs\seangthai\backoffice\backoffice\deposit\ck.class.php on line 192
+[13-Aug-2015 15:21:35 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'data' (T_STRING), expecting ',' or ';' in C:\xampp_new\htdocs\seangthai\backoffice\backoffice\deposit\view\frm-index.php on line 250

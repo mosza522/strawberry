@@ -1,0 +1,22 @@
+[05-Sep-2016 13:45:45 Asia/Bangkok] PHP Warning:  include(manage-emp/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[05-Sep-2016 13:45:45 Asia/Bangkok] PHP Warning:  include(): Failed opening 'manage-emp/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[05-Sep-2016 13:46:18 Asia/Bangkok] PHP Warning:  include(manage-emp/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[05-Sep-2016 13:46:18 Asia/Bangkok] PHP Warning:  include(): Failed opening 'manage-emp/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[05-Sep-2016 13:46:27 Asia/Bangkok] PHP Warning:  include(manage-emp/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[05-Sep-2016 13:46:27 Asia/Bangkok] PHP Warning:  include(): Failed opening 'manage-emp/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[05-Sep-2016 13:51:30 Asia/Bangkok] PHP Warning:  include(manage-emp/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[05-Sep-2016 13:51:30 Asia/Bangkok] PHP Warning:  include(): Failed opening 'manage-emp/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[05-Sep-2016 14:14:27 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\emp\addemp.php on line 1
+[05-Sep-2016 14:14:27 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\emp\addemp.php on line 1
+[05-Sep-2016 14:14:48 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php on line 5
+[05-Sep-2016 14:14:50 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php on line 5
+[05-Sep-2016 14:15:15 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\emp\addemp.php on line 1
+[05-Sep-2016 14:15:15 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\emp\addemp.php on line 1
+[05-Sep-2016 14:15:17 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\emp\addemp.php on line 1
+[05-Sep-2016 14:15:17 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\emp\addemp.php on line 1
+[05-Sep-2016 14:21:57 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\emp\add.php on line 15
+[05-Sep-2016 14:22:27 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\emp\add.php on line 15
+[05-Sep-2016 14:24:02 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\emp\add.php on line 15
+[05-Sep-2016 14:57:19 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in C:\xampp\htdocs\CRM\backoffice\emp\upemp.php on line 24
+[05-Sep-2016 15:16:46 Asia/Bangkok] PHP Warning:  include(emp-voucher/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[05-Sep-2016 15:16:46 Asia/Bangkok] PHP Warning:  include(): Failed opening 'emp-voucher/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85

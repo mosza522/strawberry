@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/08/2015 11:0:40 h
+SQL ERROR : INSERT INTO tbl_news (old_code, member_name, member_date, begin_sop, citizen_id, birth_date, gender, mildept_name, full_addr, member_status, payment_desc, heir_rank, heir_title, heir_name, heir_address, member_type) VALUES ('1111', 'test', '2015-08-28', '', '11111', '2015-08-28', 'm', 'test', 'test', 'test', 'test', '', 'test', 'test', 'test', 'test')
+MSG ERROR : Unknown column 'old_code' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/08/2015 11:0:46 h
+SQL ERROR : INSERT INTO tbl_news (old_code, member_name, member_date, begin_sop, citizen_id, birth_date, gender, mildept_name, full_addr, member_status, payment_desc, heir_rank, heir_title, heir_name, heir_address, member_type) VALUES ('1111', 'test', '2015-08-28', '', '11111', '2015-08-28', 'm', 'test', 'test', 'test', 'test', '', 'test', 'test', 'test', 'test')
+MSG ERROR : Unknown column 'old_code' in 'field list'
+

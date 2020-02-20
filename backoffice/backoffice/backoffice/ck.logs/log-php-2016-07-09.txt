@@ -1,0 +1,5 @@
+[09-Jul-2016 20:58:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[09-Jul-2016 20:58:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[09-Jul-2016 20:58:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[09-Jul-2016 20:58:38 Asia/Bangkok] PHP Warning:  Illegal string offset 'lawyer_name' in C:\xampp\htdocs\CRM\projectlist\upproject.php on line 128
+[09-Jul-2016 22:11:35 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\createmember\add.php on line 15

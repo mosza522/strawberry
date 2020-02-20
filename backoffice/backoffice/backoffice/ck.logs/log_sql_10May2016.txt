@@ -1,0 +1,88 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:49 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:53 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:09 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:10 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:10 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:10 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:10 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:15 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:15 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:15 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:16 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:16 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:17 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:18 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:18 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:18 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:18 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:19 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:19 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:19 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:19 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 10/05/2016 11:0:19 h
+SQL ERROR : INSERT INTO ck_inscode (inscode_code, inscode_desc) VALUES (NULL, NULL)
+MSG ERROR : Column 'inscode_code' cannot be null
+

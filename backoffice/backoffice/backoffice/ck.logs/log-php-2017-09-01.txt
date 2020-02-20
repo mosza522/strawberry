@@ -1,0 +1,6 @@
+[01-Sep-2017 10:41:18 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'กก' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\newstraw\backoffice\apply_job\home.php on line 153
+[01-Sep-2017 11:35:12 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in C:\xampp\htdocs\newstraw\backoffice\apply_job\home.php on line 14
+[01-Sep-2017 11:35:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in C:\xampp\htdocs\newstraw\backoffice\apply_job\home.php on line 14
+[01-Sep-2017 11:35:45 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\newstraw\backoffice\apply_job\home.php on line 18
+[01-Sep-2017 16:45:02 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delbanner.php on line 7
+[01-Sep-2017 16:45:02 Asia/Bangkok] PHP Warning:  unlink(image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\delbanner.php on line 10

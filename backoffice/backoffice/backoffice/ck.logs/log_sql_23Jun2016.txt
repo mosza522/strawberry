@@ -1,0 +1,12 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2016 10:0:48 h
+SQL ERROR : UPDATE ey_user_admin SET admin_lastlogout="23-06-2016 10:32:48"  WHERE admin_id=1
+MSG ERROR : Table 'lawer.ey_user_admin' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2016 15:0:34 h
+SQL ERROR : SELECT * FROM ey_manu  WHERE menu_name = 'admin'
+MSG ERROR : Table 'lawer.ey_manu' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/06/2016 15:0:48 h
+SQL ERROR : SELECT * FROM ey_manu  WHERE menu_name = 'admin'
+MSG ERROR : Table 'lawer.ey_manu' doesn't exist
+

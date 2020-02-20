@@ -1,0 +1,19 @@
+[04-Jan-2016 14:56:58 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 9
+[04-Jan-2016 15:30:43 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 24
+[04-Jan-2016 15:32:27 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 24
+[04-Jan-2016 15:32:51 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 24
+[04-Jan-2016 15:33:11 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 25
+[04-Jan-2016 15:34:02 Asia/Bangkok] PHP Fatal error:  Call to a member function result() on null in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 27
+[04-Jan-2016 15:35:32 Asia/Bangkok] PHP Fatal error:  Class 'pagelen' not found in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 3
+[04-Jan-2016 15:35:56 Asia/Bangkok] PHP Fatal error:  Call to a member function countRow() on null in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 27
+[04-Jan-2016 15:37:16 Asia/Bangkok] PHP Fatal error:  Call to a member function result() on null in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 27
+[04-Jan-2016 15:52:21 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 61
+[04-Jan-2016 15:52:21 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 61
+[04-Jan-2016 15:59:42 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 43
+[04-Jan-2016 15:59:42 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 43
+[04-Jan-2016 15:59:42 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 43
+[04-Jan-2016 15:59:42 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 24
+[04-Jan-2016 16:00:26 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 43
+[04-Jan-2016 16:00:26 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 43
+[04-Jan-2016 16:00:26 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 43
+[04-Jan-2016 16:00:26 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\promotion\data.php on line 24

@@ -1,0 +1,5 @@
+[09-Oct-2017 09:03:16 Asia/Bangkok] PHP Warning:  unlink(../image/378-ยางรัดผมขนนุ่มหัวหมี (2).j): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60
+[09-Oct-2017 09:36:34 Asia/Bangkok] PHP Warning:  unlink(../image/967-รูปปัดDAY แพ็คกิ้งกระดาษ.j): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60
+[09-Oct-2017 14:24:06 Asia/Bangkok] PHP Warning:  unlink(../image/414-ถ้วยแก้วแอ๊ปเปิ้ลMB-129-5.): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60
+[09-Oct-2017 14:24:22 Asia/Bangkok] PHP Warning:  unlink(../image/2-ถ้วยแก้วแอ๊ปเปิ้ลMB-129-5.jp): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60
+[09-Oct-2017 14:32:27 Asia/Bangkok] PHP Warning:  unlink(../image/395-ถ้วยแก้วไอศครีม MIC-003.jp): No such file or directory in /home/strawberry/domains/strawberry-club.com/public_html/backoffice/product/update.php on line 60

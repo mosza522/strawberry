@@ -1,0 +1,16 @@
+[08-Sep-2017 10:24:09 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\map\add.php on line 5
+[08-Sep-2017 10:25:42 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\map\add.php on line 5
+[08-Sep-2017 10:26:30 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\map\add.php on line 5
+[08-Sep-2017 10:26:49 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\map\add.php on line 5
+[08-Sep-2017 17:56:06 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:57:54 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:58:04 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:58:23 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:58:33 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:58:43 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:58:53 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:59:02 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:59:12 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:59:22 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:59:33 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17
+[08-Sep-2017 17:59:50 Asia/Bangkok] PHP Warning:  unlink(../image/): Permission denied in C:\xampp\htdocs\newstraw\backoffice\product\update.php on line 17

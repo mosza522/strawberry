@@ -1,0 +1,453 @@
+[31-Oct-2016 22:29:34 Asia/Bangkok] PHP Warning:  include(report-emp/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 86
+[31-Oct-2016 22:29:34 Asia/Bangkok] PHP Warning:  include(): Failed opening 'report-emp/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 86
+[31-Oct-2016 22:29:44 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:29:44 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:29:54 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:29:54 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:30:04 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:30:04 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:30:14 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:30:14 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:30:24 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:30:24 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:30:34 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:30:34 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:30:44 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:30:44 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:30:54 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:30:54 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:31:04 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:31:04 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:31:14 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:31:14 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:31:24 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:31:24 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:31:34 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:31:34 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:31:44 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:31:44 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:31:54 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:31:54 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:32:19 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:32:19 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:32:34 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:32:34 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:32:44 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:32:44 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:32:54 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:32:54 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:33:09 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:33:09 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:33:19 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:33:19 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:33:29 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:33:29 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:33:39 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:33:39 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:33:49 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:33:49 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:33:59 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:33:59 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:34:09 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:34:09 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:34:19 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:34:19 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:34:29 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:34:29 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:34:39 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:34:39 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:34:49 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:34:49 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:34:59 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:34:59 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:35:09 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:35:09 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:35:19 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:35:19 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:35:29 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:35:29 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:35:39 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:35:39 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:35:49 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:35:49 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:35:59 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:35:59 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:36:40 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:36:40 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:36:50 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:36:50 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:37:16 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:37:16 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:37:31 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:37:31 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:37:41 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:37:41 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:37:51 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:37:51 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:38:01 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:38:01 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:38:12 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:38:12 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:38:22 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:38:22 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:38:32 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:38:32 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:38:42 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:38:42 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:38:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:38:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:39:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:39:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:39:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:39:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:39:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:39:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:39:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:39:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:39:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:39:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:39:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:39:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:40:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:40:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:40:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:40:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:40:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:40:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:40:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:40:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:40:49 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:40:49 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:40:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:40:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:41:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:41:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:41:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:41:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:41:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:41:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:41:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:41:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:41:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:41:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:41:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:41:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:42:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:42:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:42:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:42:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:42:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:42:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:42:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:42:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:42:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:42:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:42:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:42:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:43:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:43:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:43:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:43:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:43:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:43:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:43:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:43:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:43:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:43:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:43:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:43:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:44:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:44:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:44:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:44:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:44:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:44:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:44:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:44:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:44:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:44:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:44:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:44:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:45:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:45:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:45:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:45:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:45:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:45:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:45:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:45:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:45:49 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:45:49 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:45:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:45:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:46:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:46:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:46:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:46:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:46:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:46:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:46:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:46:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:46:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:46:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:46:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:46:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:47:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:47:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:47:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:47:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:47:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:47:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:47:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:47:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:47:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:47:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:47:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:47:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:48:09 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:48:09 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:48:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:48:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:48:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:48:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:48:39 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:48:39 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:48:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:48:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:48:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:48:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:49:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:49:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:49:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:49:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:49:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:49:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:49:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:49:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:49:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:49:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:49:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:49:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:50:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:50:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:50:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:50:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:50:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:50:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:50:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:50:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:50:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:50:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:50:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:50:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:51:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:51:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:51:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:51:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:51:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:51:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:51:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:51:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:51:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:51:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:51:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:51:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:52:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:52:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:52:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:52:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:52:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:52:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:52:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:52:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:52:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:52:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:52:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:52:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:53:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:53:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:53:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:53:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:53:28 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:53:28 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:53:38 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:53:38 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:53:48 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:53:48 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:53:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:53:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:54:08 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:54:08 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:54:18 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:54:18 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:54:32 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 22:54:32 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 22:57:45 Asia/Bangkok] PHP Fatal error:  Class 'SMTP' not found in C:\xampp\htdocs\CRM\PHPmailler\class.phpmailer.php on line 1466
+[31-Oct-2016 22:57:46 Asia/Bangkok] PHP Fatal error:  Class 'SMTP' not found in C:\xampp\htdocs\CRM\PHPmailler\class.phpmailer.php on line 1466
+[31-Oct-2016 22:58:13 Asia/Bangkok] PHP Fatal error:  Class 'SMTP' not found in C:\xampp\htdocs\CRM\PHPmailler\class.phpmailer.php on line 1466
+[31-Oct-2016 23:05:01 Asia/Bangkok] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in C:\xampp\htdocs\CRM\PHPmailler\class.smtp.php on line 355
+[31-Oct-2016 23:05:09 Asia/Bangkok] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in C:\xampp\htdocs\CRM\PHPmailler\class.smtp.php on line 355
+[31-Oct-2016 23:12:24 Asia/Bangkok] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in C:\xampp\htdocs\CRM\PHPmailler\class.smtp.php on line 355
+[31-Oct-2016 23:16:25 Asia/Bangkok] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in C:\xampp\htdocs\CRM\PHPmailler\class.smtp.php on line 355
+[31-Oct-2016 23:29:35 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:29:35 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:29:45 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:29:45 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:29:55 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:29:55 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:30:05 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:30:05 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:30:15 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:30:15 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:30:25 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:30:25 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:30:35 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:30:35 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:30:45 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:30:45 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:31:01 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:31:01 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:31:30 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:31:30 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:31:30 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:31:30 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:31:30 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:31:30 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:31:35 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:31:35 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:31:45 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:31:45 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:32:17 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:32:17 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:32:27 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:32:27 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:32:37 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:32:37 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:32:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:32:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:32:58 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:32:58 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:33:07 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:33:07 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:33:17 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:33:17 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:33:27 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:33:27 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:49:46 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:49:46 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:49:56 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:49:56 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:50:06 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:50:06 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:50:16 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:50:16 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:50:26 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:50:26 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:50:40 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:50:40 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:50:50 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:50:50 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:51:00 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:51:00 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:51:10 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:51:10 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:51:20 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:51:20 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:51:30 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:51:30 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:51:40 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:51:40 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:51:50 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:51:50 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:52:00 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:52:00 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:52:10 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:52:10 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:52:20 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:52:20 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:52:30 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:52:30 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:52:40 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:52:40 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:52:50 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:52:50 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:53:00 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:53:00 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:53:10 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:53:10 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:53:20 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:53:20 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:53:30 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:53:30 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:53:40 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:53:40 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:53:51 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:53:51 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:54:01 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:54:01 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:54:11 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:54:11 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:54:21 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:54:21 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:54:31 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:54:31 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:54:56 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:54:56 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:55:06 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:55:06 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:55:16 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:55:16 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:55:27 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:55:27 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:55:55 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:55:55 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:56:05 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:56:05 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:56:15 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:56:15 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:56:25 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:56:25 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:56:35 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:56:35 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:56:45 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:56:45 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:56:55 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:56:55 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:57:05 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:57:05 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:57:15 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:57:15 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:57:25 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:57:25 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:57:35 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:57:35 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:57:47 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:57:47 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:57:57 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:57:57 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:58:07 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:58:07 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:58:17 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:58:17 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:58:27 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:58:27 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:58:37 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:58:37 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:58:47 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:58:47 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:59:00 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:59:00 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:59:07 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:59:07 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:59:17 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:59:17 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:59:27 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:59:27 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:59:52 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:59:52 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18
+[31-Oct-2016 23:59:52 Asia/Bangkok] PHP Warning:  fopen(uploadfile/new.csv): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 12
+[31-Oct-2016 23:59:52 Asia/Bangkok] PHP Warning:  fgetcsv() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\CRM\backoffice\importfile.php on line 18

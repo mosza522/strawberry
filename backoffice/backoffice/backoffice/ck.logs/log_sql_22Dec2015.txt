@@ -1,0 +1,21 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/12/2015 13:0:53 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : No connection could be made because the target machine actively refused it.
+
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/12/2015 13:0:36 h
+SQL ERROR : SELECT * FROM ck_subpromotion    ORDER BY promotion asc  LIMIT 0, 25
+MSG ERROR : Unknown column 'promotion' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/12/2015 13:0:53 h
+SQL ERROR : SELECT * FROM ck_subpromotion    ORDER BY promotion asc  LIMIT 0, 25
+MSG ERROR : Unknown column 'promotion' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/12/2015 16:0:46 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_listgrouptour  WHERE sgdocno=SG00000001 
+MSG ERROR : Unknown column 'SG00000001' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/12/2015 16:0:28 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_listgrouptour  WHERE sgdocno=SG00000001 
+MSG ERROR : Unknown column 'SG00000001' in 'where clause'
+

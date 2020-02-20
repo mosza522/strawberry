@@ -1,0 +1,1 @@
+[14-Jan-2017 12:24:45 Asia/Bangkok] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in C:\xampp\htdocs\CRM\query.php on line 15

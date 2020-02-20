@@ -1,0 +1,5 @@
+[14-Dec-2015 17:22:23 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 176
+[14-Dec-2015 17:22:44 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 176
+[14-Dec-2015 17:23:22 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 176
+[14-Dec-2015 17:23:52 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 176
+[14-Dec-2015 17:25:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in C:\xampp_new\htdocs\snakemuseum\main\admin\show.php on line 177

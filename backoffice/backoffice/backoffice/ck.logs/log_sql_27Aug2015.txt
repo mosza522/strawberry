@@ -1,0 +1,36 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2015 09:0:55 h
+SQL ERROR : INSERT INTO tbl_l1_2 (L1_2During, L1_2_1x1, L1_2_1x2, L1_2_1x3, L1_2_1x4, L1_2_2x1, L1_2_2x2, L1_2_2x3, L1_2_2x4, L1_2_3x1, L1_2_3x2, L1_2_3x3, L1_2_3x4, L1_2_4x1, L1_2_4x2, L1_2_4x3, L1_2_4x4, L1_2_5x1, L1_2_5x2, L1_2_5x3, L1_2_5x4, L1_2_6x0, L1_2_6x1, L1_2_6x2, L1_2_6x3, L1_2_6x4, L1_2_note1, L1_2_note2, L1_2_note3, L1_2_note4, L1_2_note5, L1_2_note6, L1_2_remain, L1_2_show) VALUES ('22 กรกฎาคม 2558 - 27 สิงหาคม 2558', '346', '1154', '435520', '437020', '-', '-', '763', '763', '1', '11', '468', '480', '-', '-', '593', '593', '-', '-', '318', '318', 'ยอดยกไป ส.ค. 58', '345', '1143', '435540', '437028', '21 มิ.ย. 58', '', '', '', '', 'ณ 22 ก.ค. 58', NULL, '0')
+MSG ERROR : Column 'L1_2_remain' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2015 09:0:56 h
+SQL ERROR : INSERT INTO tbl_l1_2 (L1_2During, L1_2_1x1, L1_2_1x2, L1_2_1x3, L1_2_1x4, L1_2_2x1, L1_2_2x2, L1_2_2x3, L1_2_2x4, L1_2_3x1, L1_2_3x2, L1_2_3x3, L1_2_3x4, L1_2_4x1, L1_2_4x2, L1_2_4x3, L1_2_4x4, L1_2_5x1, L1_2_5x2, L1_2_5x3, L1_2_5x4, L1_2_6x0, L1_2_6x1, L1_2_6x2, L1_2_6x3, L1_2_6x4, L1_2_note1, L1_2_note2, L1_2_note3, L1_2_note4, L1_2_note5, L1_2_note6, L1_2_remain, L1_2_show) VALUES ('22 กรกฎาคม 2558 - 27 สิงหาคม 2558', '346', '1154', '435520', '437020', '-', '-', '763', '763', '1', '11', '468', '480', '-', '-', '593', '593', '-', '-', '318', '318', 'ยอดยกไป ส.ค. 58', '345', '1143', '435540', '437028', '21 มิ.ย. 58', '', '', '', '', 'ณ 22 ก.ค. 58', NULL, '0')
+MSG ERROR : Column 'L1_2_remain' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2015 10:0:01 h
+SQL ERROR : UPDATE tbl_l1_1 SET L1_3FileName = 'list1_0001earth.pdf'  WHERE L1_3ID = '1'
+MSG ERROR : Unknown column 'L1_3ID' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2015 10:0:06 h
+SQL ERROR : UPDATE tbl_l1_1 SET L1_3FileName = 'list1_0002earth.pdf'  WHERE L1_3ID = '2'
+MSG ERROR : Unknown column 'L1_3ID' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2015 10:0:58 h
+SQL ERROR : UPDATE tbl_l1_1 SET L1_3FileName = 'list1_0003earth.pdf'  WHERE L1_3ID = '3'
+MSG ERROR : Unknown column 'L1_3ID' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2015 12:0:53 h
+SQL ERROR : SELECT * FROM tbl_l1_2    ORDER BY L2_2ID desc  LIMIT 0, 25
+MSG ERROR : Unknown column 'L2_2ID' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2015 15:0:33 h
+SQL ERROR : INSERT INTO tbl_news (temple_name, temple_count_hall) VALUES ('วัดโสมนัสวิหาร', '5')
+MSG ERROR : Unknown column 'temple_name' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2015 15:0:05 h
+SQL ERROR : SELECT * FROM tbl_cremate    ORDER BY cremate_id desc  LIMIT 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2015 17:0:58 h
+SQL ERROR : INSERT INTO tbl_cremate (cremate_temple, cremate_member, cremate_host, cremate_die_day, cremate_start_day, cremate_end_day, cremate_start_time, cremate_end_time, cremate_hall, cremate_detail) VALUES ('1', 'test', 'testhost', '2015-08-27', '2015-08-28', '2015-08-31', '18:00', '21:30', '2', NULL)
+MSG ERROR : Column 'cremate_detail' cannot be null
+

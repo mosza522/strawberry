@@ -1,0 +1,108 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 13:0:39 h
+SQL ERROR : Database Select DB Fail
+MSG ERROR : Unknown database 'newback'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 13:0:47 h
+SQL ERROR : Database Select DB Fail
+MSG ERROR : Unknown database 'newback'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 14:0:04 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_sort, news_pic, new_create) VALUES ('พพพะะ', 'ttty', 'ยยยยยย', 'gghhhj', 'hhhh', '20170117140503.png', '2017-01-17 14:05:04')
+MSG ERROR : Unknown column 'news_sort' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 14:0:45 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยย', 'pppp', 'ยยยยยยยยยยยยยยยยย', 'pppppppppppppppppp', '20170117142944.png', '2017-01-17 14:29:45', '2017-01-17 14:29:45')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:23 h
+SQL ERROR : INSERT INTO tb_tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยย', 'pppp', 'ยยยยยยยยยยยยยยยยย', 'pppppppppppppppppp', '20170117150322.png', '2017-01-17 15:03:23', '2017-01-17 15:03:23')
+MSG ERROR : Table 'kenner.tb_tb_news' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:27 h
+SQL ERROR : INSERT INTO tb_tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('สสสสสสสสสสสสสสสสส', 'lllllllllllllllllllllllllllllllllllllllllllllll', 'ยยยยยยยยยยยยยยยยยยยยย', 'pppppppppppppppppppppp', '20170117152627.png', '2017-01-17 15:26:27', '2017-01-17 15:26:27')
+MSG ERROR : Table 'kenner.tb_tb_news' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:45 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'ppppppppppppppp', 'ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppppppppppppppppp', '20170117154545.png', '2017-01-17 15:45:45', '2017-01-17 15:45:45')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:46 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'ppppppppppppppp', 'ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppppppppppppppppp', '20170117154546.png', '2017-01-17 15:45:46', '2017-01-17 15:45:46')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:15 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'ppppppppppppppp', 'ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppppppppppppppppppp', '20170117154614.png', '2017-01-17 15:46:15', '2017-01-17 15:46:15')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:26 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'ppppppppppppppp', 'ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppppppppppppppppppp', '20170117155226.png', '2017-01-17 15:52:26', '2017-01-17 15:52:26')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:28 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'ppppppppppppppp', 'ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppppppppppppppppppp', '20170117155228.png', '2017-01-17 15:52:28', '2017-01-17 15:52:28')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:29 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'ppppppppppppppp', 'ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppppppppppppppppppp', '20170117155229.png', '2017-01-17 15:52:29', '2017-01-17 15:52:29')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:29 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'ppppppppppppppp', 'ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppppppppppppppppppp', '20170117155229.png', '2017-01-17 15:52:29', '2017-01-17 15:52:29')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:45 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'pppp', 'ยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppp', '20170117155345.png', '2017-01-17 15:53:45', '2017-01-17 15:53:45')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:46 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'pppp', 'ยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppp', '20170117155346.png', '2017-01-17 15:53:46', '2017-01-17 15:53:46')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 15:0:47 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'pppp', 'ยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppp', '20170117155347.png', '2017-01-17 15:53:47', '2017-01-17 15:53:47')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 16:0:18 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'pppp', 'ยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppp', '20170117160018.png', '2017-01-17 16:00:18', '2017-01-17 16:00:18')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 16:0:35 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'pppp', 'ยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppp', '20170117160135.png', '2017-01-17 16:01:35', '2017-01-17 16:01:35')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 16:0:14 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'pppp', 'ยยยยยยยยยยยยยยยยยยยยยย', 'ppppppppppppppppppppp', '20170117160814.png', '2017-01-17 16:08:14', '2017-01-17 16:08:14')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 17:0:17 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('สสสสสสสสสส', 'ppppppppppp', 'พดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดด', 'rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr', '20170117173816.png', '2017-01-17 17:38:17', '2017-01-17 17:38:17')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 18:0:24 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('สสสสสสสสสส', 'ppppppppppp', 'พดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดด', 'rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr', '20170117180024.png', '2017-01-17 18:00:24', '2017-01-17 18:00:24')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 18:0:29 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('สสสสสสสสสส', 'ppppppppppp', 'พดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดด', 'rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr', '20170117180029.png', '2017-01-17 18:00:29', '2017-01-17 18:00:29')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 18:0:42 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('สสสสสสสสสส', 'ppppppppppp', 'พดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดด', 'rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr', '20170117180042.png', '2017-01-17 18:00:42', '2017-01-17 18:00:42')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 20:0:15 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('สสสสสสสสสส', 'ppppppppppp', 'พดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดด', 'rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr', '20170117203915.png', '2017-01-17 20:39:15', '2017-01-17 20:39:15')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 20:0:56 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('สสสสสสสสสสสสสสสสส', 'ppppppppppppppp', 'พพพพพพพพพพพพพพพพพพพพพพพพพพพพพ', 'rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr', '20170117204955.png', '2017-01-17 20:49:56', '2017-01-17 20:49:56')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 20:0:31 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'ppppppppppppppp', 'พพพพพพพพพพพพพพพพ', 'ppppppppppppppppp', '20170117205031.png', '2017-01-17 20:50:31', '2017-01-17 20:50:31')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 17/01/2017 20:0:33 h
+SQL ERROR : INSERT INTO tb_news (news_titleth, news_titleen, news_detailth, news_detailen, news_pic, new_create, new_update) VALUES ('ยยยยยยยยยยยยยยยยย', 'ppppppppppppppp', 'พพพพพพพพพพพพพพพพ', 'ppppppppppppppppp', '20170117205032.png', '2017-01-17 20:50:33', '2017-01-17 20:50:33')
+MSG ERROR : Unknown column 'new_update' in 'field list'
+

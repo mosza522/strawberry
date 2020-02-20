@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : 180.183.105.236 	DATE/TIME : 30/11/2016 11:0:33 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'root'@'localhost' (using password: NO)
+

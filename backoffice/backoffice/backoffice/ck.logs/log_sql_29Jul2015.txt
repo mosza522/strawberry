@@ -1,0 +1,32 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/07/2015 13:0:27 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zaoft'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/07/2015 13:0:24 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zaoft'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/07/2015 13:0:26 h
+SQL ERROR : Database Connect Fail
+MSG ERROR : Access denied for user 'zaoft'@'localhost' (using password: YES)
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/07/2015 17:0:23 h
+SQL ERROR : INSERT INTO ck_product (product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('53', 'test', 'test', '', '', '', '', NULL)
+MSG ERROR : Column 'product_pin' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/07/2015 17:0:26 h
+SQL ERROR : INSERT INTO ck_product (product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('53', 'test', 'test', '', '', '', '', NULL)
+MSG ERROR : Column 'product_pin' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/07/2015 17:0:27 h
+SQL ERROR : INSERT INTO ck_product (product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('53', 'test', 'test', '', '', '', '', NULL)
+MSG ERROR : Column 'product_pin' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/07/2015 17:0:10 h
+SQL ERROR : SELECT * FROM ck_product    ORDER BY type_id asc  LIMIT 0, 25
+MSG ERROR : Unknown column 'type_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/07/2015 17:0:52 h
+SQL ERROR : SELECT * FROM ck_product    ORDER BY type_id asc  LIMIT 0, 25
+MSG ERROR : Unknown column 'type_id' in 'order clause'
+

@@ -1,0 +1,29 @@
+[23-Aug-2016 11:26:36 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 98
+[23-Aug-2016 11:26:38 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 98
+[23-Aug-2016 11:42:51 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php on line 5
+[23-Aug-2016 11:43:20 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:43:20 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:43:25 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:43:25 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:43:48 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:43:48 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:44:57 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:44:57 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:45:09 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php on line 5
+[23-Aug-2016 11:46:07 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php on line 5
+[23-Aug-2016 11:46:09 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php on line 5
+[23-Aug-2016 11:47:47 Asia/Bangkok] PHP Fatal error:  Cannot redeclare required() (previously declared in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php:2) in C:\xampp\htdocs\CRM\backoffice\backoffice\backoffice\general.php on line 5
+[23-Aug-2016 11:48:43 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:48:43 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:49:27 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:49:27 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:49:38 Asia/Bangkok] PHP Warning:  require(../dbcon.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:49:38 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../dbcon.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 11:50:10 Asia/Bangkok] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 2
+[23-Aug-2016 13:50:33 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 19
+[23-Aug-2016 13:50:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 19
+[23-Aug-2016 13:51:01 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 19
+[23-Aug-2016 15:15:20 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\CRM\backoffice\voucher-user\update.php on line 38
+[23-Aug-2016 15:16:47 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\CRM\backoffice\voucher-user\update.php on line 38
+[23-Aug-2016 15:19:09 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\CRM\backoffice\voucher-user\update.php on line 38
+[23-Aug-2016 15:19:57 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\CRM\backoffice\voucher-user\update.php on line 38

@@ -1,0 +1,7 @@
+[02-Dec-2016 13:24:01 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\newback\about_us.php on line 347
+[02-Dec-2016 14:28:53 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2859
+[02-Dec-2016 14:28:53 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2886
+[02-Dec-2016 14:28:53 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\news\class.upload.php on line 2904
+[02-Dec-2016 15:02:53 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\visa\class.upload.php on line 2859
+[02-Dec-2016 15:02:53 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\visa\class.upload.php on line 2886
+[02-Dec-2016 15:02:53 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\newback\backoffice\visa\class.upload.php on line 2904

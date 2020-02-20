@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/06/2016 11:0:00 h
+SQL ERROR : INSERT INTO ey_project (project_code, project_company, project_lawyer, project_status, project_activate, project_name, project_note, project_admin_id, project_create) VALUES ('BiJyLAPM', 'Thai PET Resin Co., Ltd.', 'วิศิษฎ์ เหมพรวิสาร,วิศิษฎ์ เหมพรวิสาร', 'action', 'enable', 'test', 'test', '1', '28/06/2016 11:48 AM')
+MSG ERROR : Unknown column 'project_activate' in 'field list'
+

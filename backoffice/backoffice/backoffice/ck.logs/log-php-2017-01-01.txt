@@ -1,0 +1,14 @@
+[01-Jan-2017 11:56:20 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:56:21 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:56:21 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:56:41 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:56:41 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:56:42 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:56:57 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:56:57 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:56:58 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:56:58 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:57:57 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:58:07 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:58:08 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in C:\xampp\htdocs\CRM\query.php on line 16
+[01-Jan-2017 11:58:08 Asia/Bangkok] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in C:\xampp\htdocs\CRM\query.php on line 16

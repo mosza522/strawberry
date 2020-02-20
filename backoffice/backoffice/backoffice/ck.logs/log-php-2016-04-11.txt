@@ -1,0 +1,19 @@
+[11-Apr-2016 10:47:40 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\Vtiger\insurance\addinsurance.php on line 16
+[11-Apr-2016 10:47:50 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\Vtiger\insurance\addinsurance.php on line 16
+[11-Apr-2016 11:07:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ';' in D:\xampp\htdocs\Vtiger\insurance\show.php on line 56
+[11-Apr-2016 11:07:13 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ';' in D:\xampp\htdocs\Vtiger\insurance\show.php on line 56
+[11-Apr-2016 16:29:10 Asia/Bangkok] PHP Warning:  include(insurance/eventup.php?id=2): failed to open stream: No such file or directory in D:\xampp\htdocs\Vtiger\maininsurance.php on line 81
+[11-Apr-2016 16:29:10 Asia/Bangkok] PHP Warning:  include(): Failed opening 'insurance/eventup.php?id=2' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\Vtiger\maininsurance.php on line 81
+[11-Apr-2016 16:30:14 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:30:14 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:30:39 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:30:39 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:31:54 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:31:54 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:32:34 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:32:34 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:32:46 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:32:46 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:33:11 Asia/Bangkok] PHP Warning:  require(D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php): failed to open stream: No such file or directory in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:33:11 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'D:\xampp\htdocs\Vtiger\backoffice\backoffice\ks.define.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\backoffice\init.php on line 19
+[11-Apr-2016 16:33:50 Asia/Bangkok] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in D:\xampp\htdocs\Vtiger\insurance\eventup.php on line 65

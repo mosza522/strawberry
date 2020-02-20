@@ -1,0 +1,9 @@
+[04-Apr-2016 14:13:13 Asia/Bangkok] PHP Warning:  include(insurance/insurance/eventadd.php): failed to open stream: No such file or directory in D:\xampp\htdocs\Vtiger\maininsurance.php on line 77
+[04-Apr-2016 14:13:13 Asia/Bangkok] PHP Warning:  include(): Failed opening 'insurance/insurance/eventadd.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\Vtiger\maininsurance.php on line 77
+[04-Apr-2016 15:30:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in D:\xampp\htdocs\Vtiger\insurance\eventadd.php on line 32
+[04-Apr-2016 15:31:04 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '{' in D:\xampp\htdocs\Vtiger\insurance\eventadd.php on line 32
+[04-Apr-2016 15:31:39 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\Vtiger\insurance\eventadd.php on line 31
+[04-Apr-2016 15:32:56 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\Vtiger\insurance\eventadd.php on line 31
+[04-Apr-2016 15:33:27 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\Vtiger\insurance\eventadd.php on line 31
+[04-Apr-2016 15:34:47 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\Vtiger\insurance\eventadd.php on line 31
+[04-Apr-2016 15:38:54 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\Vtiger\insurance\eventadd.php on line 31

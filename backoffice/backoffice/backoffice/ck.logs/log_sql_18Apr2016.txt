@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/04/2016 09:0:59 h
+SQL ERROR : INSERT INTO ck_work (cus_name, cus_tel, cus_email, insurance_id, work_date) VALUES (NULL, NULL, 'test', '2', '2016-04-18')
+MSG ERROR : Column 'cus_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/04/2016 09:0:04 h
+SQL ERROR : INSERT INTO ck_work (cus_name, cus_tel, cus_email, insurance_id, work_date) VALUES (NULL, NULL, 'test', '2', '2016-04-18')
+MSG ERROR : Column 'cus_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/04/2016 15:0:53 h
+SQL ERROR : INSERT INTO ck_salework (sale_id, work_id, status, salework_date) VALUES (NULL, '2', 'w', '2016-04-18')
+MSG ERROR : Column 'sale_id' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/04/2016 15:0:57 h
+SQL ERROR : INSERT INTO ck_salework (sale_id, work_id, status, salework_date) VALUES (NULL, '2', 'w', '2016-04-18')
+MSG ERROR : Column 'sale_id' cannot be null
+

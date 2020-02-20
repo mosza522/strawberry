@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 22/01/2015 01:0:15 h
+SQL ERROR : DELETE FROM ck_newpromo  WHERE product_id = '13'
+MSG ERROR : Unknown column 'product_id' in 'where clause'
+

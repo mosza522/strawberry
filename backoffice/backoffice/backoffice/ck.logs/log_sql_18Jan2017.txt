@@ -1,0 +1,36 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/01/2017 15:0:54 h
+SQL ERROR : UPDATE tb_news SET news_titleth = 'ประชาสัมพันธ์', news_titleen = 'rrrrrrrrrrrrpeetere', news_detailth = 'ดดดดดดดดดนนนนนนนนนนกกกก', news_detailen = 'geopthhrthptbktokfvverkopt3', news_pic = '20170118150119.png', new_create = '2017-01-18 15:02:54', new_update = '2017-01-18 15:02:54'  WHERE news_id = '9'
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/01/2017 15:0:53 h
+SQL ERROR : UPDATE tb_news SET news_titleth = 'ประชาสัมพันธ์', news_titleen = 'rrrrrrrrrrrrpeetere', news_detailth = 'ดดดดดดดดดนนนนนนนนนนกกกก', news_detailen = 'geopthhrthptbktokfvverkopt3p', news_pic = '20170118150119.png', new_create = '2017-01-18 15:04:53', new_update = '2017-01-18 15:04:53'  WHERE news_id = '9'
+MSG ERROR : Unknown column 'new_update' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/01/2017 17:0:57 h
+SQL ERROR : INSERT INTO tb_video (video_titleth, video_titleen, video_pic, video_create) VALUES (NULL, NULL, NULL, '2017-01-18 17:21:57')
+MSG ERROR : Unknown column 'video_pic' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/01/2017 17:0:03 h
+SQL ERROR : INSERT INTO tb_video (video_titleth, video_titleen, video_pic, video_create) VALUES (NULL, NULL, NULL, '2017-01-18 17:22:03')
+MSG ERROR : Unknown column 'video_pic' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/01/2017 17:0:33 h
+SQL ERROR : INSERT INTO tb_video (video_titleth, video_titleen, video_pic, video_create) VALUES (NULL, NULL, NULL, '2017-01-18 17:23:33')
+MSG ERROR : Unknown column 'video_pic' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/01/2017 17:0:27 h
+SQL ERROR : INSERT INTO tb_video (video_titleth, video_titleen, video_pic, video_create) VALUES (NULL, NULL, NULL, '2017-01-18 17:30:27')
+MSG ERROR : Column 'video_titleth' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/01/2017 17:0:17 h
+SQL ERROR : INSERT INTO tb_video (video_titleth, video_titleen, video_pic, video_create) VALUES (NULL, NULL, NULL, '2017-01-18 17:31:17')
+MSG ERROR : Column 'video_titleth' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/01/2017 22:0:52 h
+SQL ERROR : INSERT INTO tb_pdblade (name_titleth, name_titleen, detailth_pd, detailen_pd, img_pdblade, new_create) VALUES ('1', '1', '1', '1', '20170118221252.jpg', '2017-01-18 22:12:52')
+MSG ERROR : Unknown column 'new_create' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 18/01/2017 22:0:45 h
+SQL ERROR : INSERT INTO tb_pdblade (name_titleth, name_titleen, detailth_pd, detailen_pd, img_pdblade, new_create) VALUES ('1', '1', '1', '1', '20170118221345.jpg', '2017-01-18 22:13:45')
+MSG ERROR : Unknown column 'new_create' in 'field list'
+

@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 20/01/2016 17:0:49 h
+SQL ERROR : DELETE FROM ck_istgrouptour  WHERE sgdocno = 'SG00000002'
+MSG ERROR : Table 'siamserpentarium.ck_istgrouptour' doesn't exist
+

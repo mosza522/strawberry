@@ -1,0 +1,30 @@
+[04-Dec-2016 18:30:07 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_u6n1ke1d77092a1lpdoggqu7e4, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:30:07 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:30:09 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:30:09 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:30:14 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:30:14 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:30:31 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:30:31 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:31:19 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:31:19 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:31:30 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:31:30 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:31:34 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:31:34 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:31:54 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:31:54 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:31:57 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:31:57 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:32:07 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:32:07 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:32:14 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:32:14 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:32:18 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:32:18 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:32:21 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:32:21 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:55:38 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:55:38 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+[04-Dec-2016 18:55:41 Asia/Bangkok] PHP Warning:  Unknown: open(/tmp/sess_fle6qqg5klol8lvmco92g52601, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Dec-2016 18:55:41 Asia/Bangkok] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0

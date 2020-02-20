@@ -1,0 +1,7 @@
+[15-Jan-2016 13:54:20 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\tranfer1\changeticket.php on line 9
+[15-Jan-2016 13:55:22 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\tranfer1\changeticket.php on line 9
+[15-Jan-2016 15:17:35 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\voucherticket.php on line 72
+[15-Jan-2016 15:21:43 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\voucherticket.php on line 75
+[15-Jan-2016 15:21:43 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\voucherticket.php on line 77
+[15-Jan-2016 15:22:17 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\voucherticket.php on line 77
+[15-Jan-2016 15:23:21 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\voucherticket.php on line 77

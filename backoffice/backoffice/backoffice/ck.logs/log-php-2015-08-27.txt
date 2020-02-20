@@ -1,0 +1,9 @@
+[27-Aug-2015 08:52:06 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '','' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\addendaA\view\frm-index.php on line 339
+[27-Aug-2015 09:35:20 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ')' in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\addendaA\ck.class.php on line 46
+[27-Aug-2015 09:35:26 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ')' in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\addendaA\ck.class.php on line 46
+[27-Aug-2015 10:19:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\addendaA\ck.class.php on line 42
+[27-Aug-2015 15:30:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\somanutcremate\view\frm-index.php on line 50
+[27-Aug-2015 15:30:40 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\somanutcremate\view\frm-index.php on line 50
+[27-Aug-2015 15:30:41 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\somanutcremate\view\frm-index.php on line 50
+[27-Aug-2015 15:31:34 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\somanutcremate\view\frm-index.php on line 50
+[27-Aug-2015 17:34:40 Asia/Bangkok] PHP Fatal error:  Cannot redeclare DateThai() (previously declared in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\cremate\view\frm-index.php:203) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\cremate\view\frm-index.php on line 346

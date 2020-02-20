@@ -1,0 +1,83 @@
+[24-Aug-2017 09:25:11 Asia/Bangkok] PHP Warning:  Illegal string offset 'name' in C:\xampp\htdocs\newstraw\backoffice\news\add.php on line 75
+[24-Aug-2017 09:25:11 Asia/Bangkok] PHP Warning:  Illegal string offset 'tmp_name' in C:\xampp\htdocs\newstraw\backoffice\news\add.php on line 76
+[24-Aug-2017 09:28:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'name' in C:\xampp\htdocs\newstraw\backoffice\news\add.php on line 75
+[24-Aug-2017 09:28:08 Asia/Bangkok] PHP Warning:  Illegal string offset 'tmp_name' in C:\xampp\htdocs\newstraw\backoffice\news\add.php on line 76
+[24-Aug-2017 10:20:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\newstraw\backoffice\inc_sidebar.php on line 22
+[24-Aug-2017 11:18:28 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 50
+[24-Aug-2017 11:18:28 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 50
+[24-Aug-2017 11:19:13 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 50
+[24-Aug-2017 11:19:13 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 50
+[24-Aug-2017 11:21:35 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:23:32 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:24:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:24:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:24:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:24:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 11:24:16 Asia/Bangkok] PHP Warning:  Illegal string offset 'news_img_name' in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 71
+[24-Aug-2017 13:19:22 Asia/Bangkok] PHP Warning:  require(style_home_album): failed to open stream: No such file or directory in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 2
+[24-Aug-2017 13:19:22 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'style_home_album' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 2
+[24-Aug-2017 13:19:31 Asia/Bangkok] PHP Warning:  require(style_home_album): failed to open stream: No such file or directory in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 2
+[24-Aug-2017 13:19:31 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'style_home_album' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 2
+[24-Aug-2017 13:19:52 Asia/Bangkok] PHP Warning:  require(style_home_album): failed to open stream: No such file or directory in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 2
+[24-Aug-2017 13:19:52 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required 'style_home_album' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\newstraw\backoffice\news\home_album.php on line 2
+[24-Aug-2017 14:06:45 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 162
+[24-Aug-2017 14:06:45 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 177
+[24-Aug-2017 14:06:45 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 195
+[24-Aug-2017 14:08:04 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 162
+[24-Aug-2017 14:08:04 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 177
+[24-Aug-2017 14:08:04 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 195
+[24-Aug-2017 14:08:39 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 162
+[24-Aug-2017 14:08:39 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 177
+[24-Aug-2017 14:08:39 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 195
+[24-Aug-2017 14:08:46 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 177
+[24-Aug-2017 14:08:46 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 195
+[24-Aug-2017 14:09:29 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 178
+[24-Aug-2017 14:09:29 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 196
+[24-Aug-2017 14:09:42 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 178
+[24-Aug-2017 14:09:42 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 196
+[24-Aug-2017 14:09:49 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 178
+[24-Aug-2017 14:09:49 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\xampp\htdocs\newstraw\backoffice\news\light_box.php on line 196
+[24-Aug-2017 14:27:22 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\edit_news_album.php on line 51
+[24-Aug-2017 15:23:02 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 35
+[24-Aug-2017 15:23:02 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 36
+[24-Aug-2017 15:23:16 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 35
+[24-Aug-2017 15:23:16 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 36
+[24-Aug-2017 15:24:00 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 36
+[24-Aug-2017 15:24:00 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 37
+[24-Aug-2017 15:24:01 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 36
+[24-Aug-2017 15:24:01 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 37
+[24-Aug-2017 15:24:01 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 36
+[24-Aug-2017 15:24:01 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 37
+[24-Aug-2017 15:24:01 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 36
+[24-Aug-2017 15:24:01 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 37
+[24-Aug-2017 15:24:02 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 36
+[24-Aug-2017 15:24:02 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 37
+[24-Aug-2017 15:24:02 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 36
+[24-Aug-2017 15:24:02 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\delnews.php on line 37
+[24-Aug-2017 16:18:33 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\news\edit_news_album.php on line 24
+[24-Aug-2017 16:18:33 Asia/Bangkok] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\news\edit_news_album.php on line 42
+[24-Aug-2017 16:18:44 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\news\edit_news_album.php on line 24
+[24-Aug-2017 16:18:44 Asia/Bangkok] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\newstraw\backoffice\news\edit_news_album.php on line 42

@@ -1,0 +1,80 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 16:0:07 h
+SQL ERROR : INSERT INTO tb_gallery (gallery_titleth, gallery_titleen, gallery_cover, gallery_create) VALUES (NULL, NULL, '1479894727_3B7O9UDBBCA354EC757BB3mx.jpg', '2016-11-23 16:52:07')
+MSG ERROR : Column 'gallery_titleth' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 16:0:16 h
+SQL ERROR : INSERT INTO tb_gallery (gallery_titleth, gallery_titleen, gallery_cover, gallery_create) VALUES (NULL, NULL, '1479894736_3B7O9UDBBCA354EC757BB3mx.jpg', '2016-11-23 16:52:16')
+MSG ERROR : Column 'gallery_titleth' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 17:0:33 h
+SQL ERROR : INSERT INTO tb_tb_image (image_gallery_id) VALUES (Array)
+MSG ERROR : Table 'newback.tb_tb_image' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 17:0:44 h
+SQL ERROR : INSERT INTO tb_image (image_gallery_id) VALUES (Array)
+MSG ERROR : Unknown column 'Array' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 17:0:39 h
+SQL ERROR : INSERT INTO tb_image (image_gallery_id) VALUES (Array)
+MSG ERROR : Unknown column 'Array' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 17:0:51 h
+SQL ERROR : INSERT INTO tb_image (image_gallery_id) VALUES (Array)
+MSG ERROR : Unknown column 'Array' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 17:0:08 h
+SQL ERROR : INSERT INTO tb_image (image_pic) VALUES (Array)
+MSG ERROR : Unknown column 'Array' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 17:0:51 h
+SQL ERROR : SELECT gallery_id desc FROM tb_gallery 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc FROM tb_gallery' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 17:0:10 h
+SQL ERROR : SELECT gallery_id desc FROM tb_gallery 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc FROM tb_gallery' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 17:0:15 h
+SQL ERROR : SELECT gallery_id desc FROM tb_gallery 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc FROM tb_gallery' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 18:0:06 h
+SQL ERROR : SELECT gallery_id desc FROM tb_gallery 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc FROM tb_gallery' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 18:0:58 h
+SQL ERROR : SELECT gallery_id asc FROM tb_gallery 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc FROM tb_gallery' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 22:0:54 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id) VALUES (NULL, '2')
+MSG ERROR : Column 'image_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 22:0:57 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id) VALUES (NULL, '3')
+MSG ERROR : Column 'image_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 22:0:00 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id) VALUES (NULL, '4')
+MSG ERROR : Column 'image_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 22:0:45 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id) VALUES (NULL, '5')
+MSG ERROR : Column 'image_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 22:0:33 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id) VALUES (NULL, '6')
+MSG ERROR : Column 'image_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 22:0:41 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id) VALUES (NULL, '7')
+MSG ERROR : Column 'image_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 22:0:59 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id) VALUES (NULL, '8')
+MSG ERROR : Column 'image_pic' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 23/11/2016 22:0:13 h
+SQL ERROR : INSERT INTO tb_image (image_pic, image_gallery_id) VALUES (NULL, '9')
+MSG ERROR : Column 'image_pic' cannot be null
+

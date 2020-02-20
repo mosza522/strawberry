@@ -1,0 +1,2 @@
+[30-Jun-2016 16:04:18 Asia/Bangkok] PHP Warning:  include(profile/show.php): failed to open stream: No such file or directory in D:\xampp\htdocs\new_schedule\main.php on line 85
+[30-Jun-2016 16:04:18 Asia/Bangkok] PHP Warning:  include(): Failed opening 'profile/show.php' for inclusion (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\new_schedule\main.php on line 85

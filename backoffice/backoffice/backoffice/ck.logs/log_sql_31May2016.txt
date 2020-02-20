@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 31/05/2016 17:0:54 h
+SQL ERROR : INSERT INTO ck_act (act_code, act_no, act_start, act_end, act_protect1, act_protect2, act_protect3, act_protect4, act_protect5, act_protect6, act_protect7) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+MSG ERROR : Column 'act_code' cannot be null
+

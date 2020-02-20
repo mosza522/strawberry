@@ -1,0 +1,25 @@
+[21-Sep-2016 13:38:59 Asia/Bangkok] PHP Warning:  include(expired-date/test.php?id=1.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 13:38:59 Asia/Bangkok] PHP Warning:  include(): Failed opening 'expired-date/test.php?id=1.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 13:39:25 Asia/Bangkok] PHP Warning:  include(expired-date/test.php?id=1.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 13:39:25 Asia/Bangkok] PHP Warning:  include(): Failed opening 'expired-date/test.php?id=1.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 13:41:06 Asia/Bangkok] PHP Warning:  include(expired-date/test=1111111111.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 13:41:06 Asia/Bangkok] PHP Warning:  include(): Failed opening 'expired-date/test=1111111111.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 13:41:46 Asia/Bangkok] PHP Warning:  include(expired-date/test.php?=1.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 13:41:46 Asia/Bangkok] PHP Warning:  include(): Failed opening 'expired-date/test.php?=1.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 14:59:59 Asia/Bangkok] PHP Fatal error:  Class 'PHPMailer' not found in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 37
+[21-Sep-2016 15:01:55 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 2
+[21-Sep-2016 15:01:55 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 2
+[21-Sep-2016 15:02:46 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 2
+[21-Sep-2016 15:02:46 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 2
+[21-Sep-2016 15:02:52 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 2
+[21-Sep-2016 15:02:52 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 2
+[21-Sep-2016 15:03:09 Asia/Bangkok] PHP Warning:  require(../backoffice/init.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 2
+[21-Sep-2016 15:03:09 Asia/Bangkok] PHP Fatal error:  require(): Failed opening required '../backoffice/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 2
+[21-Sep-2016 15:53:08 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$serial' (T_VARIABLE) in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 13
+[21-Sep-2016 15:53:37 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$serial' (T_VARIABLE) in C:\xampp\htdocs\CRM\backoffice\voucher-user\cancel.php on line 13
+[21-Sep-2016 19:59:01 Asia/Bangkok] PHP Warning:  include(rate-points/show.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[21-Sep-2016 19:59:01 Asia/Bangkok] PHP Warning:  include(): Failed opening 'rate-points/show.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 85
+[21-Sep-2016 20:03:04 Asia/Bangkok] PHP Warning:  include(rate-points/addex.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 20:03:04 Asia/Bangkok] PHP Warning:  include(): Failed opening 'rate-points/addex.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 20:03:08 Asia/Bangkok] PHP Warning:  include(rate-points/addex.php): failed to open stream: No such file or directory in C:\xampp\htdocs\CRM\backoffice\main.php on line 90
+[21-Sep-2016 20:03:08 Asia/Bangkok] PHP Warning:  include(): Failed opening 'rate-points/addex.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\CRM\backoffice\main.php on line 90

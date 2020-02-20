@@ -1,0 +1,11 @@
+[25-Jan-2016 11:21:25 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\snakemuseum\main\grouptour\show.php on line 525
+[25-Jan-2016 15:16:23 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 117
+[25-Jan-2016 15:16:52 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 117
+[25-Jan-2016 17:10:47 Asia/Bangkok] PHP Warning:  file_put_contents(log/add/log_25-01-2016 17:10:46.txt): failed to open stream: Invalid argument in D:\xampp\htdocs\snakemuseum\main\admin\addadmin.php on line 22
+[25-Jan-2016 17:29:06 Asia/Bangkok] PHP Fatal error:  Class 'Logging' not found in D:\xampp\htdocs\snakemuseum\main\admin\addadmin.php on line 19
+[25-Jan-2016 17:36:05 Asia/Bangkok] PHP Warning:  fopen(log/add/log_add_25-01-2016 17:36:05.txt): failed to open stream: Invalid argument in D:\xampp\htdocs\snakemuseum\main\admin\addadmin.php on line 19
+[25-Jan-2016 17:42:40 Asia/Bangkok] PHP Warning:  fopen(log/add/log_add_25-01-2016 17:42:40.txt): failed to open stream: Invalid argument in D:\xampp\htdocs\snakemuseum\main\admin\addadmin.php on line 19
+[25-Jan-2016 17:44:37 Asia/Bangkok] PHP Warning:  fopen(log/add/log_add_25-01-2016 17:44:37.txt): failed to open stream: Invalid argument in D:\xampp\htdocs\snakemuseum\main\admin\addadmin.php on line 19
+[25-Jan-2016 17:45:45 Asia/Bangkok] PHP Warning:  fopen(log/add/log_add_25-01-2016/17:45:45.txt): failed to open stream: Invalid argument in D:\xampp\htdocs\snakemuseum\main\admin\addadmin.php on line 19
+[25-Jan-2016 17:50:16 Asia/Bangkok] PHP Warning:  fopen(log/add/logadd25/01/2016-17:50:16.txt): failed to open stream: Invalid argument in D:\xampp\htdocs\snakemuseum\main\admin\addadmin.php on line 21
+[25-Jan-2016 17:51:51 Asia/Bangkok] PHP Warning:  fopen(log/add/logadd25_01_2016-17:51:51.txt): failed to open stream: Invalid argument in D:\xampp\htdocs\snakemuseum\main\admin\addadmin.php on line 21

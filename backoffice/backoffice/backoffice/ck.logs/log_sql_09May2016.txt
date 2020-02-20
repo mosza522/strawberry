@@ -1,0 +1,12 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/05/2016 10:0:00 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_salework  WHERE sale_id=3 and sales_status="w" 
+MSG ERROR : Unknown column 'sales_status' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/05/2016 10:0:07 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_salework  WHERE sale_id=3 and sales_status="p" 
+MSG ERROR : Unknown column 'sales_status' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 09/05/2016 13:0:58 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_salework  WHERE sale_id=3 and sales_status="w" 
+MSG ERROR : Unknown column 'sales_status' in 'where clause'
+

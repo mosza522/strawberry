@@ -1,0 +1,5 @@
+[18-Sep-2016 23:53:26 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'useridcard' (T_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 254
+[18-Sep-2016 23:53:29 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'useridcard' (T_STRING) in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 254
+[18-Sep-2016 23:53:40 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '"' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 254
+[18-Sep-2016 23:53:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '"' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 254
+[18-Sep-2016 23:53:44 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '"' in C:\xampp\htdocs\CRM\backoffice\voucher-user\show.php on line 254

@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : 171.98.40.147 	DATE/TIME : 24/07/2015 20:0:34 h
+SQL ERROR : INSERT INTO ck_product (product_images, product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('2015-07-24_20-16-34_877.jpg', '53', 'Coconut_Oil_น้ำมันมะพร้าว_50ml-60', 'Coconut_Oil_น้ำมันมะพร้าว_50ml-60', '', '', '60', '0', NULL)
+MSG ERROR : Column 'product_pin' cannot be null
+
+ERROR : MySql query failed	IP : 171.98.40.147 	DATE/TIME : 24/07/2015 20:0:42 h
+SQL ERROR : INSERT INTO ck_product (product_images, product_type, product_name_en, product_name_th, product_description_en, product_description_th, product_price, product_discount, product_pin) VALUES ('2015-07-24_20-16-42_778.jpg', '53', 'Coconut_Oil_น้ำมันมะพร้าว_50ml-60', 'Coconut_Oil_น้ำมันมะพร้าว_50ml-60', '', '', '60', '0', NULL)
+MSG ERROR : Column 'product_pin' cannot be null
+

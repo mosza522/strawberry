@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/01/2016 13:0:36 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_temporary_ticket  WHERE where NOT status="change" 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where NOT status="change"' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/01/2016 13:0:17 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_temporary_ticket  WHERE where status<>"change" 
+MSG ERROR : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where status<>"change"' at line 1
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/01/2016 14:0:20 h
+SQL ERROR : SELECT * FROM ck_voucher  WHERE voucher = '1'
+MSG ERROR : Unknown column 'voucher' in 'where clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 15/01/2016 15:0:59 h
+SQL ERROR : INSERT INTO ck_ticket (group_tour, count, tic_date, refNo, type_ticket, gateway, gateway_id) VALUES (0, '40', '2016-01-15', '0000003', 1, 'Change from voucher', NULL)
+MSG ERROR : Column 'gateway_id' cannot be null
+

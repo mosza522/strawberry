@@ -1,0 +1,4 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 31/03/2016 11:0:54 h
+SQL ERROR : SELECT * FROM ck_redbook  WHERE redbook_id = '2304'
+MSG ERROR : Unknown column 'redbook_id' in 'where clause'
+

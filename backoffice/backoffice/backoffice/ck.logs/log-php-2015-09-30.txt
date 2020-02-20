@@ -1,0 +1,3 @@
+[30-Sep-2015 10:15:17 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ')' in C:\xampp_new\htdocs\pitak\backoffice\backoffice\member\view\frm-index.php on line 62
+[30-Sep-2015 10:29:29 Asia/Bangkok] PHP Fatal error:  Call to undefined function random_password() in C:\xampp_new\htdocs\pitak\backoffice\backoffice\member\view\frm-index.php on line 82
+[30-Sep-2015 10:29:40 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ')' in C:\xampp_new\htdocs\pitak\backoffice\backoffice\member\view\frm-index.php on line 82

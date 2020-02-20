@@ -1,0 +1,1 @@
+[15-Aug-2017 10:16:16 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '=' in C:\xampp\htdocs\newstraw\backoffice\content\firstpage.php on line 185

@@ -1,0 +1,6 @@
+[21-Jan-2017 13:11:35 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\machine\update.php on line 39
+[21-Jan-2017 14:03:00 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39
+[21-Jan-2017 14:05:22 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2859
+[21-Jan-2017 14:05:22 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2886
+[21-Jan-2017 14:05:22 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\kenner\backoffice\bladeproduct\class.upload.php on line 2904
+[21-Jan-2017 14:05:22 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\kenner\backoffice\bladeproduct\update.php on line 39

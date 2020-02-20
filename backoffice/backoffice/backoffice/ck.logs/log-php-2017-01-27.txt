@@ -1,0 +1,5 @@
+[27-Jan-2017 10:29:33 Asia/Bangkok] PHP Fatal error:  Cannot use object of type stdClass as array in C:\xampp\htdocs\labtech\backoffice\editnewsevent.php on line 68
+[27-Jan-2017 10:38:46 Asia/Bangkok] PHP Fatal error:  Cannot use object of type stdClass as array in C:\xampp\htdocs\labtech\backoffice\editnewsevent.php on line 68
+[27-Jan-2017 11:03:14 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\catagories\update.php on line 38
+[27-Jan-2017 11:03:25 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\catagories\update.php on line 38
+[27-Jan-2017 11:03:33 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\labtech\backoffice\catagories\update.php on line 38

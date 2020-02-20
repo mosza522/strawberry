@@ -1,0 +1,66 @@
+[15-Feb-2017 14:58:40 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\banner\class.upload.php on line 2859
+[15-Feb-2017 14:58:40 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\banner\class.upload.php on line 2886
+[15-Feb-2017 14:58:40 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\banner\class.upload.php on line 2904
+[15-Feb-2017 14:58:49 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\banner\class.upload.php on line 2859
+[15-Feb-2017 14:58:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\banner\class.upload.php on line 2886
+[15-Feb-2017 14:58:50 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\banner\class.upload.php on line 2904
+[15-Feb-2017 14:58:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\banner\class.upload.php on line 2859
+[15-Feb-2017 14:58:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\banner\class.upload.php on line 2886
+[15-Feb-2017 14:58:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\banner\class.upload.php on line 2904
+[15-Feb-2017 15:58:05 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 15:58:05 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2886
+[15-Feb-2017 15:58:05 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 15:58:20 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 15:58:20 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2886
+[15-Feb-2017 15:58:20 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 16:00:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 16:00:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2886
+[15-Feb-2017 16:00:17 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 16:00:31 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 16:00:31 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2886
+[15-Feb-2017 16:00:31 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 16:30:05 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\suminoe\backoffice\news\add.php on line 15
+[15-Feb-2017 16:30:05 Asia/Bangkok] PHP Warning:  trim() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2692
+[15-Feb-2017 16:30:05 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2743
+[15-Feb-2017 16:30:05 Asia/Bangkok] PHP Warning:  mime_content_type(): Can only process string or stream arguments in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2857
+[15-Feb-2017 16:30:05 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 16:30:05 Asia/Bangkok] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2877
+[15-Feb-2017 16:30:05 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 16:31:19 Asia/Bangkok] PHP Warning:  trim() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2692
+[15-Feb-2017 16:31:19 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2743
+[15-Feb-2017 16:31:19 Asia/Bangkok] PHP Warning:  mime_content_type(): Can only process string or stream arguments in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2857
+[15-Feb-2017 16:31:19 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 16:31:19 Asia/Bangkok] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2877
+[15-Feb-2017 16:31:19 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  trim() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2692
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2743
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  mime_content_type(): Can only process string or stream arguments in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2857
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2877
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  trim() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2692
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2743
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  mime_content_type(): Can only process string or stream arguments in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2857
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2877
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  trim() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2692
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2743
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  mime_content_type(): Can only process string or stream arguments in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2857
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2877
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  trim() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2692
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2743
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  mime_content_type(): Can only process string or stream arguments in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2857
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match(): Compilation failed: invalid range in character class at offset 7 in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2859
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  getimagesize() expects parameter 1 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2877
+[15-Feb-2017 16:31:58 Asia/Bangkok] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\xampp\htdocs\suminoe\backoffice\news\class.upload.php on line 2904
+[15-Feb-2017 18:36:50 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\suminoe\backoffice\news\update.php on line 16
+[15-Feb-2017 18:36:50 Asia/Bangkok] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\suminoe\backoffice\news\update.php on line 16
+[15-Feb-2017 21:27:59 Asia/Bangkok] PHP Warning:  copy(C): failed to open stream: No such file or directory in C:\xampp\htdocs\suminoe\backoffice\news\update.php on line 28
+[15-Feb-2017 21:28:06 Asia/Bangkok] PHP Warning:  copy(C): failed to open stream: No such file or directory in C:\xampp\htdocs\suminoe\backoffice\news\update.php on line 28
+[15-Feb-2017 21:51:36 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\suminoe\backoffice\news\update.php on line 21
+[15-Feb-2017 21:52:07 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\suminoe\backoffice\news\update.php on line 21
+[15-Feb-2017 21:52:20 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\suminoe\backoffice\news\update.php on line 21
+[15-Feb-2017 21:53:00 Asia/Bangkok] PHP Warning:  copy(): Filename cannot be empty in C:\xampp\htdocs\suminoe\backoffice\news\update.php on line 21

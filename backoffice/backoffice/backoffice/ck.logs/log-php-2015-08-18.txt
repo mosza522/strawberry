@@ -1,0 +1,2 @@
+[18-Aug-2015 14:56:58 Asia/Bangkok] PHP Fatal error:  Call to a member function render() on null in C:\xampp_new\htdocs\seangthai\backoffice\backoffice\ourservice\view\frm-index.php on line 102
+[18-Aug-2015 14:57:03 Asia/Bangkok] PHP Fatal error:  Call to a member function render() on null in C:\xampp_new\htdocs\seangthai\backoffice\backoffice\ourservice\view\frm-index.php on line 102

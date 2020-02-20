@@ -1,0 +1,32 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/10/2015 15:0:54 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  
+MSG ERROR : Table 'pitak.ck_typedrug' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/10/2015 15:0:58 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  
+MSG ERROR : Table 'pitak.ck_typedrug' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/10/2015 15:0:03 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  
+MSG ERROR : Table 'pitak.ck_typedrug' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/10/2015 15:0:50 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  
+MSG ERROR : Table 'pitak.ck_typedrug' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/10/2015 15:0:57 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_drug  
+MSG ERROR : Table 'pitak.ck_drug' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/10/2015 15:0:04 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  
+MSG ERROR : Table 'pitak.ck_typedrug' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/10/2015 15:0:06 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  
+MSG ERROR : Table 'pitak.ck_typedrug' doesn't exist
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 28/10/2015 15:0:17 h
+SQL ERROR : SELECT COUNT(*) AS cnt FROM ck_typedrug  
+MSG ERROR : Table 'pitak.ck_typedrug' doesn't exist
+

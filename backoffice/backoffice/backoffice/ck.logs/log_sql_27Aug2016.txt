@@ -1,0 +1,32 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2016 19:0:01 h
+SQL ERROR : INSERT INTO tb_voucher (voucher_user_id, voucher_user_name, voucher_pass, voucher_company, voucher_status, voucher_create) VALUES ('2', 'ทิพากร การถาง', '9PYM52UZ1EQCWT', NULL, '1', '27/08/2016 19:30 PM')
+MSG ERROR : Column 'voucher_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2016 19:0:03 h
+SQL ERROR : INSERT INTO tb_voucher (voucher_user_id, voucher_user_name, voucher_pass, voucher_company, voucher_status, voucher_create) VALUES ('2', 'ทิพากร การถาง', '9PYM52UZ1EQCWT', NULL, '1', '27/08/2016 19:30 PM')
+MSG ERROR : Column 'voucher_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2016 19:0:04 h
+SQL ERROR : INSERT INTO tb_voucher (voucher_user_id, voucher_user_name, voucher_pass, voucher_company, voucher_status, voucher_create) VALUES ('2', 'ทิพากร การถาง', '9PYM52UZ1EQCWT', NULL, '1', '27/08/2016 19:30 PM')
+MSG ERROR : Column 'voucher_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2016 19:0:04 h
+SQL ERROR : INSERT INTO tb_voucher (voucher_user_id, voucher_user_name, voucher_pass, voucher_company, voucher_status, voucher_create) VALUES ('2', 'ทิพากร การถาง', '9PYM52UZ1EQCWT', NULL, '1', '27/08/2016 19:30 PM')
+MSG ERROR : Column 'voucher_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2016 19:0:04 h
+SQL ERROR : INSERT INTO tb_voucher (voucher_user_id, voucher_user_name, voucher_pass, voucher_company, voucher_status, voucher_create) VALUES ('2', 'ทิพากร การถาง', '9PYM52UZ1EQCWT', NULL, '1', '27/08/2016 19:30 PM')
+MSG ERROR : Column 'voucher_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2016 19:0:04 h
+SQL ERROR : INSERT INTO tb_voucher (voucher_user_id, voucher_user_name, voucher_pass, voucher_company, voucher_status, voucher_create) VALUES ('2', 'ทิพากร การถาง', '9PYM52UZ1EQCWT', NULL, '1', '27/08/2016 19:30 PM')
+MSG ERROR : Column 'voucher_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2016 19:0:14 h
+SQL ERROR : INSERT INTO tb_voucher (voucher_user_id, voucher_user_name, voucher_pass, voucher_company, voucher_status, voucher_create) VALUES ('2', 'ทิพากร การถาง', '9PYM52UZ1EQCWT', NULL, '1', '27/08/2016 19:30 PM')
+MSG ERROR : Column 'voucher_company' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 27/08/2016 19:0:52 h
+SQL ERROR : INSERT INTO tb_voucher (voucher_user_id, voucher_user_name, voucher_pass, voucher_company, voucher_status, voucher_create) VALUES ('2', 'ทิพากร การถาง', '52UZ1EQCWTKRS6', NULL, '1', '27/08/2016 19:30 PM')
+MSG ERROR : Column 'voucher_company' cannot be null
+

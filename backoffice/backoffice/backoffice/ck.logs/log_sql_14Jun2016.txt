@@ -1,0 +1,24 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 14/06/2016 10:0:05 h
+SQL ERROR : INSERT INTO ck_insurance_cost (insurance_id, inscost_repair, inscost_brand, inscost_gen, inscost_minamount, inscost_maxamount, inscost_premamount, inscost_taxamount, inscost_minyear, inscost_maxyear) VALUES (NULL, 'park', 'Toyota', 'Camry', '35000', '55000', '65000', '70000', '3', '5')
+MSG ERROR : Column 'insurance_id' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 14/06/2016 10:0:50 h
+SQL ERROR : INSERT INTO ck_insurance_protect (protect_name, protect_cost, protect_type, insurance_id) VALUES ('1', '11000', 'ความรับผิดชอบต่อบุคคลภายนอก', NULL)
+MSG ERROR : Column 'insurance_id' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 14/06/2016 13:0:56 h
+SQL ERROR : INSERT INTO ck_insurer (insurer_name, insurer_tel, insurer_email, insurer_fix, insurer_hall, insurer_park, insurer_pic) VALUES ('test', '11111111', 'test', NULL, 0, 0, '14062016133356logo.jpg')
+MSG ERROR : Unknown column 'insurer_fix' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 14/06/2016 13:0:58 h
+SQL ERROR : INSERT INTO ck_insurer (insurer_name, insurer_tel, insurer_email, insurer_fix, insurer_hall, insurer_park, insurer_pic) VALUES ('test', '11111111', 'test', NULL, 0, 0, '14062016133358logo.jpg')
+MSG ERROR : Unknown column 'insurer_fix' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 14/06/2016 14:0:08 h
+SQL ERROR : INSERT INTO ck_insurance_class (class_name) VALUES (NULL)
+MSG ERROR : Column 'class_name' cannot be null
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 14/06/2016 14:0:22 h
+SQL ERROR : INSERT INTO ck_insurance_class (class_name) VALUES (NULL)
+MSG ERROR : Column 'class_name' cannot be null
+

@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/11/2016 21:0:42 h
+SQL ERROR : INSERT INTO tb_counselors (course_titleth, course_titleen, counselors_fullnameth, counselors_fullnameen, counselors_education, counselors_position, counselors_tel, counselors_email, counselors_line, counselors_pic, counselors_location, counselors_create) VALUES (NULL, NULL, 'Tipakorn Khanthang', 'Tipakorn Khanthang', 'BBA information technology', 'Programmer', '+66857527341', 'menunreal47@gmail.com', '+66857527341', '20161129214342.jpg', 'Bangkok', '2016-11-29 21:43:42')
+MSG ERROR : Unknown column 'course_titleth' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/11/2016 21:0:45 h
+SQL ERROR : INSERT INTO tb_counselors (course_titleth, course_titleen, counselors_fullnameth, counselors_fullnameen, counselors_education, counselors_position, counselors_tel, counselors_email, counselors_line, counselors_pic, counselors_location, counselors_create) VALUES (NULL, NULL, 'Tipakorn Khanthang', 'Tipakorn Khanthang', 'BBA information technology', 'Programmer', '+66857527341', 'menunreal47@gmail.com', '+66857527341', '20161129214345.jpg', 'Bangkok', '2016-11-29 21:43:45')
+MSG ERROR : Unknown column 'course_titleth' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/11/2016 21:0:51 h
+SQL ERROR : INSERT INTO tb_counselors (course_titleth, course_titleen, counselors_fullnameth, counselors_fullnameen, counselors_education, counselors_position, counselors_tel, counselors_email, counselors_line, counselors_pic, counselors_location, counselors_create) VALUES (NULL, NULL, 'Tipakorn Khanthang', 'Tipakorn Khanthang', 'BBA information technology', 'Programmer', '+66857527341', 'menunreal47@gmail.com', '+66857527341', '20161129214351.jpg', 'Bangkok', '2016-11-29 21:43:51')
+MSG ERROR : Unknown column 'course_titleth' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 29/11/2016 21:0:39 h
+SQL ERROR : INSERT INTO tb_counselors (course_titleth, course_titleen, counselors_fullnameth, counselors_fullnameen, counselors_education, counselors_position, counselors_tel, counselors_email, counselors_line, counselors_pic, counselors_location, counselors_create) VALUES (NULL, NULL, 'Tipakorn Khanthang', 'Tipakorn Khanthang', 'BBA information technology', 'Programmer', '+66857527341', 'menunreal47@gmail.com', '+66857527341', '20161129214539.jpg', 'Bangkok', '2016-11-29 21:45:39')
+MSG ERROR : Unknown column 'course_titleth' in 'field list'
+

@@ -1,0 +1,5 @@
+[05-Sep-2015 10:31:53 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\service\view\frm-index.php on line 167
+[05-Sep-2015 15:28:20 Asia/Bangkok] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\slideimage\ck.class.php on line 46
+[05-Sep-2015 15:28:20 Asia/Bangkok] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\slideimage\ck.class.php on line 47
+[05-Sep-2015 15:28:20 Asia/Bangkok] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\slideimage\ck.class.php on line 48
+[05-Sep-2015 15:28:20 Asia/Bangkok] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in C:\xampp_new\htdocs\chapanakit\backoffice\backoffice\slideimage\ck.class.php on line 50

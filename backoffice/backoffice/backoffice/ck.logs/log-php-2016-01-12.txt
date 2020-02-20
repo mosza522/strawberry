@@ -1,0 +1,10 @@
+[12-Jan-2016 10:50:56 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 73
+[12-Jan-2016 10:58:20 Asia/Bangkok] PHP Warning:  substr() expects at least 2 parameters, 0 given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 129
+[12-Jan-2016 10:58:35 Asia/Bangkok] PHP Warning:  substr() expects at least 2 parameters, 0 given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 129
+[12-Jan-2016 10:58:44 Asia/Bangkok] PHP Warning:  substr() expects at least 2 parameters, 0 given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 129
+[12-Jan-2016 10:58:56 Asia/Bangkok] PHP Warning:  substr() expects at least 2 parameters, 0 given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 129
+[12-Jan-2016 10:59:08 Asia/Bangkok] PHP Warning:  substr() expects at least 2 parameters, 0 given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 129
+[12-Jan-2016 10:59:21 Asia/Bangkok] PHP Warning:  substr() expects at least 2 parameters, 0 given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 129
+[12-Jan-2016 10:59:48 Asia/Bangkok] PHP Warning:  substr() expects at least 2 parameters, 0 given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 129
+[12-Jan-2016 11:40:28 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 210
+[12-Jan-2016 11:40:28 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in D:\xampp\htdocs\snakemuseum\main\ticket.php on line 210

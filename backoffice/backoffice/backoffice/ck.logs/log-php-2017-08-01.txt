@@ -1,0 +1,32 @@
+[01-Aug-2017 09:52:21 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\siam\backoffice\product\addproduct.php on line 32
+[01-Aug-2017 10:15:03 Asia/Bangkok] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\siam\backoffice\product\addproduct.php on line 32
+[01-Aug-2017 11:19:22 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in C:\xampp\htdocs\siam\backoffice\user\home.php on line 17
+[01-Aug-2017 11:20:06 Asia/Bangkok] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in C:\xampp\htdocs\siam\backoffice\user\home.php on line 18
+[01-Aug-2017 11:59:01 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\siam\backoffice\user\confirmuser.php on line 68
+[01-Aug-2017 11:59:01 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\siam\backoffice\user\confirmuser.php on line 113
+[01-Aug-2017 11:59:01 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\siam\backoffice\user\confirmuser.php on line 114
+[01-Aug-2017 12:00:23 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\siam\backoffice\user\confirmuser.php on line 68
+[01-Aug-2017 12:00:23 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\siam\backoffice\user\confirmuser.php on line 113
+[01-Aug-2017 12:00:23 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\siam\backoffice\user\confirmuser.php on line 114
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(inc_head.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 26
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_head.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 26
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(inc_sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 27
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 27
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(inc_sidebar_footer.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 28
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_sidebar_footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 28
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(inc_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 31
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 31
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(inc_footer.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 120
+[01-Aug-2017 16:32:14 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 120
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(inc_head.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 26
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_head.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 26
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(inc_sidebar.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 27
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 27
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(inc_sidebar_footer.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 28
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_sidebar_footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 28
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(inc_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 31
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 31
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(inc_footer.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 120
+[01-Aug-2017 16:32:18 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc_footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\user\checkandconfirm.php on line 120
+[01-Aug-2017 17:18:37 Asia/Bangkok] PHP Warning:  include(inc-head.php): failed to open stream: No such file or directory in C:\xampp\htdocs\siam\backoffice\checkandconfirmuser.php on line 12
+[01-Aug-2017 17:18:37 Asia/Bangkok] PHP Warning:  include(): Failed opening 'inc-head.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\siam\backoffice\checkandconfirmuser.php on line 12

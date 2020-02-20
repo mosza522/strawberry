@@ -1,0 +1,16 @@
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 02/12/2016 11:0:41 h
+SQL ERROR : SELECT * FROM tb_about 
+MSG ERROR : Table 'zmen_cpinterweb.tb_about' doesn't exist
+
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 02/12/2016 11:0:46 h
+SQL ERROR : SELECT * FROM tb_about 
+MSG ERROR : Table 'zmen_cpinterweb.tb_about' doesn't exist
+
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 02/12/2016 11:0:17 h
+SQL ERROR : SELECT * FROM tb_about 
+MSG ERROR : Table 'zmen_cpinterweb.tb_about' doesn't exist
+
+ERROR : MySql query failed	IP : 58.9.99.218 	DATE/TIME : 02/12/2016 11:0:18 h
+SQL ERROR : SELECT * FROM tb_about 
+MSG ERROR : Table 'zmen_cpinterweb.tb_about' doesn't exist
+

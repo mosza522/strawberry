@@ -1,0 +1,2 @@
+[26-Feb-2016 10:59:05 Asia/Bangkok] PHP Warning:  unlink(../../images/alevel/): Is a directory in /home/ztoey/domains/toey.avc-holding.com/public_html/bangkok5starsescort/backoffice/Alevel/upalevel.php on line 39
+[26-Feb-2016 10:59:05 Asia/Bangkok] PHP Warning:  unlink(../../images/alevel/): Is a directory in /home/ztoey/domains/toey.avc-holding.com/public_html/bangkok5starsescort/backoffice/Alevel/upalevel.php on line 59

@@ -1,0 +1,20 @@
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/08/2015 09:0:21 h
+SQL ERROR : SELECT * FROM ck_deposit_voice    ORDER BY deposit_voice asc  LIMIT 0, 25
+MSG ERROR : Unknown column 'deposit_voice' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/08/2015 09:0:51 h
+SQL ERROR : SELECT * FROM ck_deposit_voice    ORDER BY deposit_voice_id asc  LIMIT 0, 25
+MSG ERROR : Unknown column 'deposit_voice_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/08/2015 09:0:11 h
+SQL ERROR : SELECT * FROM ck_deposit_voice    ORDER BY deposit_voice_id asc  LIMIT 0, 25
+MSG ERROR : Unknown column 'deposit_voice_id' in 'order clause'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/08/2015 15:0:03 h
+SQL ERROR : INSERT INTO ck_voice_actor (voice_actor_name, voice_actor_email, voice_actor_tel, voice_actor_gender, language_voice_id, type_voice_id) VALUES ('test', 'test@gmail.com', '123456879', '0', '1', '1')
+MSG ERROR : Unknown column 'voice_actor_email' in 'field list'
+
+ERROR : MySql query failed	IP : ::1 	DATE/TIME : 08/08/2015 15:0:04 h
+SQL ERROR : UPDATE ck_voice_actor SET voice_actor_pic = 'actor20150808150504.gif'  WHERE voice_acor_id = '1'
+MSG ERROR : Unknown column 'voice_acor_id' in 'where clause'
+
